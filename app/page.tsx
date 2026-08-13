@@ -1,5 +1,6 @@
 import { FeaturedPost } from "@/components/featured-post";
 import { PostCard } from "@/components/post-card";
+import { SearchBar } from "@/components/search";
 import { getAllPosts, getAllTags, getLatestPost } from "@/lib/posts";
 import type { Post } from "@/lib/types";
 
@@ -50,6 +51,16 @@ export default function HomePage() {
                 <a href="#temas" className="btn btn-ghost" data-analytics="hero_ver_guias">
                   Recorre por tema <span aria-hidden="true">↓</span>
                 </a>
+              </div>
+              <div className="home-search">
+                <SearchBar
+                  posts={posts.map((post) => ({
+                    slug: post.slug,
+                    title: post.title,
+                    excerpt: post.excerpt,
+                    tags: post.tags.map((tag) => tag.name),
+                  }))}
+                />
               </div>
             </div>
             <div className="hero-stamp" aria-hidden="true">
