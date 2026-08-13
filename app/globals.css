@@ -146,36 +146,47 @@ a {
 
 /* ---------- Top banner (ventas) ---------- */
 .top-banner {
-  background: var(--ink);
-  color: var(--paper);
-  text-align: center;
+  background: #f5f4f1;
+  padding: 9px 0;
 }
 
-[data-theme="dark"] .top-banner {
-  background: var(--accent-600);
-}
-
-.top-banner-inner {
+.top-banner-container {
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
-  padding: 0.5rem 1rem;
-  font-size: 0.85rem;
+  justify-content: flex-end;
+  gap: 10px;
 }
 
-.top-banner .top-banner-label {
+.top-banner-label {
+  font-family: var(--font-sans);
+  font-size: 15px;
   font-weight: 600;
+  color: #1d1c1c;
 }
 
-.top-banner a {
+.top-banner-link {
   display: inline-flex;
   align-items: center;
-  gap: 0.35rem;
-  color: #fff;
-  font-weight: 600;
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  gap: 7px;
+  font-family: var(--font-sans);
+  font-size: 15px;
+  font-weight: 700;
+  color: #25d366;
+}
+
+.top-banner-link:hover {
+  opacity: 0.75;
+}
+
+.top-banner-link-icon {
+  display: inline-flex;
+  font-size: 18px;
+  line-height: 1;
+}
+
+.top-banner-link-icon svg {
+  width: 18px;
+  height: 18px;
 }
 
 /* ---------- Navbar ---------- */
