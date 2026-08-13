@@ -28,6 +28,13 @@ export default function HomePage() {
   const latest = getLatestPost();
   const sections = groupPostsByTag(posts);
 
+  const searchIndex = posts.map((post) => ({
+    slug: post.slug,
+    title: post.title,
+    excerpt: post.excerpt,
+    tags: post.tags.map((tag) => tag.name),
+  }));
+
   return (
     <>
       <section className="home-hero">
@@ -48,19 +55,9 @@ export default function HomePage() {
                 <a href="https://wabog.com" className="btn btn-accent" data-analytics="hero_empieza_gratis">
                   Empieza 15 días gratis
                 </a>
-                <a href="#temas" className="btn btn-ghost" data-analytics="hero_ver_guias">
-                  Recorre por tema <span aria-hidden="true">↓</span>
+                <a href="#guias" className="btn btn-ghost" data-analytics="hero_ver_guias">
+                  Ver guías <span aria-hidden="true">↓</span>
                 </a>
-              </div>
-              <div className="home-search">
-                <SearchBar
-                  posts={posts.map((post) => ({
-                    slug: post.slug,
-                    title: post.title,
-                    excerpt: post.excerpt,
-                    tags: post.tags.map((tag) => tag.name),
-                  }))}
-                />
               </div>
             </div>
             <div className="hero-stamp" aria-hidden="true">
@@ -71,50 +68,37 @@ export default function HomePage() {
               </div>
             </div>
           </div>
-        </div>
-      </section>
 
-      <section className="chapters" id="temas">
-        <div className="container">
-          <span className="chapters-kicker">Recorre por tema</span>
-          <div className="chapters-grid">
-            {getAllTags().map((tag) => (
-              <a key={tag.slug} href={`/tag/${tag.slug}`} className="chapter-card">
-                <span className="chapter-card-top">
-                  <span className="chapter-card-kicker">CAP.</span>
-                  <span className="chapter-card-count">{tag.count} {tag.count === 1 ? "artículo" : "artículos"}</span>
-                </span>
-                <strong className="chapter-card-title">{tag.name}</strong>
-                <span className="chapter-card-link">Ver todo <span aria-hidden="true">→</span></span>
-              </a>
-            ))}
+          <div className="home-search">
+            <SearchBar posts={searchIndex} />
           </div>
         </div>
       </section>
 
-      {sections.map((section, index) => (
-        <section key={section.slug} className="cat-section">
-          <div className="container">
-            <div className="cat-head">
-              <span className="cat-kicker">Capítulo {String(index + 1).padStart(2, "0")}</span>
-              <h2 className="cat-title">{section.name}</h2>
-              <p className="cat-sub">
-                {section.posts.length}{" "}
-                {section.posts.length === 1 ? "artículo sobre este tema." : "artículos sobre este tema."}
-              </p>
-            </div>
+      <div id="guias">
+        {sections.map((section) => (
+          <section key={section.slug} className="cat-section">
+            <div className="container">
+              <div className="cat-head">
+                <h2 className="cat-title">{section.name}</h2>
+                <p className="cat-sub">
+                  {section.posts.length}{" "}
+                  {section.posts.length === 1 ? "artículo sobre este tema." : "artículos sobre este tema."}
+                </p>
+              </div>
 
-            <div className="cat-layout">
-              <FeaturedPost post={section.posts[0]} />
-              <div className="posts-grid">
-                {section.posts.slice(1).map((post) => (
-                  <PostCard key={post.slug} post={post} />
-                ))}
+              <div className="cat-layout">
+                <FeaturedPost post={section.posts[0]} />
+                <div className="posts-grid">
+                  {section.posts.slice(1).map((post) => (
+                    <PostCard key={post.slug} post={post} />
+                  ))}
+                </div>
               </div>
             </div>
-          </div>
-        </section>
-      ))}
+          </section>
+        ))}
+      </div>
 
       {latest ? (
         <section className="home-closing-cta">
