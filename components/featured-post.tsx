@@ -10,6 +10,7 @@ export function FeaturedPost({ post }: { post: Post }) {
         <Cover src={post.coverImage} title={post.title} />
       </Link>
       <div className="featured-card-body">
+        <span className="featured-badge">Destacado</span>
         <Link href={`/tag/${post.tags[0]?.slug}`} className="post-tag-pill">
           {post.tags[0]?.name ?? "Wabog"}
         </Link>
