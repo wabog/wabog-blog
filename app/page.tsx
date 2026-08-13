@@ -45,18 +45,9 @@ export default function HomePage() {
               La justicia colombiana, explicada para no perder tus{" "}
               <em>términos</em>
             </h1>
-            <p className="home-subtitle">
-              Guías prácticas sobre la Rama Judicial, radicados y vigilancia
-              procesal. Escritas por el equipo de Wabog para abogados y
-              despachos que quieren dejar de revisar procesos a mano.
-            </p>
 
             <div className="search-hero">
-              <span className="search-hero-label">Buscar en el blog</span>
-              <SearchBar
-                posts={searchIndex}
-                suggestions={["Rama Judicial", "Radicado", "Tutela", "Guías"]}
-              />
+              <SearchBar posts={searchIndex} />
             </div>
 
             <div className="home-actions">
