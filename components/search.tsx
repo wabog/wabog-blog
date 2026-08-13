@@ -17,7 +17,10 @@ function normalize(value: string): string {
     .replace(/[\u0300-\u036f]/g, "");
 }
 
-export function SearchBar({ posts }: { posts: SearchIndexItem[] }) {
+export function SearchBar({
+  posts,
+  suggestions = [],
+}: { posts: SearchIndexItem[]; suggestions?: string[] }) {
   const [query, setQuery] = useState("");
   const [open, setOpen] = useState(false);
   const wrapRef = useRef<HTMLDivElement>(null);
@@ -91,6 +94,25 @@ export function SearchBar({ posts }: { posts: SearchIndexItem[] }) {
           </button>
         ) : null}
       </div>
+
+      {!hasQuery && suggestions.length > 0 ? (
+        <div className="search-chips">
+          <span className="search-chips-label">Búsquedas populares</span>
+          {suggestions.map((suggestion) => (
+            <button
+              key={suggestion}
+              type="button"
+              className="search-chip"
+              onClick={() => {
+                setQuery(suggestion);
+                setOpen(true);
+              }}
+            >
+              {suggestion}
+            </button>
+          ))}
+        </div>
+      ) : null}
 
       {showDropdown ? (
         <div className="search-dropdown" role="listbox" aria-label="Resultados de búsqueda">

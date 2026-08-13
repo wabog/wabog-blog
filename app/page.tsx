@@ -39,38 +39,34 @@ export default function HomePage() {
     <>
       <section className="home-hero">
         <div className="container">
-          <div className="hero-grid">
-            <div className="hero-copy">
-              <span className="home-eyebrow">El blog de Wabog · Colombia</span>
-              <h1 className="home-title">
-                La justicia colombiana, explicada para no perder tus{" "}
-                <em>términos</em>
-              </h1>
-              <p className="home-subtitle">
-                Guías prácticas sobre la Rama Judicial, radicados y vigilancia
-                procesal. Escritas por el equipo de Wabog para abogados y
-                despachos que quieren dejar de revisar procesos a mano.
-              </p>
-              <div className="home-actions">
-                <a href="https://wabog.com" className="btn btn-accent" data-analytics="hero_empieza_gratis">
-                  Empieza 15 días gratis
-                </a>
-                <a href="#guias" className="btn btn-ghost" data-analytics="hero_ver_guias">
-                  Ver guías <span aria-hidden="true">↓</span>
-                </a>
-              </div>
-            </div>
-            <div className="hero-stamp" aria-hidden="true">
-              <div className="hero-stamp-ring">
-                <span>⚖</span>
-                <strong>{posts.length}</strong>
-                <small>guías publicadas</small>
-              </div>
-            </div>
-          </div>
+          <div className="hero-center">
+            <span className="home-eyebrow">El blog de Wabog · Colombia</span>
+            <h1 className="home-title">
+              La justicia colombiana, explicada para no perder tus{" "}
+              <em>términos</em>
+            </h1>
+            <p className="home-subtitle">
+              Guías prácticas sobre la Rama Judicial, radicados y vigilancia
+              procesal. Escritas por el equipo de Wabog para abogados y
+              despachos que quieren dejar de revisar procesos a mano.
+            </p>
 
-          <div className="home-search">
-            <SearchBar posts={searchIndex} />
+            <div className="search-hero">
+              <span className="search-hero-label">Buscar en el blog</span>
+              <SearchBar
+                posts={searchIndex}
+                suggestions={["Rama Judicial", "Radicado", "Tutela", "Guías"]}
+              />
+            </div>
+
+            <div className="home-actions">
+              <a href="https://wabog.com" className="btn btn-accent" data-analytics="hero_empieza_gratis">
+                Empieza 15 días gratis
+              </a>
+              <a href="#guias" className="btn btn-ghost" data-analytics="hero_ver_guias">
+                Ver guías <span aria-hidden="true">↓</span>
+              </a>
+            </div>
           </div>
         </div>
       </section>
