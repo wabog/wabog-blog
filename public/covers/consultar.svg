@@ -1,0 +1,28 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="675">
+      <stop stop-color="#0B2A7D"/>
+      <stop offset="1" stop-color="#1454FA"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.9" cy="0.15" r="0.85">
+      <stop stop-color="white" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#glow)"/>
+  <g stroke="white" stroke-opacity="0.08" stroke-width="1">
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/>
+    <line x1="0" y1="450" x2="1200" y2="450"/>
+    <line x1="300" y1="0" x2="300" y2="675"/>
+    <line x1="600" y1="0" x2="600" y2="675"/>
+    <line x1="900" y1="0" x2="900" y2="675"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="72" y="96" font-size="20" font-weight="600" fill="rgba(255,255,255,0.75)" letter-spacing="3">WABOG · GESTIÓN LEGAL INTELIGENTE</text>
+    <text x="72" y="420" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#FFFFFF">Cómo consultar procesos</text>
+    <text x="72" y="488" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#FFFFFF">judiciales en línea:</text>
+    <text x="72" y="556" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#FFFFFF">guía paso a paso</text>
+  </g>
+</svg>
