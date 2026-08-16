@@ -1,219 +1,80 @@
-import type { Post } from "./types";
-import { withReadingTime } from "./reading-time";
+import fs from "node:fs";
+import path from "node:path";
+import { estimateReadingTime } from "./reading-time";
+import type { BlogTag, Post } from "./types";
 
-const posts: Post[] = [
-  withReadingTime({
-    slug: "que-es-un-radicado-rama-judicial",
-    title: "Qué es un radicado y por qué es clave en la justicia colombiana",
-    date: "2026-08-10",
-    updatedAt: "2026-08-12",
-    tags: [{ slug: "rama-judicial", name: "Rama Judicial" }, { slug: "guias", name: "Guías" }],
-    excerpt:
-      "El número de radicado es la identidad de tu proceso judicial. Te explicamos qué es, cómo leerlo y por qué es la puerta de entrada a la vigilancia procesal automatizada.",
-    coverImage: "/covers/radicado.svg",
-    author: "Equipo Wabog",
-    blocks: [
-      {
-        type: "tldr",
-        text: "El radicado es el número único de 23 dígitos que identifica un proceso judicial en Colombia. Sin él no puedes consultar ni vigilar tu caso ante la Rama Judicial.",
-      },
-      {
-        type: "paragraph",
-        text: "Si alguna vez has tenido un proceso en Colombia, seguramente escuchaste la pregunta: «¿cuál es tu número de radicado?». Esa cifra, que parece un simple dato administrativo, es en realidad la identidad de tu proceso: sin ella no existe una manera oficial de localizarlo, seguirlo ni consultarlo.",
-      },
-      {
-        type: "heading",
-        level: 2,
-        text: "¿Qué es exactamente un radicado?",
-      },
-      {
-        type: "paragraph",
-        text: "Un radicado es el código numérico único que la Rama Judicial asigna a cada proceso cuando es admitido. Funciona como la cédula del proceso: lo identifica de manera inequívoca frente a juzgados, tribunales y despachos de todo el país.",
-      },
-      {
-        type: "quote",
-        text: "El radicado es la llave que conecta tu caso con el expediente digital de la justicia colombiana.",
-        cite: "Guía Wabog de vigilancia procesal",
-      },
-      {
-        type: "heading",
-        level: 3,
-        text: "¿Cómo se compone un número de 23 dígitos?",
-      },
-      {
-        type: "paragraph",
-        text: "El formato estándar del Consejo Superior de la Judicatura es de 23 dígitos, y cada grupo tiene un significado:",
-      },
-      {
-        type: "table",
-        headers: ["Grupo", "Dígitos", "Qué significa"],
-        rows: [
-          ["1", "1–5", "Despacho judicial (código del juzgado o tribunal)"],
-          ["2", "6–7", "Tipo de proceso (ejecutivo, ordinario, penal…)"],
-          ["3", "8–9", "Año de radicación"],
-          ["4", "10–23", "Número consecutivo del proceso"],
-        ],
-      },
-      {
-        type: "callout",
-        tone: "info",
-        title: "Dato clave",
-        text: "Un radicado bien digitado es la diferencia entre encontrar tu proceso en segundos o perder horas buscando entre consultas incorrectas.",
-      },
-      {
-        type: "heading",
-        level: 2,
-        text: "¿Qué tipos de radicado existen?",
-      },
-      {
-        type: "list",
-        ordered: false,
-        items: [
-          "Radicado de primera instancia: el número inicial con el que nace el proceso.",
-          "Radicado de segunda instancia: se genera al apelar o interponer recursos ante el tribunal.",
-          "Radicado de tutela: para acciones de tutela, con reglas y plazos propios.",
-        ],
-      },
-      {
-        type: "paragraph",
-        text: "Aunque cambien las instancias, el vínculo entre números permite reconstruir la historia completa del proceso.",
-      },
-      {
-        type: "cta_pill",
-        label: "Vigila tu radicado gratis por 15 días",
-        href: "https://wabog.com",
-      },
-      {
-        type: "faq",
-        items: [
-          {
-            question: "¿Dónde encuentro el radicado de mi proceso?",
-            answer:
-              "En la notificación inicial de tu proceso, en el certificado de existencia, en las consultas de la Rama Judicial o preguntándole a tu apoderado.",
-          },
-          {
-            question: "¿El radicado cambia cuando el proceso sube a segunda instancia?",
-            answer:
-              "Sí: la segunda instancia recibe un nuevo número, pero siempre queda vinculado al radicado original a través del sistema.",
-          },
-          {
-            question: "¿Puedo vigilar varios radicados a la vez?",
-            answer:
-              "Sí. Con Wabog puedes registrar todos tus radicados y recibir una alerta en WhatsApp cada vez que el juzgado registre una actuación nueva.",
-          },
-        ],
-      },
-    ],
-  }),
-  withReadingTime({
-    slug: "consultar-procesos-judiciales-en-linea",
-    title: "Cómo consultar procesos judiciales en línea: guía paso a paso",
-    date: "2026-08-05",
-    tags: [{ slug: "rama-judicial", name: "Rama Judicial" }, { slug: "tutoriales", name: "Tutoriales" }],
-    excerpt:
-      "Aprende a consultar cualquier proceso de la Rama Judicial de Colombia desde tu computador o celular, gratis y en pocos minutos, con el número de radicado correcto.",
-    coverImage: "/covers/consultar.svg",
-    author: "Equipo Wabog",
-    blocks: [
-      {
-        type: "paragraph",
-        text: "Consultar el estado de un proceso judicial en Colombia ya no requiere ir al juzgado ni esperar a que te notifiquen por correo físico. La Rama Judicial publica la información de los expedientes en línea y, con la guía correcta, puedes verificarla tú mismo en minutos.",
-      },
-      {
-        type: "heading",
-        level: 2,
-        text: "Requisitos antes de empezar",
-      },
-      {
-        type: "list",
-        ordered: true,
-        items: [
-          "Ten a la mano el número de radicado (23 dígitos).",
-          "Asegúrate de que el proceso sea de consulta pública.",
-          "Conectate desde un navegador actualizado (Chrome, Safari o Edge).",
-        ],
-      },
-      {
-        type: "callout",
-        tone: "warning",
-        title: "Ojo con los errores de digitación",
-        text: "Un solo dígito mal escrito devuelve «proceso no encontrado». Copia y pega el radicado si es posible.",
-      },
-      {
-        type: "heading",
-        level: 3,
-        text: "Formato del radicado",
-      },
-      {
-        type: "code",
-        lang: "text",
-        code: "05001-31-03-003-2020-00123-00",
-      },
-      {
-        type: "paragraph",
-        text: "Es común escribirlo con guiones para agrupar los dígitos, pero los buscadores de la Rama Judicial aceptan el número continuo de 23 dígitos.",
-      },
-      {
-        type: "heading",
-        level: 2,
-        text: "Paso a paso",
-      },
-      {
-        type: "list",
-        ordered: true,
-        items: [
-          "Entra al portal de consulta de procesos de la Rama Judicial.",
-          "Selecciona la especialidad correcta (civil, penal, laboral, etc.).",
-          "Elige la opción de búsqueda «por número de radicación».",
-          "Ingresa el radicado y pulsa consultar.",
-          "Revisa el último movimiento y las actuaciones registradas.",
-        ],
-      },
-      {
-        type: "youtube",
-        videoId: "dQw4w9WgXcQ",
-      },
-      {
-        type: "divider",
-      },
-      {
-        type: "callout",
-        tone: "success",
-        title: "El paso siguiente: vigilancia automatizada",
-        text: "Consultar manualmente funciona, pero revisar a mano cada día es insostenible. Wabog vigila tus radicados en tiempo real y te avisa por WhatsApp en el instante en que aparece una actuación nueva.",
-      },
-      {
-        type: "table",
-        headers: ["Método", "Frecuencia", "Esfuerzo"],
-        rows: [
-          ["Consulta manual", "Cuando te acuerdes", "Alto"],
-          ["Recordatorios de calendario", "Periódica", "Medio"],
-          ["Wabog (alertas por WhatsApp)", "Tiempo real", "Cero"],
-        ],
-      },
-      {
-        type: "faq",
-        items: [
-          {
-            question: "¿La consulta en línea es gratuita?",
-            answer:
-              "Sí. La Rama Judicial ofrece consulta pública gratuita de los procesos en la mayoría de las especialidades.",
-          },
-          {
-            question: "¿Qué pasa si no aparece mi proceso?",
-            answer:
-              "Verifica la especialidad y el radicado. Si sigue sin aparecer, el proceso puede ser de acceso restringido o el juzgado aún no lo ha indexado.",
-          },
-        ],
-      },
-      {
-        type: "cta_pill",
-        label: "Prueba Wabog gratis",
-        href: "https://wabog.com",
-      },
-    ],
-  }),
-];
+const CONTENT_DIR = path.join(process.cwd(), "content", "posts");
+
+/** Taxonomía curada y alineada con el producto: slug -> nombre visible. */
+const CURATED_TAGS: Record<string, string> = {
+  "vigilancia-judicial": "Vigilancia judicial",
+  "ia-legal": "IA para abogados",
+  legaltech: "LegalTech",
+  "marketing-legal": "Marketing jurídico",
+  "panorama-juridico": "Panorama jurídico",
+};
+
+/** Alias de tags legados de Ghost hacia la taxonomía curada. */
+const TAG_ALIASES: Record<string, string> = {
+  "vigilancia-judicial-2": "vigilancia-judicial",
+  "alertas-judiciales": "vigilancia-judicial",
+  notificaciones: "vigilancia-judicial",
+  whatsapp: "vigilancia-judicial",
+  ia: "ia-legal",
+  confidencialidad: "ia-legal",
+  "etica-legal": "ia-legal",
+  errores: "ia-legal",
+  automatizacion: "legaltech",
+  marketing: "marketing-legal",
+  abogados: "marketing-legal",
+  clientes: "marketing-legal",
+  legal: "panorama-juridico",
+  tendencias: "panorama-juridico",
+};
+
+/** Posts sin tags en Ghost, clasificados manualmente por slug. */
+const POST_TAG_OVERRIDES: Record<string, string[]> = {
+  "como-crear-estrategia-legaltech-despacho": ["legaltech"],
+  "por-que-tu-despacho-necesita-software-de-vigilancia-judicial-en-2026-4": [
+    "vigilancia-judicial",
+  ],
+  "el-futuro-de-la-practica-legal-en-colombia-3-tendencias-que-estan-transformando-los-despachos": [
+    "panorama-juridico",
+    "legaltech",
+  ],
+};
+
+function normalizeTags(post: Post): BlogTag[] {
+  const source = POST_TAG_OVERRIDES[post.slug] ?? post.tags.map((t) => TAG_ALIASES[t.slug] ?? t.slug);
+
+  const seen = new Set<string>();
+  const tags: BlogTag[] = [];
+  for (const slug of source) {
+    const name = CURATED_TAGS[slug];
+    if (!name || seen.has(slug)) continue;
+    seen.add(slug);
+    tags.push({ slug, name });
+  }
+  return tags.length > 0 ? tags : [{ slug: "guias", name: "Guías" }];
+}
+
+function loadPosts(): Post[] {
+  if (!fs.existsSync(CONTENT_DIR)) return [];
+  const files = fs.readdirSync(CONTENT_DIR).filter((f) => f.endsWith(".json"));
+
+  return files
+    .map((file) => {
+      const raw = JSON.parse(fs.readFileSync(path.join(CONTENT_DIR, file), "utf8")) as Post;
+      return {
+        ...raw,
+        tags: normalizeTags(raw),
+        readingTime: estimateReadingTime(raw.blocks),
+      };
+    })
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+}
+
+const posts: Post[] = loadPosts();
 
 export function getAllPosts(): Post[] {
   return posts;
@@ -242,6 +103,10 @@ export function getAllTags(): { slug: string; name: string; count: number }[] {
   return [...map.values()].sort((a, b) => b.count - a.count);
 }
 
+export function getCuratedTagOrder(): string[] {
+  return Object.keys(CURATED_TAGS);
+}
+
 export function getLatestPost(): Post | undefined {
-  return [...posts].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())[0];
+  return posts[0];
 }

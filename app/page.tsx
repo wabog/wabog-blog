@@ -1,8 +1,8 @@
+import Link from "next/link";
 import { FeaturedPost } from "@/components/featured-post";
 import { PostCard } from "@/components/post-card";
 import { SearchBar } from "@/components/search";
-import { getAllPosts, getAllTags, getLatestPost } from "@/lib/posts";
-import type { Post } from "@/lib/types";
+import { getAllPosts, getAllTags, getCuratedTagOrder, getLatestPost } from "@/lib/posts";
 
 export const metadata = {
   title: "Blog de Wabog — Gestión legal inteligente",
@@ -10,23 +10,14 @@ export const metadata = {
     "Guías y novedades sobre la Rama Judicial de Colombia, radicados, vigilancia procesal y automatización legal con la IA de Wabog.",
 };
 
-function groupPostsByTag(posts: Post[]) {
-  const sections: { slug: string; name: string; posts: Post[] }[] = [];
-  for (const tag of getAllTags()) {
-    const tagPosts = posts.filter((p) => p.tags.some((t) => t.slug === tag.slug));
-    if (tagPosts.length > 0) {
-      sections.push({ slug: tag.slug, name: tag.name, posts: tagPosts });
-    }
-  }
-  return sections;
-}
-
 export default function HomePage() {
-  const posts = getAllPosts().sort(
-    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
-  );
+  const posts = getAllPosts();
   const latest = getLatestPost();
-  const sections = groupPostsByTag(posts);
+  const tags = getAllTags();
+  const tagOrder = getCuratedTagOrder();
+  const orderedTags = tagOrder
+    .map((slug) => tags.find((t) => t.slug === slug))
+    .filter((t): t is NonNullable<typeof t> => Boolean(t));
 
   const searchIndex = posts.map((post) => ({
     slug: post.slug,
@@ -34,6 +25,8 @@ export default function HomePage() {
     excerpt: post.excerpt,
     tags: post.tags.map((tag) => tag.name),
   }));
+
+  const rest = latest ? posts.filter((p) => p.slug !== latest.slug) : posts;
 
   return (
     <>
@@ -54,61 +47,90 @@ export default function HomePage() {
               <a href="https://wabog.com" className="btn btn-accent" data-analytics="hero_empieza_gratis">
                 Empieza 15 días gratis
               </a>
-              <a href="#guias" className="btn btn-ghost" data-analytics="hero_ver_guias">
-                Ver guías <span aria-hidden="true">↓</span>
+              <a href="#articulos" className="btn btn-ghost" data-analytics="hero_ver_guias">
+                Ver artículos <span aria-hidden="true">↓</span>
               </a>
             </div>
           </div>
         </div>
       </section>
 
-      <div id="guias">
-        {sections.map((section) => (
-          <section key={section.slug} className="cat-section">
-            <div className="container">
-              <div className="cat-head">
-                <h2 className="cat-title">{section.name}</h2>
-                <p className="cat-sub">
-                  {section.posts.length}{" "}
-                  {section.posts.length === 1 ? "artículo sobre este tema." : "artículos sobre este tema."}
-                </p>
-              </div>
-
-              <div className="cat-layout">
-                <FeaturedPost post={section.posts[0]} />
-                <div className="posts-grid">
-                  {section.posts.slice(1).map((post) => (
-                    <PostCard key={post.slug} post={post} />
-                  ))}
-                </div>
-              </div>
-            </div>
-          </section>
-        ))}
-      </div>
-
       {latest ? (
-        <section className="home-closing-cta">
+        <section className="home-section">
           <div className="container">
-            <div className="closing-card">
-              <h3>¿Listo para no volver a perder un término?</h3>
-              <p>
-                Vigila tus radicados en tiempo real y recibe cada actuación de
-                tus procesos por WhatsApp.
-              </p>
-              <div className="closing-actions">
-                <a href="https://wabog.com" className="cta-pill" data-analytics="closing_empieza_gratis">
-                  Empieza 15 días gratis
-                </a>
-                <a href="https://wabog.com" className="closing-secondary" data-analytics="closing_ver_sitio">
-                  Conoce cómo funciona →
-                </a>
-              </div>
-              <small className="closing-note">Sin tarjeta. Sin compromiso.</small>
+            <div className="section-head">
+              <h2 className="section-title">Recién publicado</h2>
+              <span className="section-sub">{latest.date} · {latest.readingTime} min</span>
             </div>
+            <FeaturedPost post={latest} />
           </div>
         </section>
       ) : null}
+
+      <section id="articulos" className="home-section">
+        <div className="container">
+          <div className="section-head">
+            <div>
+              <h2 className="section-title">Últimos artículos</h2>
+              <p className="section-sub">
+                {posts.length} guías para optimizar la operación de tu despacho.
+              </p>
+            </div>
+          </div>
+          <div className="posts-grid">
+            {rest.map((post) => (
+              <PostCard key={post.slug} post={post} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="home-section home-topics">
+        <div className="container">
+          <div className="section-head">
+            <div>
+              <h2 className="section-title">Explora por tema</h2>
+              <p className="section-sub">
+                Navegá el blog por categoría y encontrá lo que buscás en segundos.
+              </p>
+            </div>
+          </div>
+          <div className="topics-cloud">
+            {orderedTags.map((t) => (
+              <Link
+                key={t.slug}
+                href={`/tag/${t.slug}`}
+                className="topic-chip"
+                data-analytics={`home_tema_${t.slug}`}
+              >
+                <span>{t.name}</span>
+                <span className="topic-count">{t.count}</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="home-closing-cta">
+        <div className="container">
+          <div className="closing-card">
+            <h3>¿Listo para no volver a perder un término?</h3>
+            <p>
+              Vigila tus radicados en tiempo real y recibe cada actuación de
+              tus procesos por WhatsApp.
+            </p>
+            <div className="closing-actions">
+              <a href="https://wabog.com" className="cta-pill" data-analytics="closing_empieza_gratis">
+                Empieza 15 días gratis
+              </a>
+              <a href="https://wabog.com" className="closing-secondary" data-analytics="closing_ver_sitio">
+                Conoce cómo funciona →
+              </a>
+            </div>
+            <small className="closing-note">Sin tarjeta. Sin compromiso.</small>
+          </div>
+        </div>
+      </section>
     </>
   );
 }
