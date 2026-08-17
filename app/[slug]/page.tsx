@@ -4,8 +4,9 @@ import Link from "next/link";
 import { ArticleRenderer } from "@/components/blocks/article-renderer";
 import { Cover } from "@/components/cover";
 import { Toc, buildToc } from "@/components/toc";
-import { formatDate } from "@/components/post-card";
-import { getAllPosts, getPostBySlug } from "@/lib/posts";
+import { PostCard, formatDate } from "@/components/post-card";
+import { AuthorAvatar, AuthorBio } from "@/components/author";
+import { getAllPosts, getPostsByTag, getPostBySlug } from "@/lib/posts";
 import type { BlogBlock, Post } from "@/lib/types";
 
 type PageProps = { params: Promise<{ slug: string }> };
@@ -95,12 +96,32 @@ export default async function ArticlePage({ params }: PageProps) {
 
   const toc = buildToc(post.blocks);
 
+  const primaryTag = post.tags[0];
+  const related = (() => {
+    const sameTag = primaryTag
+      ? getPostsByTag(primaryTag.slug).filter((p) => p.slug !== post.slug)
+      : [];
+    const fill = getAllPosts().filter(
+      (p) => p.slug !== post.slug && !sameTag.some((s) => s.slug === p.slug)
+    );
+    return [...sameTag, ...fill].slice(0, 3);
+  })();
+
   return (
     <>
       <ArticleJsonLd post={post} />
       <article>
         <header className="article-hero">
           <div className="article-container">
+            <nav className="breadcrumb" aria-label="Migas de pan">
+              <Link href="/">Blog de Wabog</Link>
+              <span className="breadcrumb-sep" aria-hidden="true">/</span>
+              {primaryTag ? (
+                <Link href={`/tag/${primaryTag.slug}`}>{primaryTag.name}</Link>
+              ) : (
+                <span>Artículo</span>
+              )}
+            </nav>
             <div className="article-tags">
               {post.tags.map((tag) => (
                 <Link key={tag.slug} href={`/tag/${tag.slug}`} className="post-tag-pill">
@@ -110,18 +131,20 @@ export default async function ArticlePage({ params }: PageProps) {
             </div>
             <h1 className="article-title">{post.title}</h1>
             <p className="article-deck">{post.excerpt}</p>
-            <div className="article-meta">
-              <span>{post.author}</span>
-              <span className="dot" />
-              <span>{formatDate(post.date)}</span>
-              {post.updatedAt && post.updatedAt !== post.date ? (
-                <>
-                  <span className="dot" />
-                  <span>Actualizado {formatDate(post.updatedAt)}</span>
-                </>
-              ) : null}
-              <span className="dot" />
-              <span>{post.readingTime} min de lectura</span>
+            <div className="article-byline">
+              <AuthorAvatar name={post.author} />
+              <div className="article-byline-meta">
+                <span className="article-byline-author">
+                  Escrito por {post.author}
+                </span>
+                <span className="article-byline-sub">
+                  {formatDate(post.date)}
+                  {post.updatedAt && post.updatedAt !== post.date
+                    ? ` · Actualizado ${formatDate(post.updatedAt)}`
+                    : ""}
+                  {` · ${post.readingTime} min de lectura`}
+                </span>
+              </div>
             </div>
           </div>
         </header>
@@ -134,11 +157,26 @@ export default async function ArticlePage({ params }: PageProps) {
           </div>
         ) : null}
 
+        <div className="article-layout">
+          <ArticleRenderer blocks={post.blocks} />
+          <Toc items={toc} />
+        </div>
+
         <div className="article-container">
-          <div className="article-layout">
-            <ArticleRenderer blocks={post.blocks} />
-            <Toc items={toc} />
-          </div>
+          <AuthorBio author={post.author} />
+
+          {related.length > 0 ? (
+            <section className="related-section" aria-label="Artículos relacionados">
+              <div className="section-head">
+                <h2 className="section-title">Seguí leyendo</h2>
+              </div>
+              <div className="posts-grid">
+                {related.map((p) => (
+                  <PostCard key={p.slug} post={p} />
+                ))}
+              </div>
+            </section>
+          ) : null}
 
           <div className="article-end-cta">
             <h3>¿Listo para no volver a perder un término?</h3>
