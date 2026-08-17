@@ -17,210 +17,140 @@
       "name": "notificaciones"
     }
   ],
-  "excerpt": "Recibe en WhatsApp solo las alertas importantes de tus procesos judiciales. Wabog automatiza tu revisión y optimiza tu gestión legal.",
+  "excerpt": "Cómo recibir por WhatsApp solo las alertas relevantes de tus procesos judiciales: qué configurar, qué debe incluir una buena notificación y qué errores evitar.",
   "coverImage": "/covers/como-recibir-notificaciones-de-procesos-judiciales-por-whatsapp.png",
-  "readingTime": 5,
+  "readingTime": 7,
   "author": "Fabian Cuero Villegas",
   "blocks": [
     {
+      "type": "tldr",
+      "text": "WhatsApp es el canal con mayor tasa de lectura (más del 90%): recibe en tu teléfono una alerta cada vez que cambia el estado de un proceso. Configúralo bien y observa solo las actuaciones relevantes para tu caso."
+    },
+    {
+      "type": "paragraph",
+      "text": "WhatsApp es hoy el medio de comunicación principal en Colombia, con más de 40 millones de usuarios activos. Para un abogado, recibir por esa vía las alertas de sus procesos judiciales transforma la gestión de casos: la noticia viaja al instante, llega al teléfono y no hay que revisar diez portales distintos."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Por qué WhatsApp es el canal ideal para notificaciones jurídicas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El correo sigue siendo el medio oficial de comunicación institucional, pero tiene una debilidad estructural: los mensajes importantes se pierden entre decenas de correos, promociones y boletines. WhatsApp, en cambio, entrega notificaciones push que aparecen al instante en la pantalla del teléfono."
+    },
+    {
+      "type": "table",
+      "headers": ["Canal", "Tasa de lectura", "Inmediatez"],
+      "rows": [
+        ["WhatsApp", "Más del 90 %", "Notificación push en el teléfono"],
+        ["Correo electrónico profesional", "Entre 25 % y 30 %", "Depende de revisar la bandeja"],
+        ["SMS", "Media", "Alcance amplio, formato limitado"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Según la Comisión de Regulación de Comunicaciones (CRC), el 97% de los colombianos con smartphone usa WhatsApp a diario. Un estudio de Consultoría LegalTech suma otro dato: el 73% de los abogados prefiere recibir alertas de sus procesos por este canal antes que por correo. La razón es sencilla: inmediatez. Puedes enterarte de un término próximo a vencer mientras estás en audiencia y actuar sin escalas."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Dato clave",
+      "text": "WhatsApp además permite grupos por área del despacho y contenido multimodal: texto, PDF del auto, imágenes o notas de voz, todo en un solo mensaje accionable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué debe incluir una buena notificación judicial"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una notificación efectiva permite identificar el caso y la urgencia con un rápido vistazo. Estos son sus cuatro elementos esenciales:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Identificación del proceso: número de radicado y partes, para reconocer el caso al instante.",
+        "Tipo de movimiento: auto de sustanciación, audiencia, fallo o traslado, para priorizar la respuesta.",
+        "Fecha del movimiento: un auto de hace tres días exige más urgencia que uno de hoy.",
+        "Enlace directo: acceso al SIUJ o al tribunal con un clic, sin buscar manualmente."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo configurar las notificaciones paso a paso"
+    },
+    {
+      "type": "paragraph",
+      "text": "Existen dos caminos: montar una integración propia con WhatsApp Business API (potente, pero requiere conocimientos técnicos y costos de desarrollo) o usar una plataforma de automatización legal que lo resuelva por ti."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Ingresa una sola vez los números de proceso que quieres vigilar.",
+        "Elige el canal de alerta: WhatsApp, correo o ambos.",
+        "Define filtros por tipo de actuación: solo audiencias y fallos, o todos los movimientos.",
+        "Para despachos, asigna notificaciones por abogado, por área del derecho o centralizadas.",
+        "Revisa el histórico de alertas en el panel del sistema."
+      ]
+    },
+    {
+      "type": "cta_pill",
+      "label": "Recibe alertas de tus procesos por WhatsApp",
+      "href": "https://wabog.com"
+    },
+    {
       "type": "heading",
       "level": 2,
-      "text": "Cómo recibir notificaciones de procesos judiciales por WhatsApp"
+      "text": "Buenas prácticas y errores que debes evitar"
     },
     {
       "type": "paragraph",
-      "text": "WhatsApp se ha convertido en el medio de comunicación principal en Colombia. Con más de 40 millones de usuarios activos, la aplicación es el canal más efectivo para recibir notificaciones importantes. Para los abogados, recibir alertas sobre sus procesos judiciales por WhatsApp puede transformar radicalmente la gestión de sus casos."
+      "text": "WhatsApp es ideal para la inmediatez, pero la gestión jurídica exige trazabilidad: guarda siempre un registro formal de lo comunicado. Usa WhatsApp Business en lugar de tu cuenta personal y combina el canal con un histórico consultable por si necesitas demostrar qué se notificó y cuándo."
     },
     {
-      "type": "heading",
-      "level": 3,
-      "text": "El estado de la comunicación jurídica en Colombia"
-    },
-    {
-      "type": "paragraph",
-      "text": "Según el último informe de la Comisión de Regulación de Comunicaciones (CRC), el 97% de los colombianos que poseen smartphone utilizan WhatsApp daily. La aplicación tiene una tasa de apertura del 90%, comparado con apenas el 25% del correo electrónico profesional."
-    },
-    {
-      "type": "paragraph",
-      "text": "Un estudio de la firma Consultoría LegalTech reveló que el 73% de los abogados prefieren recibir notificaciones de sus procesos por WhatsApp antes que por correo electrónico. La razón principal: inmediatez. Un abogado puede recibir una alerta de un término próximo a vencer mientras está en audiencia y tomar acción inmediatamente."
-    },
-    {
-      "type": "paragraph",
-      "text": "Además, el 58% de los despachos en Colombia ya utilizan algún tipo de mensajería instantánea para comunicarse con sus clientes. La tendencia está clara: el futuro de la comunicación jurídica es móvil e inmediato."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Por qué WhatsApp para notificaciones jurídicas"
-    },
-    {
-      "type": "paragraph",
-      "text": "El correo electrónico sigue siendo el medio oficial de comunicación institucional, pero tiene limitaciones importantes. Los abogados reciben decenas de correos diarios, y los mensajes importantes pueden perderse entre promociones, newsletters y comunicaciones personales. WhatsApp, en cambio, ofrece notificaciones inmediatas que llegan directamente al teléfono del abogado como notificaciones push."
-    },
-    {
-      "type": "paragraph",
-      "text": "Además, WhatsApp permite crear grupos para diferentes áreas del despacho, facilitando la comunicación interna y la asignación de responsabilidades. Un grupo para el área penal, otro para civil, otro para familia: cada equipo recibe únicamente las notificaciones relevantes para su trabajo."
-    },
-    {
-      "type": "paragraph",
-      "text": "La tasa de apertura de mensajes en WhatsApp supera el 90%, comparada con menos del 30% en correos electrónicos profesionales. Esto significa que una notificación enviada por WhatsApp tiene muchas más probabilidades de ser vista inmediatamente."
-    },
-    {
-      "type": "paragraph",
-      "text": "Otra ventaja importante es la multimodalidad: WhatsApp permite enviar texto, imágenes, documentos y hasta notas de voz. Un abogado puede recibir el auto completo en PDF con un resumen en texto que le permita actuar de inmediato."
-    },
-    {
-      "type": "paragraph",
-      "text": "Un ejemplo concreto: un abogado penalista en Bogotá recibe una notificación de WhatsApp a las 4:55 PM indicando que el Juzgado Sexto Penal Municipal acaba de programar audiencia de lectura de fallo para el día siguiente a las 8:00 AM. Sin esta notificación, el abogado habría llegado a la audiencia sin preparación adecuada."
-    },
-    {
-      "type": "paragraph",
-      "text": "Para un abogado de familia, recibir alertas sobre demandas de alimentos o modificaciones de custodia permite contactar al cliente inmediatamente y preparar la estrategia antes de que el oponente presente sus argumentos."
-    },
-    {
-      "type": "paragraph",
-      "text": "En un despacho de abogados laborales, las notificaciones de audiencias de conciliación o de práctica de pruebas son críticas. Un abogado que recibe alert de una audiencia reprogramada con 48 horas de anticipación puede ajustar su agenda y preparar sus argumentos, en lugar de descubrir el cambio a última hora."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Cómo implementar notificaciones por WhatsApp"
-    },
-    {
-      "type": "paragraph",
-      "text": "La opción más completa es configurar WhatsApp Business API, que permite automatización de mensajes y conexión con sistemas externos. Sin embargo, esto requiere conocimientos técnicos o la ayuda de un desarrollador, y los costos de implementación pueden ser significativos."
-    },
-    {
-      "type": "paragraph",
-      "text": "Una alternativa más accesible es utilizar plataformas de automatización como Wabog, que integran notificaciones de procesos judiciales directamente con WhatsApp. El abogado recibe una alerta cuando hay un cambio de estado en cualquiera de sus procesos, sin necesidad de configurar integraciones complejas."
-    },
-    {
-      "type": "paragraph",
-      "text": "Las notificaciones pueden configurarse para incluir:"
-    },
-    {
-      "type": "paragraph",
-      "text": "- Identificación del proceso: número de proceso y partes"
-    },
-    {
-      "type": "paragraph",
-      "text": "- Tipo de movimiento: audiencia, auto, fallo, traslado"
-    },
-    {
-      "type": "paragraph",
-      "text": "- Fecha del movimiento"
-    },
-    {
-      "type": "paragraph",
-      "text": "- Enlace directo al SIUJ o tribunal correspondiente"
-    },
-    {
-      "type": "paragraph",
-      "text": "La configuración con Wabog es simple: el abogado ingresa sus números de proceso una sola vez, selecciona sus preferencias de notificación (WhatsApp, correo, o ambos), y el sistema comienza a enviar alertas automáticas cada vez que hay un cambio."
-    },
-    {
-      "type": "paragraph",
-      "text": "Para despachos con múltiples abogados, Wabog permite configurar notificaciones por abogado, por área del derecho, o centralizadas para que el administrador del despacho reciba todas las alertas."
-    },
-    {
-      "type": "paragraph",
-      "text": "También es posible configurar filtros por tipo de actuación. Por ejemplo, un abogado puede elegir recibir solo notificaciones de audiencias y fallos, ignorando movimientos menores como cambios de estado internos."
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "No sobrecargues de notificaciones: alertar por cada movimiento genera ruido y hace ignorar lo importante.",
+        "Define horarios activos: evitar interrupciones nocturnas mejora la calidad del descanso.",
+        "Activa la verificación en dos pasos y el bloqueo del dispositivo para proteger información sensible.",
+        "Mantén un respaldo por correo para las notificaciones críticas, por si falla la conexión.",
+        "Prueba el sistema antes de depender de él para plazos críticos."
+      ]
     },
     {
       "type": "heading",
-      "level": 3,
-      "text": "Contenido efectivo de las notificaciones"
+      "level": 2,
+      "text": "Preguntas frecuentes sobre notificaciones judiciales por WhatsApp"
     },
     {
-      "type": "paragraph",
-      "text": "Una buena notificación de proceso judicial debe ser concisa pero completa. Debe permitir al abogado identificar rápidamente de qué caso se trata y qué tipo de movimiento ocurrió, para priorizar su respuesta."
-    },
-    {
-      "type": "paragraph",
-      "text": "Los elementos esenciales son:"
-    },
-    {
-      "type": "paragraph",
-      "text": "Identificación del proceso. Número de proceso y nombre de las partes para identificar rápidamente de qué caso se trata. El abogado debe poder reconocer el caso con un rápido vistazo."
-    },
-    {
-      "type": "paragraph",
-      "text": "Tipo de movimiento. Qué tipo de actuación se registró: auto de sustanciación, audiencia programada, traslado de memorial, fallo de primera instancia, entre otros. Esto permite priorizar las acciones necesarias."
-    },
-    {
-      "type": "paragraph",
-      "text": "Fecha del movimiento. Cuándo ocurrió el cambio para priorizar la respuesta. Un auto de hace tres días requiere más urgencia que uno de hoy."
-    },
-    {
-      "type": "paragraph",
-      "text": "Enlace directo al sistema. Un enlace al SIUJ o al tribunal correspondiente para acceder a la información completa con un solo clic, sin tener que buscar manualmente."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Buenas prácticas para usar WhatsApp en el ámbito legal"
-    },
-    {
-      "type": "paragraph",
-      "text": "Aunque WhatsApp es ideal para notificaciones, es importante mantener un registro formal de las comunicaciones con los clientes. Los mensajes de WhatsApp pueden eliminarse accidentalmente, y en caso de disputas, es fundamental poder demostrar qué se comunicar y cuándo."
-    },
-    {
-      "type": "paragraph",
-      "text": "Wabog ofrece un sistema de registro que guarda todas las notificaciones enviadas, creando un histórico consultable que puede utilizarse como evidencia si es necesario. Esto combina la velocidad de WhatsApp con la seguridad de un sistema formal de documentación."
-    },
-    {
-      "type": "paragraph",
-      "text": "Otra buena práctica es utilizar WhatsApp Business en lugar de la cuenta personal. WhatsApp Business permite crear un perfil profesional con información del despacho, respuestas automáticas, y etiquetas para organizar las conversaciones."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Errores comunes al implementar notificaciones por WhatsApp"
-    },
-    {
-      "type": "paragraph",
-      "text": "1. Sobrecargar de notificaciones: Enviar alertas por cada pequeño movimiento genera ruido y hace que el abogado ignore los mensajes importantes. Es mejor filtrar solo cambios relevantes."
-    },
-    {
-      "type": "paragraph",
-      "text": "2. No definir horarios de notificación: Las notificaciones a media noche pueden ser molestas. Configura horarios activos para evitar interrumpir el descanso del abogado."
-    },
-    {
-      "type": "paragraph",
-      "text": "3. No probar el sistema: Antes de depender del sistema para notificaciones críticas, haz pruebas para verificar que funcionan correctamente."
-    },
-    {
-      "type": "paragraph",
-      "text": "4. Ignorar la seguridad del dispositivo: El teléfono del abogado debe tener bloqueo y WhatsApp debe tener verificación en dos pasos activada."
-    },
-    {
-      "type": "paragraph",
-      "text": "5. Depender exclusivamente de WhatsApp: Siempre tener un backup por correo electrónico para notificaciones críticas, por si hay problemas de conexión."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Preguntas frecuentes sobre notificaciones por WhatsApp"
-    },
-    {
-      "type": "paragraph",
-      "text": "¿WhatsApp es seguro para información jurídica? WhatsApp utiliza encriptación de extremo a extremo, lo que significa que solo el emisor y el receptor pueden leer los mensajes. Sin embargo, es importante activar la verificación en dos pasos y no compartir códigos de verificación."
-    },
-    {
-      "type": "paragraph",
-      "text": "¿Qué pasa si pierdo mi teléfono con las notificaciones? Además de las notificaciones en WhatsApp, es recomendable tener un backup en el sistema de gestión. Wabog guarda un registro completo de todas las alertas enviadas."
-    },
-    {
-      "type": "paragraph",
-      "text": "¿Puedo recibir notificaciones de múltiples procesos en el mismo chat? Sí, las mejores plataformas permiten consolidar todas las notificaciones en un solo hilo, facilitando la revisión rápida."
-    },
-    {
-      "type": "paragraph",
-      "text": "¿Las notificaciones funcionan sin internet? Para recibir notificaciones se necesita conexión a internet. Sin embargo, cuando se recupera la conexión, los mensajes pendientes llegan automáticamente."
-    },
-    {
-      "type": "paragraph",
-      "text": "¿Cuánto cuesta implementar este sistema? Wabog ofrece planes desde 55.000 COP/mes que incluyen notificaciones por WhatsApp ilimitadas para todos los procesos del despacho."
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿WhatsApp es seguro para información jurídica?",
+          "answer": "WhatsApp usa encriptación de extremo a extremo: solo emisor y receptor leen los mensajes. Activa la verificación en dos pasos y no compartas códigos de verificación."
+        },
+        {
+          "question": "¿Qué pasa si pierdo el teléfono con las notificaciones?",
+          "answer": "Además de las alertas en WhatsApp, guarda un respaldo en tu sistema de gestión. Wabog registra un histórico completo de todas las alertas enviadas."
+        },
+        {
+          "question": "¿Puedo recibir notificaciones de varios procesos en el mismo chat?",
+          "answer": "Sí. Las mejores plataformas consolidan todas las alertas en un solo hilo para facilitar la revisión."
+        },
+        {
+          "question": "¿Las notificaciones funcionan sin internet?",
+          "answer": "Para recibirlas necesitas conexión. Al recuperar la señal, los mensajes pendientes llegan automáticamente."
+        },
+        {
+          "question": "¿Cuánto cuesta implementar este sistema?",
+          "answer": "Wabog ofrece planes desde 55.000 COP al mes con notificaciones por WhatsApp ilimitadas para todos los procesos del despacho."
+        }
+      ]
     },
     {
       "type": "heading",
@@ -229,7 +159,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Recibir notificaciones de procesos judiciales por WhatsApp no es solo una conveniencia, es una necesidad para el abogado moderno. La inmediatez del canal y la alta probabilidad de lectura hacen de WhatsApp el medio más efectivo para estar al tanto de los desarrollos importantes en cada caso."
+      "text": "Recibir notificaciones de procesos judiciales por WhatsApp no es una conveniencia: es una necesidad para el abogado que quiere estar al tanto de cada desarrollo sin vivir pegado al portal de la Rama Judicial. La inmediatez del canal y su altísima probabilidad de lectura lo convierten en el medio más efectivo para no perder ningún término."
     }
   ]
 }
