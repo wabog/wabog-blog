@@ -67,7 +67,7 @@ export function Header() {
             <ThemeToggle />
             <a
               href="https://wabog.com"
-              className="btn btn-accent"
+              className="btn btn-accent nav-cta"
               data-analytics="nav_empieza_gratis"
             >
               Empieza gratis

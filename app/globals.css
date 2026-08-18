@@ -1767,6 +1767,14 @@ a {
     display: none;
   }
 
+  .navbar-right .nav-cta {
+    display: none;
+  }
+
+  .navbar-brand img {
+    height: 34px;
+  }
+
   .footer-grid {
     grid-template-columns: 1fr;
     gap: 1.75rem;
