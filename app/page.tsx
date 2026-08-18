@@ -3,7 +3,7 @@ import type { CSSProperties } from "react";
 import { FeaturedPost } from "@/components/featured-post";
 import { PostCard } from "@/components/post-card";
 import { SearchBar } from "@/components/search";
-import { getAllPosts, getAllTags, getCuratedTagOrder, getLatestPost } from "@/lib/posts";
+import { getAllPosts, getAllTags, getCuratedTagOrder, getFeaturedPost } from "@/lib/posts";
 
 const TOPIC_COLORS: Record<string, { bg: string; fg: string }> = {
   "vigilancia-judicial": { bg: "#003f8f", fg: "#ffffff" },
@@ -21,7 +21,7 @@ export const metadata = {
 
 export default function HomePage() {
   const posts = getAllPosts();
-  const latest = getLatestPost();
+  const { post: featured, week } = getFeaturedPost();
   const tags = getAllTags();
   const tagOrder = getCuratedTagOrder();
   const orderedTags = tagOrder
@@ -35,7 +35,7 @@ export default function HomePage() {
     tags: post.tags.map((tag) => tag.name),
   }));
 
-  const rest = latest ? posts.filter((p) => p.slug !== latest.slug) : posts;
+  const rest = featured ? posts.filter((p) => p.slug !== featured.slug) : posts;
 
   return (
     <>
@@ -99,14 +99,18 @@ export default function HomePage() {
         </div>
       </section>
 
-      {latest ? (
+      {featured ? (
         <section className="home-section">
           <div className="container">
             <div className="section-head">
-              <h2 className="section-title">Recién publicado</h2>
-              <span className="section-sub">{latest.date} · {latest.readingTime} min</span>
+              <div>
+                <h2 className="section-title">Destacado de la semana</h2>
+                <p className="section-sub">
+                  Semana {week} · {featured.readingTime} min de lectura
+                </p>
+              </div>
             </div>
-            <FeaturedPost post={latest} />
+            <FeaturedPost post={featured} />
           </div>
         </section>
       ) : null}

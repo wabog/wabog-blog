@@ -107,6 +107,22 @@ export function getCuratedTagOrder(): string[] {
   return Object.keys(CURATED_TAGS);
 }
 
-export function getLatestPost(): Post | undefined {
-  return posts[0];
+/** Número de semana ISO de una fecha (1–53). */
+export function getWeekNumber(date: Date): number {
+  const target = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+  const dayNum = target.getUTCDay() || 7;
+  target.setUTCDate(target.getUTCDate() + 4 - dayNum);
+  const yearStart = new Date(Date.UTC(target.getUTCFullYear(), 0, 1));
+  return Math.ceil(((target.getTime() - yearStart.getTime()) / 86400000 + 1) / 7);
+}
+
+/**
+ * Artículo destacado semanal por rotación determinista: según la semana del
+ * año se elige un post de forma estable durante toda la semana (sin backend).
+ */
+export function getFeaturedPost(): { post: Post | undefined; week: number } {
+  const now = new Date();
+  const week = getWeekNumber(now);
+  const post = posts.length > 0 ? posts[week % posts.length] : undefined;
+  return { post, week };
 }
