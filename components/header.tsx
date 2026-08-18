@@ -36,13 +36,13 @@ export function Header() {
         <nav className="navbar" aria-label="Principal">
           <Link href="/" className="navbar-brand" data-analytics="nav_logo">
             <img
-              className="brand-logo-dark"
-              src="/wabog_name_logo.webp"
+              className="brand-logo-light"
+              src="/wabog_name_logo_light.webp"
               alt="WABOG"
             />
             <img
-              className="brand-logo-light"
-              src="/wabog_name_logo_light.webp"
+              className="brand-logo-dark"
+              src="/wabog_name_logo.webp"
               alt="WABOG"
             />
           </Link>

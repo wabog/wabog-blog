@@ -21,7 +21,10 @@ export function AuthorAvatar({
   size?: "sm" | "md" | "lg";
 }) {
   return (
-    <span className={`author-avatar author-avatar--${size}`} aria-hidden="true">
+    <span
+      className={`author-avatar author-avatar--${size}${isBrandAuthor(name) ? " author-avatar--brand" : ""}`}
+      aria-hidden="true"
+    >
       {isBrandAuthor(name) ? (
         <img src="/waboglogo.webp" alt="" />
       ) : (
