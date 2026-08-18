@@ -1781,6 +1781,11 @@ a {
     padding: 2.25rem 0;
   }
 
+  .footer-brand {
+    display: flex;
+    justify-content: center;
+  }
+
   .home-hero {
     padding: 3rem 0 2.5rem;
   }
