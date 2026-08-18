@@ -759,6 +759,16 @@ a {
   gap: 1.25rem;
 }
 
+.section-footer {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.posts-grid--all {
+  padding-bottom: 3rem;
+}
+
 .post-card {
   display: flex;
   flex-direction: column;

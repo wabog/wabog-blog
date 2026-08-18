@@ -36,6 +36,7 @@ export default function HomePage() {
   }));
 
   const rest = featured ? posts.filter((p) => p.slug !== featured.slug) : posts;
+  const visible = rest.slice(0, 12);
 
   return (
     <>
@@ -126,9 +127,14 @@ export default function HomePage() {
             </div>
           </div>
           <div className="posts-grid">
-            {rest.map((post) => (
+            {visible.map((post) => (
               <PostCard key={post.slug} post={post} />
             ))}
+          </div>
+          <div className="section-footer">
+            <Link href="/articulos" className="btn btn-outline" data-analytics="home_ver_todos">
+              Ver todos los artículos <span aria-hidden="true">→</span>
+            </Link>
           </div>
         </div>
       </section>
