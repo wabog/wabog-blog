@@ -1,8 +1,17 @@
 import Link from "next/link";
+import type { CSSProperties } from "react";
 import { FeaturedPost } from "@/components/featured-post";
 import { PostCard } from "@/components/post-card";
 import { SearchBar } from "@/components/search";
 import { getAllPosts, getAllTags, getCuratedTagOrder, getLatestPost } from "@/lib/posts";
+
+const TOPIC_COLORS: Record<string, { bg: string; fg: string }> = {
+  "vigilancia-judicial": { bg: "#003f8f", fg: "#ffffff" },
+  "ia-legal": { bg: "#1454fa", fg: "#ffffff" },
+  legaltech: { bg: "#6e80ff", fg: "#ffffff" },
+  "marketing-legal": { bg: "#71c4ef", fg: "#003f8f" },
+  "panorama-juridico": { bg: "#e5e2ff", fg: "#003f8f" },
+};
 
 export const metadata = {
   title: "Blog de Wabog — Gestión legal inteligente",
@@ -66,22 +75,26 @@ export default function HomePage() {
             </div>
           </div>
           <div className="topics-row">
-            {orderedTags.map((t, i) => (
-              <Link
-                key={t.slug}
-                href={`/tag/${t.slug}`}
-                className="topic-card"
-                data-analytics={`home_tema_${t.slug}`}
-              >
-                <span className="topic-instance">
-                  Auto N.° {String(i + 1).padStart(2, "0")}
-                </span>
-                <span className="topic-name">{t.name}</span>
-                <span className="topic-count">
-                  {t.count} artículo{t.count === 1 ? "" : "s"}
-                </span>
-              </Link>
-            ))}
+            {orderedTags.map((t, i) => {
+              const color = TOPIC_COLORS[t.slug] ?? TOPIC_COLORS[Object.keys(TOPIC_COLORS)[0]];
+              return (
+                <Link
+                  key={t.slug}
+                  href={`/tag/${t.slug}`}
+                  className="topic-card"
+                  style={{ "--topic-bg": color.bg, "--topic-fg": color.fg } as CSSProperties}
+                  data-analytics={`home_tema_${t.slug}`}
+                >
+                  <span className="topic-instance">
+                    Auto N.° {String(i + 1).padStart(2, "0")}
+                  </span>
+                  <span className="topic-name">{t.name}</span>
+                  <span className="topic-count">
+                    {t.count} artículo{t.count === 1 ? "" : "s"}
+                  </span>
+                </Link>
+              );
+            })}
           </div>
         </div>
       </section>
