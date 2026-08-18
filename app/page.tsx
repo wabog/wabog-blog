@@ -55,6 +55,37 @@ export default function HomePage() {
         </div>
       </section>
 
+      <section className="home-section home-topics">
+        <div className="container">
+          <div className="section-head">
+            <div>
+              <h2 className="section-title">La ruta jurídica</h2>
+              <p className="section-sub">
+                Recorré el blog por tema, como si fueran los autos de tu expediente.
+              </p>
+            </div>
+          </div>
+          <div className="topics-row">
+            {orderedTags.map((t, i) => (
+              <Link
+                key={t.slug}
+                href={`/tag/${t.slug}`}
+                className="topic-card"
+                data-analytics={`home_tema_${t.slug}`}
+              >
+                <span className="topic-instance">
+                  Auto N.° {String(i + 1).padStart(2, "0")}
+                </span>
+                <span className="topic-name">{t.name}</span>
+                <span className="topic-count">
+                  {t.count} artículo{t.count === 1 ? "" : "s"}
+                </span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {latest ? (
         <section className="home-section">
           <div className="container">
@@ -80,32 +111,6 @@ export default function HomePage() {
           <div className="posts-grid">
             {rest.map((post) => (
               <PostCard key={post.slug} post={post} />
-            ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="home-section home-topics">
-        <div className="container">
-          <div className="section-head">
-            <div>
-              <h2 className="section-title">Explora por tema</h2>
-              <p className="section-sub">
-                Navegá el blog por categoría y encontrá lo que buscás en segundos.
-              </p>
-            </div>
-          </div>
-          <div className="topics-cloud">
-            {orderedTags.map((t) => (
-              <Link
-                key={t.slug}
-                href={`/tag/${t.slug}`}
-                className="topic-chip"
-                data-analytics={`home_tema_${t.slug}`}
-              >
-                <span>{t.name}</span>
-                <span className="topic-count">{t.count}</span>
-              </Link>
             ))}
           </div>
         </div>

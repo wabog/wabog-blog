@@ -552,41 +552,81 @@ a {
   background: color-mix(in srgb, var(--accent-500) 3%, var(--paper));
 }
 
-.topics-cloud {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.7rem;
+.topics-row {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1rem;
 }
 
-.topic-chip {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.65rem;
-  padding: 0.65rem 1.05rem 0.65rem 1.2rem;
-  border-radius: 999px;
+.topic-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  min-height: 200px;
+  padding: 1.6rem 1.2rem 1.3rem;
+  border-radius: 18px;
   border: 1px solid var(--line-2);
   background: var(--surface);
   color: var(--ink);
-  font-weight: 600;
-  font-size: 0.92rem;
-  transition: border-color 0.15s ease, color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+  overflow: hidden;
+  justify-content: flex-end;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
 }
 
-.topic-chip:hover {
-  border-color: var(--accent-400);
+.topic-card:hover {
+  border-color: var(--accent-500);
+  box-shadow: 0 10px 28px color-mix(in srgb, var(--accent-500) 18%, transparent);
+  transform: translateY(-3px);
+}
+
+.topic-instance {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
   color: var(--accent-600);
-  box-shadow: var(--shadow-1);
-  transform: translateY(-1px);
+}
+
+.topic-instance::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: color-mix(in srgb, var(--accent-500) 25%, transparent);
+}
+
+.topic-name {
+  font-weight: 700;
+  font-size: 1.1rem;
+  line-height: 1.3;
 }
 
 .topic-count {
-  font-size: 0.74rem;
-  font-weight: 700;
-  color: var(--muted);
-  background: var(--surface-2);
-  padding: 0.14rem 0.55rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  width: fit-content;
+  font-size: 0.76rem;
+  font-weight: 600;
+  color: var(--accent-600);
+  background: var(--accent-50);
+  padding: 0.28rem 0.7rem;
   border-radius: 999px;
-  line-height: 1;
+}
+
+@media (max-width: 980px) {
+  .topics-row {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .topics-row {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* ---------- Featured post ---------- */
