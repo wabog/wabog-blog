@@ -1841,4 +1841,16 @@ a {
   .home-hero {
     padding: 3rem 0 2.5rem;
   }
+
+  .home-actions {
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+    max-width: 420px;
+    margin-inline: auto;
+  }
+
+  .home-actions .btn {
+    width: 100%;
+  }
 }
