@@ -66,7 +66,7 @@ export function Header() {
           <div className="navbar-right">
             <ThemeToggle />
             <a
-              href="https://wabog.com"
+              href="https://app.wabog.com"
               className="btn btn-accent nav-cta"
               data-analytics="nav_empieza_gratis"
             >

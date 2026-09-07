@@ -182,7 +182,7 @@ export default async function ArticlePage({ params }: PageProps) {
             <h3>¿Listo para no volver a perder un término?</h3>
             <p>Vigila tus radicados en tiempo real y recibe las actuaciones de tus procesos por WhatsApp.</p>
             <a
-              href="https://wabog.com"
+              href="https://app.wabog.com"
               className="cta-pill"
               data-analytics="article_cta_empieza_gratis"
               data-analytics-location="article_end"
