@@ -5,6 +5,7 @@ import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { Analytics } from "@/components/analytics";
 import { ThemeInit } from "@/components/theme-init";
+import { Attribution } from "@/components/attribution";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -42,6 +43,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="site-main">{children}</main>
         <Footer />
         <Analytics />
+        <Attribution />
       </body>
     </html>
   );

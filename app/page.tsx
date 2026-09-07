@@ -54,7 +54,7 @@ export default function HomePage() {
             </div>
 
             <div className="home-actions">
-              <a href="https://wabog.com" className="btn btn-accent" data-analytics="hero_empieza_gratis">
+              <a href="https://app.wabog.com" className="btn btn-accent" data-analytics="hero_empieza_gratis">
                 Empieza 15 días gratis
               </a>
               <a href="#articulos" className="btn btn-ghost" data-analytics="hero_ver_guias">
@@ -148,7 +148,7 @@ export default function HomePage() {
               tus procesos por WhatsApp.
             </p>
             <div className="closing-actions">
-              <a href="https://wabog.com" className="cta-pill" data-analytics="closing_empieza_gratis">
+              <a href="https://app.wabog.com" className="cta-pill" data-analytics="closing_empieza_gratis">
                 Empieza 15 días gratis
               </a>
               <a href="https://wabog.com" className="closing-secondary" data-analytics="closing_ver_sitio">
