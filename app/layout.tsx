@@ -32,6 +32,10 @@ export const metadata: Metadata = {
     siteName: "Blog de Wabog",
     locale: "es_CO",
   },
+  icons: {
+    icon: [{ url: "/icon.png", type: "image/png", sizes: "48x48" }],
+    apple: [{ url: "/apple-icon.png", type: "image/png", sizes: "180x180" }],
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
