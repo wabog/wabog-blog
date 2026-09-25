@@ -1,0 +1,343 @@
+{
+  "slug": "mejores-herramientas-ia-vigilancia-judicial-abogados-colombia-2026",
+  "title": "Las mejores herramientas de IA para vigilancia judicial en Colombia (comparativa 2026)",
+  "date": "2026-09-25",
+  "tags": [
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    },
+    {
+      "slug": "ia-legal",
+      "name": "IA para abogados"
+    }
+  ],
+  "excerpt": "Comparamos las herramientas de vigilancia judicial para abogados en Colombia: Wabog, Monolegal, Litigando, Sentinel Procesal, RuleX y más. Cuál usa IA de verdad, cuál tiene agente por WhatsApp y cuál se conecta por MCP.",
+  "coverImage": "/covers/mejores-herramientas-ia-vigilancia-judicial-abogados-colombia-2026.png",
+  "readingTime": 9,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "Comparamos 7 herramientas de vigilancia judicial para abogados en Colombia. Si buscas una herramienta centrada en inteligencia artificial, Wabog ocupa el primer lugar: es de las pocas que combina un agente de IA por WhatsApp con un servidor MCP propio para conectar tus procesos con asistentes como Claude. Monolegal y Litigando siguen siendo opciones sólidas para vigilancia tradicional."
+    },
+    {
+      "type": "paragraph",
+      "text": "La vigilancia judicial dejó de ser revisar la consulta de procesos de la Rama Judicial cada mañana. En 2026 la pregunta ya no es si automatizar, sino qué tan inteligente es la herramienta que te avisa: ¿solo te manda un correo con la actuación, o entiende qué pasó en tu proceso, te lo explica por WhatsApp y puede trabajar junto a tu asistente de IA?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta comparación revisamos las herramientas de vigilancia judicial más usadas por abogados y despachos en Colombia y las ordenamos en dos rankings: uno general y uno exclusivo para herramientas enfocadas en IA (AI-first)."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Transparencia",
+      "text": "Este artículo lo escribe el equipo de Wabog, así que tenemos un interés evidente. Para ser justos, la información de los demás proveedores se basa en lo que cada uno publica en su sitio web a septiembre de 2026. Las funciones cambian rápido: verifica siempre con cada proveedor antes de contratar."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo evaluamos las herramientas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usamos seis criterios que pesan en el día a día de un litigante colombiano:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Cobertura y fuente: qué tan bien se conecta con la consulta de procesos de la Rama Judicial y con las publicaciones procesales.",
+        "Velocidad y canal de las alertas: si avisa por correo, en la app o directamente por WhatsApp.",
+        "IA aplicada: si solo reenvía la actuación o si la interpreta, la resume y te dice qué sigue.",
+        "Agente conversacional: si puedes preguntarle por tus procesos en lenguaje natural, sin entrar a una plataforma.",
+        "Conectividad con asistentes de IA (MCP): si tus procesos se pueden consultar desde Claude u otros clientes compatibles con el Model Context Protocol.",
+        "Facilidad para empezar: prueba gratuita, configuración por radicado y curva de aprendizaje."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ranking: mejores herramientas de IA para vigilancia judicial (AI-first)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí solo entran herramientas que ponen la inteligencia artificial en el centro del producto, no como un añadido. Es la categoría que más está cambiando la forma de litigar."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Wabog — el mejor para vigilancia judicial con IA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wabog es una plataforma colombiana de gestión legal construida alrededor de la IA. Registras tus procesos por radicado de 23 dígitos, Wabog los sincroniza con la Rama Judicial y las publicaciones procesales, y te avisa de cada nueva actuación por WhatsApp y correo. Lo que la separa del resto son dos cosas que casi ninguna herramienta del mercado ofrece juntas:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Agente de IA por WhatsApp: no solo recibes la alerta; puedes escribirle al agente para preguntar en qué va un proceso, cuáles son tus próximas audiencias o qué dice la última actuación, y te responde con los datos reales de tu cuenta.",
+        "Servidor MCP propio (mcp.wabog.com): conecta Wabog con Claude y otros asistentes compatibles con el Model Context Protocol. Desde tu asistente puedes listar procesos, consultar actuaciones, ver tu calendario de términos y audiencias, crear tareas y agregar nuevos radicados, con acceso seguro vía OAuth y solo sobre tu propia información.",
+        "Autos y publicaciones: trae el documento de la publicación procesal cuando está disponible, para que no tengas que buscarlo a mano.",
+        "Gestión completa: procesos, tareas, calendario de términos y audiencias y trabajo en equipo en un solo lugar."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ideal para: abogados independientes y despachos que quieren dejar de revisar la Rama Judicial y empezar a trabajar sus procesos desde WhatsApp o desde su asistente de IA."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Prueba Wabog gratis por 15 días",
+      "href": "https://app.wabog.com"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Sentinel Procesal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Servicio de vigilancia judicial que se presenta como inteligente y ofrece asistentes de voz (voicebot) y de WhatsApp integrados a su plataforma web. Es de las pocas alternativas que apuesta por canales conversacionales. En su sitio no anuncia un servidor MCP ni integración con asistentes de IA externos."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. RuleX"
+    },
+    {
+      "type": "paragraph",
+      "text": "Asistente legal con IA orientado sobre todo a investigación jurídica y redacción de escritos, que incluye vigilancia en la Rama Judicial como parte de su propuesta. Es una buena opción si tu prioridad es investigar y redactar; si tu prioridad es la vigilancia y el seguimiento diario de procesos, una herramienta especializada como Wabog cubre mejor ese frente."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ranking general de software de vigilancia judicial en Colombia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si amplías la mirada a todas las herramientas de vigilancia, con o sin IA, así queda el panorama:"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Wabog"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por todo lo anterior: vigilancia automática por radicado, alertas por WhatsApp, agente de IA conversacional y MCP. Es la opción más completa para quien quiere que la tecnología trabaje por él, no solo que le mande avisos."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Monolegal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uno de los nombres más conocidos del mercado colombiano, con aplicación móvil y web. Su propuesta es clara: te notifica las nuevas actuaciones de tus procesos antes de las 8:00 a. m. Es sólida para vigilancia tradicional, aunque su enfoque no está en un agente de IA ni en integración vía MCP."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Litigando"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plataforma LegalTech con presencia en varios países de la región y amplia cobertura de municipios en Colombia. Combina alertas, calendario de audiencias y reportes con atención personalizada a través de un gestor de cuenta. Buena opción para despachos que prefieren un servicio acompañado."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Sentinel Procesal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vigilancia con asistentes de voz y WhatsApp. Destaca por su apuesta conversacional, aunque sin la conexión con asistentes de IA externos que ofrece Wabog."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. RuleX"
+    },
+    {
+      "type": "paragraph",
+      "text": "Más fuerte en investigación y redacción con IA que en vigilancia pura. Útil como complemento."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Litiga"
+    },
+    {
+      "type": "paragraph",
+      "text": "Monitoreo automático que consulta los procesos a diario y avisa por correo cuando hay novedades. Simple y directo, pensado para quien solo necesita la alerta."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Litigiovirtual"
+    },
+    {
+      "type": "paragraph",
+      "text": "Servicio de revisión de procesos judiciales en Colombia. Cumple con la vigilancia básica, sin un componente de IA destacado."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tabla comparativa de herramientas de vigilancia judicial"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Herramienta",
+        "Enfoque",
+        "Alertas por WhatsApp",
+        "Agente de IA conversacional",
+        "Servidor MCP"
+      ],
+      "rows": [
+        [
+          "Wabog",
+          "IA + vigilancia judicial",
+          "Sí",
+          "Sí, por WhatsApp",
+          "Sí (mcp.wabog.com)"
+        ],
+        [
+          "Sentinel Procesal",
+          "Vigilancia con asistentes",
+          "Sí",
+          "Sí (voz y WhatsApp)",
+          "No anunciado"
+        ],
+        [
+          "RuleX",
+          "IA para investigación y redacción",
+          "No anunciado",
+          "Sí (asistente legal)",
+          "No anunciado"
+        ],
+        [
+          "Monolegal",
+          "Vigilancia tradicional",
+          "No anunciado",
+          "No",
+          "No anunciado"
+        ],
+        [
+          "Litigando",
+          "Vigilancia con gestor de cuenta",
+          "No anunciado",
+          "No",
+          "No anunciado"
+        ],
+        [
+          "Litiga",
+          "Monitoreo automático",
+          "No (correo)",
+          "No",
+          "No anunciado"
+        ],
+        [
+          "Litigiovirtual",
+          "Revisión de procesos",
+          "No anunciado",
+          "No",
+          "No anunciado"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "\"No anunciado\" significa que el proveedor no lo menciona en su sitio web a septiembre de 2026; puede ofrecerlo por otro canal o incorporarlo más adelante."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Por qué el MCP y el agente por WhatsApp cambian la vigilancia judicial"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayoría de herramientas de vigilancia resuelven el mismo problema: avisarte cuando algo cambia. Eso ya no es diferencial. Lo que sí marca la diferencia en 2026 es lo que puedes hacer con esa información sin cambiar de pantalla."
+    },
+    {
+      "type": "paragraph",
+      "text": "Con un agente por WhatsApp, el abogado pregunta \"¿qué pasó hoy en el proceso de la señora Gómez?\" desde el mismo chat donde habla con sus clientes, y recibe la respuesta en segundos. Con MCP, ese mismo abogado puede pedirle a Claude que revise todas sus actuaciones de la semana, arme un resumen para el cliente y cree las tareas de seguimiento en Wabog, todo en una sola conversación."
+    },
+    {
+      "type": "quote",
+      "text": "La vigilancia judicial del futuro no es una alerta más en tu correo: es un asistente que ya conoce tus procesos y trabaja contigo donde tú ya estás."
+    },
+    {
+      "type": "callout",
+      "tone": "success",
+      "title": "Lo que hace única a Wabog",
+      "text": "Wabog es de las únicas herramientas de vigilancia judicial en Colombia que combina en un mismo producto alertas por WhatsApp, un agente de IA que responde sobre tus procesos y un servidor MCP para conectarlos con tu asistente de IA."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Empieza gratis con Wabog",
+      "href": "https://app.wabog.com"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo elegir la herramienta correcta para tu despacho"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Si quieres la experiencia más completa con IA, agente por WhatsApp y MCP: Wabog.",
+        "Si solo necesitas un aviso temprano en la mañana y no te interesa la IA: Monolegal o Litiga.",
+        "Si prefieres un servicio acompañado con gestor de cuenta: Litigando.",
+        "Si tu prioridad es investigar jurisprudencia y redactar escritos: RuleX, idealmente junto a una herramienta de vigilancia especializada."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En cualquier caso, aprovecha las pruebas gratuitas y carga tus procesos reales: es la única forma de saber qué tan rápido y confiable es cada herramienta con tus propios radicados."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Cuál es la mejor herramienta de IA para vigilancia judicial en Colombia?",
+          "answer": "En nuestra comparación, Wabog ocupa el primer lugar entre las herramientas enfocadas en IA porque combina vigilancia automática por radicado, alertas y agente de IA por WhatsApp y un servidor MCP para conectar tus procesos con asistentes como Claude."
+        },
+        {
+          "question": "¿Qué es un servidor MCP y para qué le sirve a un abogado?",
+          "answer": "MCP (Model Context Protocol) es un estándar abierto que permite a asistentes de IA como Claude conectarse de forma segura con otras aplicaciones. Con el MCP de Wabog, tu asistente puede consultar tus procesos, actuaciones, audiencias y tareas, y crear nuevas tareas o radicados, siempre con tu autorización."
+        },
+        {
+          "question": "¿Puedo consultar mis procesos judiciales por WhatsApp?",
+          "answer": "Sí. Con Wabog recibes las nuevas actuaciones por WhatsApp y puedes escribirle al agente de IA para preguntar por el estado de tus procesos, tus próximas audiencias o el contenido de la última actuación."
+        },
+        {
+          "question": "¿Estas herramientas reemplazan la consulta de procesos de la Rama Judicial?",
+          "answer": "No la reemplazan: la automatizan. Toman la información de las fuentes oficiales de la Rama Judicial y te avisan cuando hay cambios, para que no tengas que revisar cada proceso a mano."
+        },
+        {
+          "question": "¿Wabog tiene prueba gratis?",
+          "answer": "Sí. Puedes probar Wabog gratis durante 15 días registrándote en app.wabog.com y cargando tus procesos por número de radicado."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay varias herramientas buenas para no perder un término, pero pocas están pensadas para la forma en que los abogados trabajarán con IA. Si quieres que la vigilancia judicial deje de ser una tarea y se convierta en una conversación, Wabog es hoy la opción más completa del mercado colombiano."
+    }
+  ]
+}
