@@ -58,6 +58,8 @@ function ArticleJsonLd({ post }: { post: Post }) {
       headline: post.title,
       description: post.excerpt,
       image,
+      articleSection: post.tags.map((tag) => tag.name),
+      keywords: post.tags.map((tag) => tag.name).join(", "),
       datePublished: post.date,
       dateModified: post.updatedAt ?? post.date,
       author: {

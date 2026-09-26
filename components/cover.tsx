@@ -10,7 +10,7 @@ export function Cover({
       {src ? (
         <Image
           src={src}
-          alt=""
+          alt={title}
           fill
           sizes="(max-width: 900px) 100vw, 50vw"
         />
