@@ -91,19 +91,6 @@ function htmlToBlocks(html) {
   return blocks;
 }
 
-function estimateReadingTime(blocks) {
-  const wordsPerMinute = 200;
-  let words = 0;
-  const count = (t) => {
-    words += t.trim().split(/\s+/).filter(Boolean).length;
-  };
-  for (const block of blocks) {
-    if (block.type === "paragraph") count(block.text);
-    else if (block.type === "heading") count(block.text);
-  }
-  return Math.max(1, Math.round(words / wordsPerMinute));
-}
-
 async function downloadImage(url, dest) {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`imagen ${url}: HTTP ${res.status}`);

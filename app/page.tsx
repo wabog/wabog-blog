@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { CSSProperties } from "react";
+import type { Metadata } from "next";
 import { FeaturedPost } from "@/components/featured-post";
 import { PostCard } from "@/components/post-card";
 import { SearchBar } from "@/components/search";
@@ -13,10 +14,12 @@ const TOPIC_COLORS: Record<string, { bg: string; fg: string }> = {
   "panorama-juridico": { bg: "#e5e2ff", fg: "#003f8f" },
 };
 
-export const metadata = {
-  title: "Blog de Wabog — Gestión legal inteligente",
+export const metadata: Metadata = {
+  title: { absolute: "Blog de Wabog — Gestión legal inteligente" },
   description:
     "Guías y novedades sobre la Rama Judicial de Colombia, radicados, vigilancia procesal y automatización legal con la IA de Wabog.",
+  alternates: { canonical: "/" },
+  openGraph: { url: "/" },
 };
 
 export default function HomePage() {

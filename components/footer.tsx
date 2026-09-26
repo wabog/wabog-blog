@@ -1,4 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
+import Link from "next/link";
+
 export function Footer() {
   return (
     <footer className="site-footer">
@@ -31,7 +33,7 @@ export function Footer() {
             <a href="https://wabog.com/mcp/" data-analytics="footer_mcp" data-analytics-location="footer">Wabog MCP</a>
             <a href="https://wabog.com/#pricing" data-analytics="footer_precios" data-analytics-location="footer">Precios</a>
             <a href="https://app.wabog.com" data-analytics="footer_login" data-analytics-location="footer">Inicia sesión</a>
-            <a href="/" data-analytics="footer_blog" data-analytics-location="footer">Blog</a>
+            <Link href="/" data-analytics="footer_blog" data-analytics-location="footer">Blog</Link>
           </div>
         </div>
 

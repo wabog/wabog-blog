@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: post.title,
     description: post.excerpt,
-    alternates: { canonical: `/${post.slug}` },
+    alternates: { canonical: `/${post.slug}/` },
     openGraph: {
       title: post.title,
       description: post.excerpt,
@@ -32,31 +32,38 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       publishedTime: post.date,
       modifiedTime: post.updatedAt ?? post.date,
       authors: [post.author],
+      url: `/${post.slug}/`,
       images: post.coverImage ? [{ url: post.coverImage }] : undefined,
     },
     twitter: {
       card: "summary_large_image",
       title: post.title,
       description: post.excerpt,
+      images: post.coverImage ? [post.coverImage] : undefined,
     },
   };
 }
 
 function ArticleJsonLd({ post }: { post: Post }) {
   const faqs = post.blocks.filter((b): b is Extract<BlogBlock, { type: "faq" }> => b.type === "faq");
-  const url = `https://blog.wabog.com/${post.slug}`;
+  const url = `https://blog.wabog.com/${post.slug}/`;
+  const image = post.coverImage
+    ? new URL(post.coverImage, "https://blog.wabog.com").toString()
+    : undefined;
 
   const graph: object[] = [
     {
-      "@context": "https://schema.org",
       "@type": "Article",
       "@id": `${url}#article`,
       headline: post.title,
       description: post.excerpt,
-      image: post.coverImage,
+      image,
       datePublished: post.date,
       dateModified: post.updatedAt ?? post.date,
-      author: { "@type": "Organization", name: "Wabog" },
+      author: {
+        "@type": post.author === "Wabog" ? "Organization" : "Person",
+        name: post.author,
+      },
       publisher: {
         "@type": "Organization",
         name: "Wabog",
@@ -64,6 +71,24 @@ function ArticleJsonLd({ post }: { post: Post }) {
       },
       mainEntityOfPage: { "@type": "WebPage", "@id": url },
       inLanguage: "es",
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": `${url}#breadcrumb`,
+      itemListElement: [
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Blog de Wabog",
+          item: "https://blog.wabog.com/",
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: post.title,
+          item: url,
+        },
+      ],
     },
   ];
 
@@ -84,7 +109,9 @@ function ArticleJsonLd({ post }: { post: Post }) {
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(graph) }}
+      dangerouslySetInnerHTML={{
+        __html: JSON.stringify({ "@context": "https://schema.org", "@graph": graph }),
+      }}
     />
   );
 }
