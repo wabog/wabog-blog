@@ -21,6 +21,9 @@ const sourceSerif = Source_Serif_4({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://blog.wabog.com"),
+  alternates: {
+    canonical: "/",
+  },
   title: {
     default: "Blog de Wabog — Gestión legal inteligente",
     template: "%s · Blog de Wabog",

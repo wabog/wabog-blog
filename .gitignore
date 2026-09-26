@@ -24,6 +24,10 @@ yarn-error.log*
 .env*
 !.env.example
 
+# Google service-account credentials
+google-*.json
+bloguiagent-459803-26b878bbc8dc.json
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
