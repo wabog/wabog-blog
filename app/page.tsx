@@ -14,6 +14,48 @@ const TOPIC_COLORS: Record<string, { bg: string; fg: string }> = {
   "panorama-juridico": { bg: "#e5e2ff", fg: "#003f8f" },
 };
 
+function HomeJsonLd() {
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{
+        __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://blog.wabog.com/#website",
+              url: "https://blog.wabog.com/",
+              name: "Blog de Wabog",
+              description:
+                "Guías y novedades sobre la Rama Judicial de Colombia, IA legal y LegalTech.",
+              inLanguage: "es-CO",
+            },
+            {
+              "@type": "Blog",
+              "@id": "https://blog.wabog.com/#blog",
+              url: "https://blog.wabog.com/",
+              name: "Blog de Wabog",
+              description:
+                "Guías y novedades sobre la Rama Judicial de Colombia, IA legal y LegalTech.",
+              publisher: {
+                "@type": "Organization",
+                name: "Wabog",
+                url: "https://wabog.com/",
+                logo: {
+                  "@type": "ImageObject",
+                  url: "https://blog.wabog.com/waboglogo.webp",
+                },
+              },
+              inLanguage: "es-CO",
+            },
+          ],
+        }),
+      }}
+    />
+  );
+}
+
 export const metadata: Metadata = {
   title: { absolute: "Blog de Wabog — Gestión legal inteligente" },
   description:
@@ -43,6 +85,7 @@ export default function HomePage() {
 
   return (
     <>
+      <HomeJsonLd />
       <section className="home-hero">
         <div className="container">
           <div className="hero-center">
