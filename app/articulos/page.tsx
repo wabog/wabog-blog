@@ -3,9 +3,11 @@ import { PostCard } from "@/components/post-card";
 import { getAllPosts } from "@/lib/posts";
 
 export const metadata: Metadata = {
-  title: "Todos los artículos — Blog de Wabog",
+  title: "Todos los artículos",
   description:
     "Todas las guías de Wabog sobre vigilancia judicial, IA legal y legaltech en Colombia.",
+  alternates: { canonical: "/articulos/" },
+  openGraph: { url: "/articulos/" },
 };
 
 export default function AllPostsPage() {

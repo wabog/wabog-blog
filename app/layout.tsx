@@ -21,15 +21,17 @@ const sourceSerif = Source_Serif_4({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://blog.wabog.com"),
-  alternates: {
-    canonical: "/",
-  },
   title: {
     default: "Blog de Wabog — Gestión legal inteligente",
     template: "%s · Blog de Wabog",
   },
   description:
     "Guías y novedades sobre la Rama Judicial de Colombia, radicados, vigilancia procesal y automatización legal con la IA de Wabog.",
+  alternates: {
+    types: {
+      "application/rss+xml": "/feed.xml",
+    },
+  },
   openGraph: {
     type: "website",
     siteName: "Blog de Wabog",

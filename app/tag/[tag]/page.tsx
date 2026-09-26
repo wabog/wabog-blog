@@ -20,6 +20,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: current.name,
     description: `Artículos sobre ${current.name.toLowerCase()} en el blog de Wabog.`,
+    alternates: { canonical: `/tag/${current.slug}/` },
+    openGraph: { url: `/tag/${current.slug}/` },
   };
 }
 
