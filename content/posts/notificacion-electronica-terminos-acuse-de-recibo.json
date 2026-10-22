@@ -1,0 +1,258 @@
+{
+  "slug": "notificacion-electronica-terminos-acuse-de-recibo",
+  "title": "Notificación electrónica: ¿desde cuándo corren los términos?",
+  "date": "2026-10-22",
+  "tags": [
+    {
+      "slug": "notificaciones",
+      "name": "notificaciones"
+    },
+    {
+      "slug": "ley-2213",
+      "name": "Ley 2213"
+    },
+    {
+      "slug": "justicia-digital",
+      "name": "justicia digital"
+    }
+  ],
+  "excerpt": "Notificación electrónica en la Ley 2213: cuándo se entiende surtida, qué cambia el acuse de recibo según la STC200-2026 y cómo contar bien los términos.",
+  "coverImage": "/covers/notificacion-electronica-terminos-acuse-de-recibo.png",
+  "readingTime": 8,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "En la notificación electrónica de la Ley 2213 de 2022 hay dos reglas distintas: la notificación se presume hecha dos días hábiles después del envío, pero los términos empiezan a contarse cuando hay acuse de recibo o constancia de acceso al mensaje. En la STC200-2026, la Corte Suprema consideró razonable contar el término desde el día hábil siguiente al acuse, sin sumar los dos días. Si recibiste el correo y hay prueba de ello, no cuentes con días extra."
+    },
+    {
+      "type": "paragraph",
+      "text": "La notificación electrónica es hoy la forma más común de enterar a una parte de un auto admisorio, un mandamiento de pago o cualquier providencia que deba notificarse personalmente. Y también es una de las fuentes más frecuentes de recursos rechazados por extemporáneos: muchos abogados siguen sumando “dos días de gracia” a todo correo recibido, aunque exista acuse de recibo. Una sentencia de tutela de la Corte Suprema de Justicia de 2026, la STC200-2026, volvió a poner el tema sobre la mesa y deja una lección práctica clara para litigantes, firmas y casas de cobranza."
+    },
+    {
+      "type": "paragraph",
+      "text": "En este artículo explicamos qué dice la norma, qué decidió la Corte y cómo contar los términos para no perder un recurso."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué dice la Ley 2213 sobre la notificación electrónica"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Ley 2213 de 2022, expedida el 13 de junio de 2022, convirtió en legislación permanente las normas del Decreto Legislativo 806 de 2020 sobre el uso de tecnologías de la información en las actuaciones judiciales. Su artículo 8 permite que las notificaciones personales se hagan enviando la providencia como mensaje de datos a la dirección electrónica o al sitio que suministre el interesado, sin necesidad de enviar previa citación o aviso físico o virtual. Quien pide la notificación debe afirmar bajo juramento que esa dirección corresponde a la persona por notificar."
+    },
+    {
+      "type": "paragraph",
+      "text": "El punto que genera discusiones está en el tercer inciso de ese artículo, que en realidad contiene dos reglas:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Una presunción: la notificación personal se entiende realizada una vez transcurridos dos días hábiles siguientes al envío del mensaje.",
+        "Una regla de cómputo: los términos empiezan a contarse cuando el iniciador recibe acuse de recibo o cuando se puede constatar por otro medio que el destinatario accedió al mensaje."
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "…y los términos empezarán a contarse cuándo el iniciador recepcione acuse de recibo o se pueda por otro medio constatar el acceso del destinatario al mensaje.",
+      "cite": "Ley 2213 de 2022, artículo 8, inciso 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "La misma ley añade que, para estos fines, se pueden implementar o usar sistemas de confirmación del recibo de los correos electrónicos o mensajes de datos. Y el parágrafo del artículo 9 aplica una lógica idéntica a los traslados entre partes: cuando una parte acredita que envió un escrito por canal digital a los demás sujetos procesales, se prescinde del traslado por secretaría, este se entiende hecho a los dos días hábiles siguientes al envío y el término empieza a contarse con el acuse de recibo o la constatación del acceso."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "De dónde viene la regla del acuse de recibo: la sentencia C-420 de 2020"
+    },
+    {
+      "type": "paragraph",
+      "text": "La segunda parte del inciso no nació con la Ley 2213. Cuando revisó el Decreto 806 de 2020, la Corte Constitucional, en la sentencia C-420 de 2020 (magistrado ponente Richard Ramírez Grisales), declaró exequibles de manera condicionada el inciso 3 del artículo 8 y el parágrafo del artículo 9, en el entendido de que el término empezaría a contarse cuando el iniciador recepcione acuse de recibo o se pueda constatar por otro medio el acceso del destinatario al mensaje. El legislador incorporó luego ese condicionamiento al texto de la Ley 2213."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué decidió la Corte Suprema en la STC200-2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "La STC200-2026 es una sentencia de tutela de la Sala de Casación Civil, Agraria y Rural de la Corte Suprema de Justicia, del 23 de enero de 2026, con ponencia del magistrado Fernando Augusto Jiménez Valderrama (radicación 76001-22-03-000-2025-00518-01). Resolvió la impugnación de una tutela contra un juzgado civil del circuito de Cali, dentro de un proceso de restitución."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según la providencia, reseñada por vLex y por el Boletín Virtual 190 del Departamento de Derecho Procesal de la Universidad Externado, los hechos fueron estos: la demandada fue notificada del auto admisorio por correo electrónico y el mensaje generó acuse de recibo el viernes 30 de agosto de 2024. El juzgado contó el término de tres días para la reposición desde el lunes 2 de septiembre, de modo que venció el miércoles 4. La demandada presentó el recurso el 6 de septiembre, con el argumento de que primero había que dejar correr los dos días hábiles de la presunción. El juzgado terminó rechazándolo por extemporáneo."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la tutela, la empresa invocó la STC16733-2022 para sostener que la notificación siempre se entiende realizada dos días hábiles después del envío. La Corte confirmó que la tutela no procedía: la interpretación del juzgado sobre el artículo 8 “no resulta irrazonable, caprichosa ni desprovista de sustento normativo”, porque se apoya en el propio texto legal, y una lectura distinta de la parte no convierte la decisión en una vía de hecho."
+    },
+    {
+      "type": "quote",
+      "text": "Cuando el iniciador acusa recibo del mensaje es innecesario acudir a la presunción.",
+      "cite": "Corte Suprema de Justicia, STC200-2026, citada por Ámbito Jurídico"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dicho de otro modo: la presunción de los dos días sirve para los casos en que no hay certeza de que el destinatario recibió el mensaje. Si existe acuse de recibo, esa certeza ya está y el término corre desde el día hábil siguiente. Como explicó en Ámbito Jurídico la procesalista María Paula Cárdenas Gómez, sumar los dos días mezclaría dos reglas que operan en momentos distintos."
+    },
+    {
+      "type": "image",
+      "src": "/images/notificacion-electronica-terminos-acuse-de-recibo/dos-lecturas-notificacion-electronica.png",
+      "alt": "Línea de tiempo de una notificación electrónica con acuse de recibo: término contado desde el acuse frente a sumar dos días de presunción",
+      "caption": "Ejemplo ilustrativo con un término de tres días hábiles y sin festivos."
+    },
+    {
+      "type": "callout",
+      "tone": "warning",
+      "title": "Ojo con el alcance de la sentencia",
+      "text": "La STC200-2026 es un fallo de tutela: la Corte no unificó jurisprudencia, sino que concluyó que contar el término desde el acuse es una interpretación razonable que el juez de tutela no puede reemplazar. Otros despachos pueden haber aplicado lecturas distintas. La forma segura de litigar es asumir el conteo más corto."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo contar los términos de una notificación electrónica"
+    },
+    {
+      "type": "paragraph",
+      "text": "Con base en la norma y en la sentencia, estas son las situaciones más comunes y la forma prudente de manejarlas:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Situación",
+        "Qué dice la norma o la jurisprudencia",
+        "Recomendación práctica"
+      ],
+      "rows": [
+        [
+          "Correo enviado con acuse de recibo o constancia de acceso",
+          "Los términos empiezan a contarse con el acuse (art. 8, Ley 2213). En la STC200-2026 se consideró razonable contarlos desde el día hábil siguiente al acuse.",
+          "Cuenta desde el día hábil siguiente al acuse. No sumes los dos días de la presunción."
+        ],
+        [
+          "Correo enviado sin acuse ni constancia de acceso",
+          "Opera la presunción: la notificación se entiende realizada dos días hábiles después del envío.",
+          "Si notificas, busca evidencia de acceso. Si eres notificado, no esperes a discutir la fecha: actúa apenas conozcas la providencia."
+        ],
+        [
+          "Traslado de un escrito enviado por canal digital a las demás partes",
+          "Se prescinde del traslado por secretaría; se entiende hecho a los dos días hábiles del envío y el término corre con el acuse (art. 9, parágrafo).",
+          "Aplica la misma lógica: con acuse, el término no espera los dos días."
+        ],
+        [
+          "Discrepancia sobre cómo se hizo la notificación",
+          "La parte afectada puede alegarlo y debe manifestar bajo juramento que no se enteró de la providencia (art. 8, Ley 2213).",
+          "Conserva pruebas del envío, del acuse y del contenido adjunto."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué deben hacer abogados, firmas y casas de cobranza"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Si eres quien notifica"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Usa sistemas de confirmación de recibo o de lectura, o un servicio de correo electrónico certificado; la Ley 2213 lo permite expresamente.",
+        "Guarda el acuse, la constancia de entrega y copia exacta de lo enviado (providencia, demanda y anexos), y apórtalos al expediente.",
+        "Envía desde una cuenta institucional y a la dirección que juraste que corresponde al demandado; informa cómo la obtuviste y allega las evidencias, como exige el artículo 8.",
+        "En casas de cobranza, estandariza plantillas y un registro por radicado: en carteras con cientos de procesos ejecutivos, la prueba del acuse es lo que sostiene el conteo del término ante una nulidad."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Si eres el notificado"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Revisa a diario el correo que tienes registrado ante los despachos, incluida la carpeta de spam o correo no deseado.",
+        "Si abriste el mensaje o el sistema del remitente generó acuse, asume que el término empieza el día hábil siguiente.",
+        "Ante la duda, presenta el recurso o la contestación dentro del plazo más corto posible: discutir después si tenías dos días más es un riesgo que no vale la pena.",
+        "Anota la fecha del acuse en tu control de términos el mismo día en que llega el correo, no cuando lo leas con calma."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ten en cuenta que no todo llega al correo: muchas decisiones se notifican por estado electrónico y sus términos corren sin que nadie te escriba. Para esas actuaciones conviene una vigilancia diaria del proceso, manual o con una herramienta como Wabog, que avisa cuando aparece una actuación nueva."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Cómo recibir alertas de tus procesos por WhatsApp",
+      "href": "https://blog.wabog.com/como-recibir-notificaciones-de-procesos-judiciales-por-whatsapp"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Deja de revisar la Rama Judicial a mano",
+      "href": "https://blog.wabog.com/como-dejar-de-revisar-manualmente-la-rama-judicial-todos-los-dias"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Cuándo queda notificada una persona por correo electrónico según la Ley 2213?",
+          "answer": "El artículo 8 presume que la notificación personal se realiza una vez transcurridos dos días hábiles siguientes al envío del mensaje. Pero los términos empiezan a contarse cuando el remitente recibe acuse de recibo o se puede constatar por otro medio que el destinatario accedió al mensaje."
+        },
+        {
+          "question": "¿Siempre se suman dos días hábiles en la notificación electrónica?",
+          "answer": "No necesariamente. En la STC200-2026, la Corte Suprema consideró razonable que, si hay acuse de recibo, el término corra desde el día hábil siguiente, sin esperar los dos días de la presunción. Contar con esos dos días cuando ya hubo acuse puede llevar a que el recurso se rechace por extemporáneo."
+        },
+        {
+          "question": "¿El acuse de recibo es obligatorio para notificar por correo?",
+          "answer": "La ley no lo exige como requisito del envío, pero permite usar sistemas de confirmación de recibo y hace depender de él (o de otra constancia de acceso) el inicio del conteo de términos. Por eso, para quien notifica, conservar esa prueba es clave."
+        },
+        {
+          "question": "¿Qué puedo hacer si nunca recibí el correo de notificación?",
+          "answer": "El artículo 8 de la Ley 2213 prevé que, cuando hay discrepancia sobre la forma en que se practicó la notificación, la parte que se considere afectada debe manifestar bajo la gravedad del juramento que no se enteró de la providencia. Conviene actuar apenas se conozca la decisión y con asesoría sobre el mecanismo procesal adecuado."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://normativa.colpensiones.gov.co/colpens/compilacion/docs/ley_2213_2022.htm",
+      "title": "Ley 2213 de 2022 – texto compilado (Normograma de Colpensiones)"
+    },
+    {
+      "type": "embed",
+      "url": "https://ambitojuridico.com/sites/default/files/BancoMedios/Archivos/com-sent-c-420-20.pdf",
+      "title": "Corte Constitucional – Comunicado de la Sentencia C-420 de 2020 (vía Ámbito Jurídico)"
+    },
+    {
+      "type": "embed",
+      "url": "https://vlex.com.co/vid/sentencia-corte-suprema-justicia-1105151641",
+      "title": "Corte Suprema de Justicia – Sentencia STC200-2026, Sala de Casación Civil, Agraria y Rural (vLex)"
+    },
+    {
+      "type": "embed",
+      "url": "https://procesal.uexternado.edu.co/boletin-virtual-numero-190/",
+      "title": "Universidad Externado – Boletín Virtual 190 del Departamento de Derecho Procesal (reseña de la STC200-2026)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ambitojuridico.com/noticias/civilfamilia/dos-dias-de-regalo-el-mito-de-la-notificacion-electronica-en-la-ley-2213-de",
+      "title": "Ámbito Jurídico – ¿Dos días de regalo? El mito de la notificación electrónica en la Ley 2213 de 2022"
+    }
+  ]
+}
