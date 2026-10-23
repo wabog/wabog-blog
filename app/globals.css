@@ -1169,6 +1169,8 @@ a {
 }
 
 .article-prose img {
+  width: 100%;
+  height: auto;
   border-radius: var(--radius-sm);
   border: 1px solid var(--line);
 }
