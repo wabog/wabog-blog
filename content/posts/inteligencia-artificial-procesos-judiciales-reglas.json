@@ -1,0 +1,269 @@
+{
+  "slug": "inteligencia-artificial-procesos-judiciales-reglas",
+  "title": "Inteligencia artificial en procesos judiciales: reglas 2026",
+  "date": "2026-10-27",
+  "tags": [
+    {
+      "slug": "ia-legal",
+      "name": "IA para abogados"
+    },
+    {
+      "slug": "legaltech",
+      "name": "LegalTech"
+    }
+  ],
+  "excerpt": "Inteligencia artificial en procesos judiciales: qué exigen la Corte Constitucional, la Judicatura y la Corte Suprema a jueces y abogados en Colombia.",
+  "coverImage": "/covers/inteligencia-artificial-procesos-judiciales-reglas.webp",
+  "readingTime": 7,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "Colombia todavía no tiene una ley general de inteligencia artificial, pero el uso de IA en procesos judiciales ya tiene reglas claras. La Corte Constitucional (T-323 de 2024) dijo que la IA puede apoyar al juez, pero nunca reemplazar su razonamiento. El Consejo Superior de la Judicatura (Acuerdo PCSJA24-12243) fijó qué pueden y qué no pueden hacer jueces y empleados con IA generativa. Y la Corte Suprema (Auto AC739-2026) multó con 15 salarios mínimos a un abogado que citó sentencias inexistentes generadas con IA. En el Congreso cursan nuevos proyectos de ley radicados en julio de 2026. La regla práctica: use la IA, pero verifique cada cita y cada norma antes de radicar."
+    },
+    {
+      "type": "paragraph",
+      "text": "La inteligencia artificial en procesos judiciales dejó de ser un tema de foros académicos. Hoy hay jueces que la usan para resumir expedientes, abogados que redactan memoriales con asistentes de IA y casas de cobranza que generan demandas en serie a partir de plantillas. La pregunta ya no es si se puede usar, sino bajo qué reglas. Aunque no existe una ley que regule la IA de forma general, tres pronunciamientos —uno de la Corte Constitucional, uno del Consejo Superior de la Judicatura y uno de la Corte Suprema— ya marcan la cancha para jueces y litigantes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Hay una ley de inteligencia artificial en procesos judiciales?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No. A octubre de 2026 Colombia no tiene una ley general de IA. Lo que existe en el plano nacional es el documento CONPES 4144 de 2025, que adopta la Política Nacional de Inteligencia Artificial: un instrumento de política pública que fija lineamientos, pero no impone obligaciones ni sanciones a los particulares."
+    },
+    {
+      "type": "paragraph",
+      "text": "En el Congreso hay iniciativas nuevas. Al inicio de la legislatura 2026-2027 se radicaron, entre otros, el Proyecto de Ley 025 de 2026 en la Cámara de Representantes, presentado el 21 de julio de 2026 por un grupo amplio de congresistas, que busca regular la IA para garantizar su desarrollo ético y responsable y, según su exposición de motivos, incluye una clasificación de riesgos; y el Proyecto de Ley 138 de 2026 en el Senado, que propone un marco para la promoción, el desarrollo y el uso responsable de la IA y crearía un consejo asesor (CON-IA) de carácter consultivo. Ninguno es ley todavía, y sus textos pueden cambiar en los debates."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Mientras no haya ley",
+      "text": "Las reglas que hoy aplican al uso de IA en un proceso salen de la jurisprudencia, de los lineamientos de la Judicatura para la Rama Judicial y de los deberes procesales y éticos que ya existían para los abogados, como la prohibición de actuar con temeridad del Código General del Proceso."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "T-323 de 2024: la IA puede apoyar al juez, no reemplazarlo"
+    },
+    {
+      "type": "paragraph",
+      "text": "El caso que abrió la discusión fue una tutela sobre los derechos de un menor diagnosticado con trastorno del espectro autista. Según el resumen publicado por el Consejo Superior de la Judicatura, el juez de segunda instancia usó ChatGPT para complementar la argumentación de su fallo. Al revisar el caso, la Sala Segunda de Revisión de la Corte Constitucional, en la sentencia T-323 de 2024, aceptó que las herramientas de IA generativa pueden servir para tareas de gestión administrativa y documental, para apoyar la labor judicial y para corregir y resumir textos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El límite quedó trazado con claridad: la IA no puede sustituir el razonamiento lógico y humano del juez, y todo resultado debe pasar por la supervisión de un operador jurídico que verifique su precisión y coherencia. La Corte también insistió en la transparencia y la responsabilidad en el uso de estas herramientas, y pidió a la Judicatura expedir lineamientos para toda la Rama Judicial."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Acuerdo PCSJA24-12243: las reglas de la Judicatura para jueces"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 16 de diciembre de 2024 el Consejo Superior de la Judicatura expidió el Acuerdo PCSJA24-12243, con lineamientos para el uso responsable y seguro de la IA generativa en la Rama Judicial. Aplica a magistrados, jueces y empleados de todas las jurisdicciones. Entre sus principios están la no sustitución de la racionalidad humana, la supervisión y verificación humana, la protección de datos personales y la transparencia. Las reglas que más le interesan a un litigante son estas:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "No usar la IA para valorar pruebas, hacer juicios de valor ni resolver el problema jurídico del caso (artículo 8).",
+        "No adoptar ni motivar decisiones basadas únicamente en lo que produzca la herramienta (artículo 8).",
+        "Evitar las versiones gratuitas de chatbots comerciales y no ingresar datos personales, sensibles o reservados en herramientas que los retengan o los usen para entrenar modelos (artículo 8).",
+        "Verificar la exactitud y suficiencia de los resultados, incluidas las fuentes y los datos citados (artículo 9).",
+        "Cuando la IA incida en una decisión, dejar constancia en el expediente de la herramienta, el modelo, el proveedor, la fecha de uso, el propósito y la forma en que se usó, y diferenciar el texto generado (artículo 10)."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/inteligencia-artificial-procesos-judiciales-reglas/ia-rama-judicial-que-si-que-no.webp",
+      "alt": "Esquema de qué permite y qué no permite el Acuerdo PCSJA24-12243 sobre inteligencia artificial en procesos judiciales",
+      "caption": "Los usos permitidos y los vetados para jueces y empleados según la Judicatura."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para el abogado esto tiene un efecto práctico: si una providencia se apoyó en IA, el despacho debe decirlo y explicar cómo la usó. Esa constancia permite revisar si el juez delegó en la herramienta algo que no podía delegar, como valorar una prueba, y es un punto a examinar al preparar un recurso."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Auto AC739-2026: la Corte Suprema sanciona citas inventadas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Del lado de los abogados, el precedente más relevante llegó en febrero de 2026. La Sala de Casación Civil, Agraria y Rural de la Corte Suprema de Justicia, en el Auto AC739-2026, sancionó por temeridad procesal a un abogado que presentó un recurso extraordinario de revisión con transcripciones inexactas de normas y referencias a sentencias que no existen, al parecer generadas con un programa de IA. Al corregir su escrito, después de que la Corte le pidiera explicaciones, el abogado añadió nuevas citas inexistentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Corte le impuso una multa de 15 salarios mínimos legales mensuales vigentes —alrededor de 26 millones de pesos, según Ámbito Jurídico— y compulsó copias a la Comisión Seccional de Disciplina Judicial de Bogotá. Para la Sala, la conducta no fue un descuido aislado sino un patrón, porque el error se repitió tras la advertencia."
+    },
+    {
+      "type": "quote",
+      "text": "[El abogado] omitió el deber de verificación de la autenticidad y exactitud de las normas invocadas.",
+      "cite": "Corte Suprema de Justicia, Sala de Casación Civil, Agraria y Rural – Auto AC739-2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conviene leer bien el mensaje: la Corte no sancionó el uso de la IA, sino la falta de verificación. Como señaló un análisis publicado en Ámbito Jurídico, el reproche recae sobre la negligencia del abogado, no sobre la herramienta. Ese mismo análisis advierte sobre otro riesgo: los detectores de texto generado por IA son poco fiables y pueden marcar como artificial un escrito redactado a mano. Lo que importa es si el contenido es exacto, no cómo se escribió."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Las tres reglas, en una tabla"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Pronunciamiento",
+        "Qué fija",
+        "A quién se dirige"
+      ],
+      "rows": [
+        [
+          "Sentencia T-323 de 2024 (Corte Constitucional)",
+          "La IA puede apoyar, pero no sustituir el razonamiento del juez",
+          "Jueces (criterio para toda la Rama)"
+        ],
+        [
+          "Acuerdo PCSJA24-12243 (Consejo Superior de la Judicatura)",
+          "Usos permitidos y vetados, verificación y deber de transparencia",
+          "Magistrados, jueces y empleados"
+        ],
+        [
+          "Auto AC739-2026 (Corte Suprema, Sala Civil, Agraria y Rural)",
+          "Citar fuentes inexistentes es temeridad sancionable",
+          "Abogados litigantes"
+        ],
+        [
+          "CONPES 4144 de 2025 (Gobierno nacional)",
+          "Política Nacional de IA, sin sanciones",
+          "Entidades públicas (lineamientos)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué deben hacer abogados, firmas y casas de cobranza"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las reglas de la Judicatura obligan a los servidores judiciales, no a los litigantes, pero son una buena vara para medir la propia práctica. Combinadas con lo dicho por la Corte Suprema, dejan una lista de chequeo sencilla:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Verifique cada sentencia citada en la relatoría oficial de la corte correspondiente, con número, fecha y contenido. Si no la encuentra, no la cite.",
+        "Compare cada norma transcrita con el texto vigente. La IA tiende a parafrasear o mezclar artículos.",
+        "No pegue datos personales, reservados o del cliente en herramientas gratuitas que retengan la información o la usen para entrenar modelos.",
+        "Defina quién revisa. La Corte fue clara en que el deber de verificación no se traslada a asistentes ni a herramientas: la firma del memorial es la del abogado.",
+        "En operaciones masivas, como las demandas ejecutivas de una casa de cobranza, revise las plantillas generadas con IA antes de usarlas en serie: un error replicado en cientos de escritos multiplica el riesgo.",
+        "Lea las providencias buscando la constancia de uso de IA que exige el Acuerdo PCSJA24-12243 y evalúe si el juez se apoyó en la herramienta más allá de lo permitido."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/inteligencia-artificial-procesos-judiciales-reglas/checklist-escrito-con-ia.webp",
+      "alt": "Lista de chequeo para verificar un escrito redactado con inteligencia artificial antes de radicarlo en un proceso judicial",
+      "caption": "Cuatro verificaciones antes de radicar un escrito en el que intervino la IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si quiere profundizar en el uso responsable de estas herramientas en su despacho, estos artículos le pueden servir:"
+    },
+    {
+      "type": "cta_pill",
+      "label": "IA en derecho: mitos y verdades sobre confidencialidad y ética",
+      "href": "https://blog.wabog.com/mitos-y-verdades-sobre-confidencialidad-y-uso-etico-de-la-inteligencia-artificial-en-derecho"
+    },
+    {
+      "type": "cta_pill",
+      "label": "La IA reemplazará a los abogados: ¿mito o realidad?",
+      "href": "https://blog.wabog.com/ia-reemplazara-abogados-mito-realidad"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Un abogado puede usar inteligencia artificial para redactar una demanda?",
+          "answer": "Sí. Ninguna norma vigente lo prohíbe. Lo que la Corte Suprema sancionó en el Auto AC739-2026 fue presentar citas y normas sin verificar. El abogado responde por todo lo que firma, lo haya redactado él o una herramienta."
+        },
+        {
+          "question": "¿Un juez puede decidir un caso con ChatGPT?",
+          "answer": "No. Según la sentencia T-323 de 2024 y el Acuerdo PCSJA24-12243, la IA puede apoyar tareas como resumir o corregir textos, pero no puede valorar pruebas, resolver el problema jurídico ni sustituir el razonamiento del juez."
+        },
+        {
+          "question": "¿El juez debe informar si usó IA en una providencia?",
+          "answer": "Sí. El artículo 10 del Acuerdo PCSJA24-12243 exige dejar constancia de la herramienta, el modelo, el proveedor, la fecha, el propósito y la forma de uso cuando la IA incide en una decisión, y diferenciar el texto generado."
+        },
+        {
+          "question": "¿Cuál fue la sanción por citar sentencias falsas generadas con IA?",
+          "answer": "En el Auto AC739-2026, la Corte Suprema impuso una multa de 15 salarios mínimos legales mensuales vigentes por temeridad procesal y compulsó copias a la Comisión Seccional de Disciplina Judicial de Bogotá para la investigación disciplinaria."
+        },
+        {
+          "question": "¿Ya existe una ley de inteligencia artificial en Colombia?",
+          "answer": "No. A octubre de 2026 hay proyectos en trámite, como el PL 025 de 2026 de la Cámara y el PL 138 de 2026 del Senado, y una política pública, el CONPES 4144 de 2025, pero ninguna ley general vigente."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://cortesuprema.gov.co/sala-civil-agraria-y-rural-sanciona-a-abogado-por-temeridad-procesal-al-citar-textos-legales-y-referencias-jurisprudenciales-apocrifas-generadas-por-la-ia/",
+      "title": "Corte Suprema de Justicia – Sala Civil sanciona a abogado por citar referencias apócrifas generadas por IA (Auto AC739-2026)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/consejo-superior-de-la-judicatura/-/judicatura-presenta-abc-de-la-sentencia-de-la-corte-constitucional-sobre-uso-de-la-ia-generativa-en-la-administraci%C3%B3n-de-justicia",
+      "title": "Consejo Superior de la Judicatura – ABC de la Sentencia T-323 de 2024 de la Corte Constitucional"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/consejo-superior-de-la-judicatura/-/consejo-superior-de-la-judicatura-expidi%C3%B3-lineamientos-para-el-uso-responsable-y-seguro-de-la-ia-generativa-en-la-rama-judicial",
+      "title": "Consejo Superior de la Judicatura – Lineamientos para el uso de la IA generativa en la Rama Judicial"
+    },
+    {
+      "type": "embed",
+      "url": "https://rm.coe.int/colombia-guidelines-for-the-use-of-artificial-intelligence-in-the-judi/1680b53483",
+      "title": "Consejo Superior de la Judicatura – Texto del Acuerdo PCSJA24-12243 de 2024 (copia del Consejo de Europa)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.economistjurist.es/articulos-juridicos-destacados/inteligencia-artificial-en-la-justicia-analisis-de-la-sentencia-t-323-de-2024-de-la-corte-constitucional-de-colombia",
+      "title": "Economist & Jurist – Análisis de la Sentencia T-323 de 2024 de la Corte Constitucional"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ambitojuridico.com/noticias/comercial/analisis-la-corte-sanciono-al-abogado-no-la-inteligencia-artificial-ahora-el",
+      "title": "Ámbito Jurídico – Análisis: la Corte sancionó al abogado, no a la inteligencia artificial"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.camara.gov.co/wp-content/uploads/2026/07/proyectos-ley/documentos/proyecto-36127/P.L.025-2026SC-INTELIGENCIA-ARTIFICIAL.pdf",
+      "title": "Cámara de Representantes – Proyecto de Ley 025 de 2026 sobre inteligencia artificial"
+    },
+    {
+      "type": "embed",
+      "url": "https://leyes.senado.gov.co/p-ley/2026-2027/PL%20138-2026%20-%20USO%20RESPONSABLE%20IA.pdf",
+      "title": "Senado de la República – Proyecto de Ley 138 de 2026, uso responsable de la IA"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.esap.edu.co/wp-content/uploads/2026/06/conpes-4144.pdf",
+      "title": "DNP – Documento CONPES 4144 de 2025, Política Nacional de Inteligencia Artificial (copia ESAP)"
+    }
+  ]
+}
