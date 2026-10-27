@@ -3,8 +3,14 @@
   "title": "Inteligencia artificial en procesos judiciales: reglas 2026",
   "date": "2026-10-27",
   "tags": [
-    { "slug": "ia-legal", "name": "IA para abogados" },
-    { "slug": "legaltech", "name": "LegalTech" }
+    {
+      "slug": "ia-legal",
+      "name": "IA para abogados"
+    },
+    {
+      "slug": "legaltech",
+      "name": "LegalTech"
+    }
   ],
   "excerpt": "Inteligencia artificial en procesos judiciales: qué exigen la Corte Constitucional, la Judicatura y la Corte Suprema a jueces y abogados en Colombia.",
   "coverImage": "/covers/inteligencia-artificial-procesos-judiciales-reglas.webp",
@@ -110,12 +116,32 @@
     },
     {
       "type": "table",
-      "headers": ["Pronunciamiento", "Quién lo expidió", "Qué fija", "A quién obliga"],
+      "headers": [
+        "Pronunciamiento",
+        "Qué fija",
+        "A quién se dirige"
+      ],
       "rows": [
-        ["Sentencia T-323 de 2024", "Corte Constitucional", "La IA puede apoyar, pero no sustituir el razonamiento del juez", "Jueces (criterio para toda la Rama)"],
-        ["Acuerdo PCSJA24-12243", "Consejo Superior de la Judicatura", "Usos permitidos y vetados, verificación y deber de transparencia", "Magistrados, jueces y empleados"],
-        ["Auto AC739-2026", "Corte Suprema, Sala Civil, Agraria y Rural", "Citar fuentes inexistentes es temeridad sancionable", "Abogados litigantes"],
-        ["CONPES 4144 de 2025", "Gobierno nacional", "Política Nacional de IA, sin sanciones", "Entidades públicas (lineamientos)"]
+        [
+          "Sentencia T-323 de 2024 (Corte Constitucional)",
+          "La IA puede apoyar, pero no sustituir el razonamiento del juez",
+          "Jueces (criterio para toda la Rama)"
+        ],
+        [
+          "Acuerdo PCSJA24-12243 (Consejo Superior de la Judicatura)",
+          "Usos permitidos y vetados, verificación y deber de transparencia",
+          "Magistrados, jueces y empleados"
+        ],
+        [
+          "Auto AC739-2026 (Corte Suprema, Sala Civil, Agraria y Rural)",
+          "Citar fuentes inexistentes es temeridad sancionable",
+          "Abogados litigantes"
+        ],
+        [
+          "CONPES 4144 de 2025 (Gobierno nacional)",
+          "Política Nacional de IA, sin sanciones",
+          "Entidades públicas (lineamientos)"
+        ]
       ]
     },
     {
