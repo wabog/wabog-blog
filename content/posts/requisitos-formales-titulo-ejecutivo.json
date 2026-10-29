@@ -1,0 +1,253 @@
+{
+  "slug": "requisitos-formales-titulo-ejecutivo",
+  "title": "Requisitos formales del título ejecutivo: qué cambió",
+  "date": "2026-10-29",
+  "tags": [
+    {
+      "slug": "panorama-juridico",
+      "name": "Panorama jurídico"
+    },
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    }
+  ],
+  "excerpt": "Requisitos formales del título ejecutivo: la Corte Suprema fijó que solo se discuten en reposición contra el mandamiento de pago. Qué cambia en el cobro.",
+  "coverImage": "/covers/requisitos-formales-titulo-ejecutivo.webp",
+  "readingTime": 8,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "La Corte Suprema, en el fallo de tutela STC18586-2026 del 22 de septiembre de 2026, rectificó su criterio sobre los requisitos formales del título ejecutivo: una vez queda en firme el mandamiento de pago, ya no se pueden discutir, ni por el demandado ni por el juez de oficio al dictar sentencia. Lo que sí sigue abierto en todas las instancias es el examen de fondo: que la obligación sea clara, expresa y exigible. Para el ejecutado, la reposición contra el mandamiento (3 días) es la única oportunidad para atacar la forma del título. Para el ejecutante y las casas de cobranza, un título bien armado desde la demanda sigue siendo indispensable, porque el fondo se revisa hasta el final."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los requisitos formales del título ejecutivo vuelven a estar en el centro del cobro jurídico. Durante años, en muchos procesos ejecutivos se repitió la misma escena: el mandamiento de pago quedaba en firme, el demandado no lo recurría y, aun así, al momento de la sentencia el juez revisaba de nuevo el pagaré o la factura y terminaba la ejecución por un defecto de forma. Un fallo de tutela de la Sala de Casación Civil, Agraria y Rural de la Corte Suprema de Justicia, conocido en octubre de 2026, pone un límite a esa práctica y distingue con claridad qué se puede revisar después y qué no."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este artículo explica qué dice la decisión, cómo se diferencian los requisitos formales de los sustanciales y qué deben hacer, en la práctica, abogados ejecutantes, defensores de deudores y casas de cobranza."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué decidió la Corte Suprema en la STC18586-2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el análisis publicado por Ámbito Jurídico el 14 de octubre de 2026, la providencia STC18586-2026 fue proferida el 22 de septiembre de 2026 por la Sala de Casación Civil, Agraria y Rural, con ponencia de la magistrada Adriana Consuelo López Martínez (radicación 50001-22-13-000-2026-00238-01). En ella, la Corte rectificó la orientación que permitía al juez revisar oficiosamente los requisitos formales del título al dictar sentencia."
+    },
+    {
+      "type": "quote",
+      "text": "La ejecutoria del mandamiento de pago clausura la discusión sobre los requisitos formales del título ejecutivo.",
+      "cite": "Corte Suprema de Justicia, STC18586-2026, citada por Ámbito Jurídico"
+    },
+    {
+      "type": "paragraph",
+      "text": "La consecuencia es doble. Por un lado, si el demandado no interpone recurso de reposición contra el mandamiento de pago, o lo hace por fuera del término, pierde la oportunidad de alegar defectos de forma. Por otro, el juez tampoco puede reconocerlos de oficio después, ni en la sentencia ni en el auto que ordena seguir adelante la ejecución. Lo que no se cierra es el control sobre el fondo de la obligación, que el juez conserva durante todas las instancias."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Por qué es un cambio de criterio"
+    },
+    {
+      "type": "paragraph",
+      "text": "La regla no es nueva en el papel: el artículo 430 del Código General del Proceso ya dice que los requisitos formales del título solo pueden discutirse mediante reposición contra el mandamiento ejecutivo, y que los defectos formales no pueden reconocerse o declararse por el juez en la sentencia o en el auto que ordena seguir adelante la ejecución. Lo novedoso es la lectura de la Corte. Como recordó una columna de Ámbito Jurídico de 2019, en la STC4053 de 2018 la misma Sala había sostenido que el artículo 430 no impedía al juez volver a examinar el título al dictar el fallo, apoyándose en los deberes oficiosos de los artículos 4, 11 y 42 del CGP. Con la STC18586-2026, la Corte acota ese poder: el deber oficioso sigue existiendo, pero ya no alcanza los aspectos formales una vez en firme el mandamiento."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Un fallo de tutela, no una sentencia de casación",
+      "text": "La STC18586-2026 es una decisión de tutela. Marca el criterio actual de la Sala Civil y orienta a los jueces, pero conviene seguir de cerca cómo la aplican juzgados y tribunales en los próximos meses, porque en esta materia hubo posturas divergentes durante años."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Requisitos formales del título ejecutivo y requisitos sustanciales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Toda la decisión gira alrededor de esta distinción, que sale del artículo 422 del CGP: puede demandarse ejecutivamente la obligación expresa, clara y exigible que conste en un documento que provenga del deudor y constituya plena prueba contra él. De ahí se desprenden dos grupos de requisitos."
+    },
+    {
+      "type": "image",
+      "src": "/images/requisitos-formales-titulo-ejecutivo/formales-vs-sustanciales.webp",
+      "alt": "Esquema que compara los requisitos formales del título ejecutivo, que se discuten solo en reposición, con los requisitos sustanciales, que el juez revisa en todas las instancias",
+      "caption": "Formales: se cierran con el mandamiento en firme. Sustanciales: se revisan hasta el final."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "",
+        "Requisitos formales",
+        "Requisitos sustanciales"
+      ],
+      "rows": [
+        [
+          "Qué miran",
+          "Que el documento sea auténtico y provenga del deudor",
+          "Que la obligación sea clara, expresa y exigible"
+        ],
+        [
+          "Ejemplos",
+          "Firma del obligado, autenticidad del título, requisitos legales de una providencia o acto administrativo que sirva de título",
+          "Identificación de las partes, prestación precisa, cuantía determinada, que no haya condición pendiente ni plazo sin vencer"
+        ],
+        [
+          "Cómo se discuten",
+          "Solo con recurso de reposición contra el mandamiento de pago (art. 430 CGP)",
+          "Con excepciones de mérito y, además, por control oficioso del juez"
+        ],
+        [
+          "Hasta cuándo",
+          "Hasta que el mandamiento de pago queda en firme",
+          "Durante todas las instancias"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ejemplos de la tabla son los que recoge el análisis de Ámbito Jurídico sobre la decisión. En casos dudosos, la clasificación de un defecto como formal o sustancial será el punto de discusión, así que conviene argumentar desde el comienzo por qué un vicio pertenece a uno u otro grupo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Los plazos que ahora pesan más"
+    },
+    {
+      "type": "paragraph",
+      "text": "Con este criterio, el reloj procesal del ejecutivo se vuelve decisivo en sus primeros días. Estos son los términos del CGP que hay que tener presentes desde la notificación del mandamiento de pago:"
+    },
+    {
+      "type": "image",
+      "src": "/images/requisitos-formales-titulo-ejecutivo/linea-de-tiempo-mandamiento-de-pago.webp",
+      "alt": "Línea de tiempo del proceso ejecutivo: notificación del mandamiento de pago, 3 días para reposición por requisitos formales, 10 días para excepciones de mérito y sentencia",
+      "caption": "Términos del CGP desde la notificación del mandamiento de pago (días hábiles)."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Reposición contra el mandamiento de pago: dentro de los 3 días siguientes a su notificación, cuando el auto se profiere por fuera de audiencia (art. 318 CGP). Es la vía para atacar los requisitos formales del título y para proponer excepciones previas y el beneficio de excusión (arts. 430 y 442, num. 3).",
+        "Excepciones de mérito: dentro de los 10 días siguientes a la notificación del mandamiento ejecutivo, con los hechos que las sustentan y las pruebas (art. 442, num. 1).",
+        "Si no se proponen excepciones a tiempo, el juez ordena, mediante auto que no admite recurso, seguir adelante la ejecución, la liquidación del crédito y la condena en costas (art. 440)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Recuerde que, si el mandamiento se notifica por medios electrónicos, el término empieza a contarse según las reglas de la Ley 2213 de 2022. Un error de cómputo en esos primeros días ahora tiene un costo mayor: lo que no se alegó en reposición, en materia de forma, ya no se puede recuperar."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Notificación electrónica: ¿desde cuándo corren los términos?",
+      "href": "https://blog.wabog.com/notificacion-electronica-terminos-acuse-de-recibo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué deben hacer abogados, firmas y casas de cobranza"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Si representa al ejecutado"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Revise el título apenas se notifique el mandamiento: firma, autenticidad y procedencia del documento. Si encuentra un defecto de forma, la reposición es la única oportunidad.",
+        "Controle el término de 3 días con la fecha real de notificación y no lo confunda con los 10 días de las excepciones de mérito.",
+        "No cuente con que el juez detecte el defecto formal en la sentencia: según la STC18586-2026, ya no puede hacerlo.",
+        "Las defensas de fondo (obligación no clara, no expresa o no exigible) siguen disponibles en las excepciones de mérito, y el juez puede examinarlas incluso de oficio."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Si representa al ejecutante o a una casa de cobranza"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "El fallo da más estabilidad al cobro: si el mandamiento quedó en firme sin reposición, un defecto de forma no debería tumbar la ejecución al final del proceso.",
+        "No baje la guardia con el fondo. Cuantía, fechas de vencimiento, cartas de instrucciones de pagarés en blanco y condiciones pendientes se siguen revisando en todas las instancias.",
+        "Arme el título completo desde la demanda: documentos que acrediten la exigibilidad, cesiones y endosos en orden, y liquidaciones coherentes con lo pactado.",
+        "En carteras grandes, estandarice una revisión previa del título antes de radicar, para que el filtro de fondo no lo haga el juez al final."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En los dos lados, la clave es enterarse a tiempo de la notificación del mandamiento y del auto que resuelve la reposición. Una herramienta de vigilancia judicial, como Wabog, ayuda a recibir esas actuaciones el mismo día sin depender de la consulta manual del portal."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Cómo dejar de revisar manualmente la Rama Judicial todos los días",
+      "href": "https://blog.wabog.com/como-dejar-de-revisar-manualmente-la-rama-judicial-todos-los-dias"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Qué son los requisitos formales del título ejecutivo?",
+          "answer": "Son los que se refieren al documento en sí: que sea auténtico y que provenga del deudor o de la autoridad que lo expide. Por ejemplo, la firma del obligado o el cumplimiento de los requisitos legales de una providencia que sirva de título. Se distinguen de los sustanciales, que exigen que la obligación sea clara, expresa y exigible."
+        },
+        {
+          "question": "¿Cuándo se pueden discutir los requisitos formales del título?",
+          "answer": "Solo mediante recurso de reposición contra el mandamiento de pago, según el artículo 430 del CGP. Si el auto se profiere por fuera de audiencia, el plazo es de 3 días desde su notificación. Una vez en firme el mandamiento, la discusión queda cerrada."
+        },
+        {
+          "question": "¿El juez puede revisar de oficio el título ejecutivo en la sentencia?",
+          "answer": "Según la STC18586-2026, puede y debe revisar los requisitos sustanciales durante todas las instancias, pero ya no puede volver sobre los requisitos formales después de que el mandamiento de pago quedó ejecutoriado."
+        },
+        {
+          "question": "¿Qué pasa si no propuse reposición contra el mandamiento de pago?",
+          "answer": "Pierde la posibilidad de alegar defectos formales del título. Aún puede proponer excepciones de mérito dentro de los 10 días siguientes a la notificación del mandamiento, por ejemplo, que la obligación no es exigible o que prescribió."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ambitojuridico.com/noticias/civilfamilia/analisis-la-revision-oficiosa-de-los-requisitos-formales-del-titulo-ejecutivo",
+      "title": "Ámbito Jurídico – Análisis: la revisión oficiosa de los requisitos formales del título ejecutivo (STC18586-2026, 14 oct. 2026)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ambitojuridico.com/noticias/columnista-online/financiero-cambiario-y-seguros/revision-oficiosa-de-los-titulos-valores",
+      "title": "Ámbito Jurídico – Revisión oficiosa de los títulos valores y sus negocios causales en ejecutivos (2019, STC4053 de 2018)"
+    },
+    {
+      "type": "embed",
+      "url": "https://procesal.uexternado.edu.co/codigo-general/articulo-430-mandamiento-ejecutivo/",
+      "title": "Código General del Proceso – Artículo 430, mandamiento ejecutivo (Universidad Externado)"
+    },
+    {
+      "type": "embed",
+      "url": "https://procesal.uexternado.edu.co/codigo-general/articulo-318-procedencia-y-oportunidades/",
+      "title": "Código General del Proceso – Artículo 318, recurso de reposición (Universidad Externado)"
+    },
+    {
+      "type": "embed",
+      "url": "https://procesal.uexternado.edu.co/codigo-general/articulo-442-excepciones/",
+      "title": "Código General del Proceso – Artículo 442, excepciones en el proceso ejecutivo (Universidad Externado)"
+    },
+    {
+      "type": "embed",
+      "url": "https://procesal.uexternado.edu.co/codigo-general/articulo-440-cumplimiento-de-la-obligacion-orden-de-ejecucion-y-condena-en-costas/",
+      "title": "Código General del Proceso – Artículo 440, orden de seguir adelante la ejecución (Universidad Externado)"
+    }
+  ]
+}
