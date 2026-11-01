@@ -1,0 +1,202 @@
+{
+  "slug": "accion-pauliana-plazo",
+  "title": "Acción pauliana: el año corre desde la escritura",
+  "date": "2026-11-01",
+  "tags": [
+    {
+      "slug": "panorama-juridico",
+      "name": "Panorama jurídico"
+    },
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    }
+  ],
+  "excerpt": "Acción pauliana: la Corte Suprema reiteró que el año corre desde la escritura, no desde que el acreedor se entera. Qué deben hacer los acreedores.",
+  "coverImage": "/covers/accion-pauliana-plazo.webp",
+  "readingTime": 7,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "En la STC17075-2026 (2 de septiembre de 2026), la Sala de Casación Civil, Agraria y Rural de la Corte Suprema confirmó una tutela que dejó sin efecto un fallo de acción pauliana. Dos reglas prácticas: el año para demandar se cuenta desde la fecha del acto o contrato que se quiere revocar, no desde que el acreedor lo descubre; y quien alegue que ese plazo se suspendió por imposibilidad absoluta debe probar desde cuándo, por cuánto tiempo y con qué pruebas. Para acreedores y casas de cobranza, el mensaje es vigilar los bienes del deudor mientras el cobro avanza y demandar dentro del año."
+    },
+    {
+      "type": "paragraph",
+      "text": "La acción pauliana es la herramienta del acreedor cuando el deudor se desprende de sus bienes para no pagar: vende, dona o aporta a una sociedad los inmuebles que respaldaban la deuda. Tiene un plazo corto y, como acaba de recordar la Corte Suprema de Justicia en un fallo de tutela de septiembre de 2026, ese plazo no espera a que el acreedor se entere. Aquí explicamos el caso, las dos reglas que deja y qué ajustar en el cobro jurídico."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué es la acción pauliana y para qué sirve"
+    },
+    {
+      "type": "paragraph",
+      "text": "La acción pauliana, regulada en el artículo 2491 del Código Civil, permite al acreedor pedir que se revoquen los actos que el deudor celebró en fraude de sus derechos, para que los bienes vuelvan a estar disponibles para el pago. La jurisprudencia la describe como una acción de contenido ético: no castiga cualquier negocio del deudor, sino aquel que lo deja insolvente o agrava su insolvencia a sabiendas del daño que causa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según la recopilación que hace el Tribunal Superior de Cundinamarca en una sentencia de febrero de 2024, el acreedor debe acreditar, entre otros puntos, que su crédito es anterior al acto que ataca, el perjuicio que ese acto le causa y la mala fe del deudor. Si el negocio fue oneroso (una venta, por ejemplo), además tiene que probar el llamado consilium fraudis, es decir, la complicidad del tercero que contrató con el deudor. Si fue gratuito, basta la mala fe del deudor. Y, como recuerda ese tribunal, el dolo o la mala fe no se presumen: hay que probarlos."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El caso: un aporte de inmuebles a una sociedad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los hechos, según el texto de la providencia, son los de muchos cobros. En octubre de 2019 un juzgado laboral condenó a una persona natural a pagar prestaciones y aportes a una extrabajadora. En enero de 2020 se libró mandamiento de pago en el proceso ejecutivo. El 7 de febrero de 2020, pocos días después, el deudor aportó siete inmuebles a una sociedad mediante escritura pública, que se inscribió en el registro ese mismo mes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La acreedora presentó la acción pauliana el 21 de abril de 2023. El Juzgado Tercero Civil Municipal de Barranquilla negó la excepción de prescripción y revocó el aporte; el Juzgado Primero Civil del Circuito confirmó en mayo de 2026. Para salvar el plazo, los jueces aplicaron la suspensión de la prescripción a favor de quien está en imposibilidad absoluta de hacer valer su derecho, con base en la condición de salud de la acreedora y en un enfoque de género."
+    },
+    {
+      "type": "paragraph",
+      "text": "El deudor y la sociedad acudieron a la tutela. La Sala Civil Familia del Tribunal Superior de Barranquilla les dio la razón el 28 de julio de 2026: dejó sin efecto el fallo de segunda instancia y ordenó al juzgado dictar uno nuevo en quince días. La Corte Suprema, con ponencia de la magistrada Adriana Consuelo López Martínez, confirmó esa decisión."
+    },
+    {
+      "type": "image",
+      "src": "/images/accion-pauliana-plazo/linea-de-tiempo-caso.webp",
+      "alt": "Línea de tiempo del caso de acción pauliana: escritura del 7 de febrero de 2020, vencimiento del año en febrero de 2021, demanda del 21 de abril de 2023 y fallo de la Corte Suprema del 2 de septiembre de 2026",
+      "caption": "La demanda llegó más de tres años después de la escritura."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Regla 1: el plazo de la acción pauliana corre desde el acto, no desde que te enteras"
+    },
+    {
+      "type": "paragraph",
+      "text": "El numeral 3 del artículo 2491 dice que estas acciones expiran en un año, contado desde la fecha del acto o contrato. Para la Corte, la norma fija así un criterio objetivo: el término arranca en la fecha del negocio que se quiere revocar y no en la fecha en que el acreedor lo conoció. En el caso, el juez de primera instancia había tomado como punto de partida el momento en que la acreedora dijo haberse enterado, y la Corte consideró que eso sustituía el criterio temporal que la ley fijó expresamente."
+    },
+    {
+      "type": "quote",
+      "text": "La disposición establece, por tanto, un criterio objetivo para determinar el momento inicial del término.",
+      "cite": "Corte Suprema de Justicia, STC17075-2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Con la escritura del 7 de febrero de 2020, el año vencía, en principio, en febrero de 2021, y la demanda llegó más de tres años después. La Corte añadió un dato relevante: la escritura estaba inscrita en el registro, un mecanismo cuya finalidad es precisamente darle publicidad al acto. El mismo criterio aparece en la sentencia del Tribunal de Cundinamarca, que cita a la Corte Suprema (SC1971-2022) para recordar que la prescripción de un año se cuenta desde la época del acto o contrato."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Regla 2: la suspensión por imposibilidad absoluta se prueba, no se presume"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Corte no descartó que el plazo pueda suspenderse a favor de quien está en imposibilidad absoluta de demandar, ni rechazó el enfoque de género como herramienta de análisis. Lo que reprochó fue la forma de aplicarlo. Apoyándose en su sentencia SC2412 de 2021, explicó que se trata de una suspensión y no de una interrupción: el término deja de correr solo mientras dura la circunstancia que impide demandar, y luego se reanuda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso, el juez debe precisar tres cosas: desde cuándo surgió la imposibilidad, cuánto tiempo se mantuvo y qué pruebas demuestran que en ese periodo el acreedor de verdad no podía actuar. Según la Corte, la historia clínica por sí sola no basta y la imposibilidad no puede presumirse por la sola existencia de una enfermedad. Además, el expediente mostraba que en 2020 y 2021 la acreedora tenía apoderado en los procesos laboral y ejecutivo, un hecho que los jueces debían valorar frente a la supuesta imposibilidad."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Qué no decidió la Corte",
+      "text": "La STC17075-2026 es un fallo de tutela. La Corte no se pronunció sobre si el aporte de los inmuebles fue fraudulento ni sobre la solvencia del deudor, y aclaró que no revisaba el acierto de la decisión de revocar el aporte. Lo que confirmó es que el juzgado debe volver a decidir la apelación con un análisis completo del plazo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué deben hacer acreedores y casas de cobranza"
+    },
+    {
+      "type": "paragraph",
+      "text": "El caso deja una lección incómoda: la acreedora tenía sentencia, mandamiento de pago y abogado, y aun así la acción llegó años después del traspaso. Estas prácticas ayudan a no repetirlo:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Revisa los folios de matrícula de los inmuebles del deudor desde que inicia el cobro, y vuelve a revisarlos cada cierto tiempo, sobre todo después de la demanda y del mandamiento de pago, que es cuando más incentivos tiene el deudor para mover sus bienes.",
+        "Pide las medidas cautelares tan pronto como el proceso lo permita. Un embargo inscrito a tiempo evita tener que perseguir después los bienes en cabeza de un tercero.",
+        "Si detectas un traspaso, anota como fecha clave la de la escritura o el contrato, no la de tu hallazgo. Calcula el año desde ahí y deja un margen para preparar la demanda.",
+        "Reúne desde el inicio las pruebas de los elementos de la acción: crédito anterior, perjuicio, mala fe del deudor y, si el acto fue oneroso, la complicidad del tercero.",
+        "Si vas a alegar suspensión del término, documenta con precisión cuándo empezó la imposibilidad, cuándo terminó y qué la prueba. Una afirmación general no será suficiente."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/accion-pauliana-plazo/checklist-acreedor.webp",
+      "alt": "Checklist para el acreedor ante un traspaso de bienes: revisar folios de matrícula, pedir medidas cautelares, contar el año de la acción pauliana desde la escritura y probar la suspensión",
+      "caption": "Cuatro hábitos para no perder la acción pauliana por el plazo."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la práctica, el problema rara vez es jurídico: es de seguimiento. En carteras grandes, un traspaso o una actuación clave se pierde fácilmente si nadie revisa a diario; un sistema que avise de cada movimiento del proceso ayuda a reaccionar a tiempo."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Requisitos formales del título ejecutivo: qué cambió",
+      "href": "https://blog.wabog.com/requisitos-formales-titulo-ejecutivo"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ojo con la vacancia judicial"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si el año vence en diciembre, no dejes la demanda para la última semana: los plazos de meses y años se cuentan distinto a los términos en días cuando caen en la vacancia."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Vacancia judicial 2026: fechas y cómo contar los términos",
+      "href": "https://blog.wabog.com/vacancia-judicial-2026"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes sobre el plazo de la acción pauliana"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Cuánto tiempo hay para presentar una acción pauliana?",
+          "answer": "Un año, según el numeral 3 del artículo 2491 del Código Civil. La Corte Suprema, en la STC17075-2026, reiteró que ese año se cuenta desde la fecha del acto o contrato que se quiere revocar."
+        },
+        {
+          "question": "¿El plazo corre desde que el acreedor descubre el traspaso?",
+          "answer": "No. La Corte señaló que el término tiene un punto de partida objetivo, la fecha del acto o contrato, y no la fecha en que el acreedor tuvo conocimiento de él. En el caso, la Corte resaltó además que la escritura estaba inscrita en el registro, cuya finalidad es darle publicidad al acto."
+        },
+        {
+          "question": "¿Puede suspenderse el plazo de la acción pauliana?",
+          "answer": "La Corte no lo descartó para quien está en imposibilidad absoluta de demandar, pero exigió precisar desde cuándo surgió esa imposibilidad, cuánto duró y qué pruebas la demuestran. No puede presumirse solo por la existencia de una enfermedad."
+        },
+        {
+          "question": "¿La Corte dijo que el aporte de los inmuebles no fue fraudulento?",
+          "answer": "No. La Corte aclaró que no revisaba el acierto de la decisión de revocar el aporte. Confirmó la tutela porque el análisis del plazo fue insuficiente, y el juzgado debe volver a decidir la apelación."
+        }
+      ]
+    },
+    {
+      "type": "cta_pill",
+      "label": "Cómo dejar de revisar manualmente la Rama Judicial todos los días",
+      "href": "https://blog.wabog.com/como-dejar-de-revisar-manualmente-la-rama-judicial-todos-los-dias"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.arielapp.co/es/biblioteca/documento/csj-stc17075-2026-d555d822",
+      "title": "Corte Suprema de Justicia – Sentencia de tutela STC17075-2026 del 2 de septiembre de 2026 (texto en Ariel)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/documents/23584402/e8e58e55-c6e4-e9b0-6e93-776565e0f64a",
+      "title": "Tribunal Superior de Cundinamarca, Sala Civil Familia – Sentencia del 8 de febrero de 2024 sobre acción pauliana (rad. 25754-31-03-001-2019-00195-01)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.notaria19bogota.com/la-accion-pauliana/",
+      "title": "Notaría 19 de Bogotá – La acción pauliana: requisitos y plazo"
+    }
+  ]
+}
