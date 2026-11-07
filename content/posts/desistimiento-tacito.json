@@ -1,0 +1,244 @@
+{
+  "slug": "desistimiento-tacito",
+  "title": "Desistimiento tácito: qué actuaciones frenan el plazo",
+  "date": "2026-11-07",
+  "tags": [
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    },
+    {
+      "slug": "panorama-juridico",
+      "name": "Panorama jurídico"
+    }
+  ],
+  "excerpt": "Desistimiento tácito (art. 317 CGP): plazos de 30 días, uno y dos años, qué actuaciones interrumpen el término según la Corte Suprema y cómo evitarlo.",
+  "coverImage": "/covers/desistimiento-tacito.webp",
+  "readingTime": 7,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "El desistimiento tácito (artículo 317 del CGP) termina un proceso por inactividad. Hay tres plazos: 30 días para cumplir una carga que ordena el juez, un año de expediente quieto y dos años si ya hay sentencia favorable o auto de seguir adelante la ejecución. Según la Corte Suprema (STC11191-2020), solo interrumpe el plazo una actuación apta para impulsar el proceso: pedir copias no sirve. Si se decreta, se levantan las medidas cautelares y la demanda deja de interrumpir la prescripción."
+    },
+    {
+      "type": "paragraph",
+      "text": "El desistimiento tácito es una de las formas más silenciosas de perder un proceso: basta con que el expediente se quede quieto el tiempo suficiente para que el juez lo dé por terminado. Para una casa de cobranza con cientos de ejecutivos, o para un despacho con medidas cautelares ya practicadas, eso puede significar perder embargos, volver a demandar y enfrentar la prescripción. Aquí repasamos qué dice el artículo 317 del CGP, qué actuaciones interrumpen el plazo según la Corte Suprema y qué rutina conviene tener."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué es el desistimiento tácito y dónde está regulado"
+    },
+    {
+      "type": "paragraph",
+      "text": "El desistimiento tácito está en el artículo 317 de la Ley 1564 de 2012, el Código General del Proceso. Es una sanción por inactividad: si la parte que debe mover el proceso no lo hace, el juez termina la actuación. La norma prevé dos escenarios, cada uno con su plazo y sus consecuencias."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Escenario 1: la carga de 30 días"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando para continuar el trámite de una demanda, un llamamiento en garantía, un incidente u otra actuación promovida a instancia de parte se necesita que la parte cumpla una carga procesal o haga un acto, el juez le ordena cumplirlo dentro de los 30 días siguientes, mediante providencia notificada por estado. Si vence el plazo sin que la parte cumpla, el juez declara el desistimiento tácito y condena en costas. El caso típico es la orden de notificar al demandado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay una protección importante para el acreedor: según el numeral 1 del artículo 317, el juez no puede ordenar ese requerimiento para que se inicie la notificación del auto admisorio o del mandamiento de pago mientras estén pendientes actuaciones encaminadas a consumar las medidas cautelares previas. Es decir, primero se aseguran los bienes y después corre la carga de notificar."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Escenario 2: el expediente inactivo"
+    },
+    {
+      "type": "paragraph",
+      "text": "El segundo escenario no requiere aviso previo. Si un proceso o actuación de cualquier naturaleza permanece inactivo en la secretaría del despacho porque nadie pide ni hace nada durante un año en primera o única instancia, el juez decreta la terminación de oficio o a petición de parte. El año se cuenta desde el día siguiente a la última notificación o a la última diligencia o actuación. En este evento la norma dice que no habrá condena en costas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El plazo sube a dos años cuando el proceso cuenta con sentencia ejecutoriada a favor del demandante o con auto que ordena seguir adelante la ejecución. Es el escenario que más afecta a la cobranza judicial: el ejecutivo ya ganado que se queda esperando una liquidación, un embargo o un remate."
+    },
+    {
+      "type": "image",
+      "src": "/images/desistimiento-tacito/plazos-desistimiento-tacito.webp",
+      "alt": "Los tres plazos del desistimiento tácito en el artículo 317 del CGP: 30 días para cumplir una carga, un año de inactividad y dos años con sentencia o auto de seguir adelante la ejecución",
+      "caption": "Los tres plazos del artículo 317 del CGP."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué actuaciones interrumpen el desistimiento tácito"
+    },
+    {
+      "type": "paragraph",
+      "text": "El literal c del artículo 317 dice que cualquier actuación, de oficio o a petición de parte, de cualquier naturaleza, interrumpe los términos. Leída al pie de la letra, la regla invitaba a radicar un memorial cualquiera cada pocos meses para reiniciar el conteo. La Corte Suprema de Justicia cerró esa puerta."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la sentencia de tutela STC11191-2020, del 9 de diciembre de 2020, con ponencia del magistrado Octavio Augusto Tejeiro Duque, la Sala de Casación Civil unificó la lectura del literal c. Según la Corte, la actuación que interrumpe el plazo es la que conduce a definir la controversia o a poner en marcha los procedimientos necesarios para satisfacer lo pedido; tiene que ser apta y apropiada para impulsar el proceso hacia su finalidad. La Sala precisó que esta postura retoma lo dicho en las sentencias STC4021-2020 y STC9945-2020."
+    },
+    {
+      "type": "quote",
+      "text": "Simples solicitudes de copias o sin propósitos serios de solucionar la controversia […] carecen de esos efectos.",
+      "cite": "Corte Suprema de Justicia, Sala de Casación Civil, STC11191-2020"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el caso, un juzgado de ejecución de Bogotá había tomado una solicitud de copias del acreedor como interrupción del plazo de dos años; la Corte concedió la tutela y ordenó dejar sin efecto esa decisión. La Sala también distinguió según el escenario:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Escenario",
+        "Qué sí interrumpe",
+        "Qué no interrumpe"
+      ],
+      "rows": [
+        [
+          "Carga de 30 días (num. 1)",
+          "Solo el acto idóneo para cumplir lo que el juez ordenó (p. ej., notificar o integrar al vinculado)",
+          "Cualquier otro memorial distinto a la carga"
+        ],
+        [
+          "Proceso inactivo, 1 año (num. 2)",
+          "Actuaciones que impulsen el proceso según la etapa en que está",
+          "Solicitudes de copias o peticiones sin relación con lo pedido"
+        ],
+        [
+          "Con sentencia o auto de seguir adelante, 2 años (lit. b)",
+          "Liquidación de costas y del crédito, sus actualizaciones y actos dirigidos a satisfacer la obligación",
+          "Peticiones que no acercan el pago de la obligación"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "La excepción de fuerza mayor",
+      "text": "La misma sentencia recordó que, según la Corte Constitucional (C-1194 de 2008), el desistimiento tácito no se aplica cuando las partes no pudieron cumplir sus cargas con la debida diligencia por razones de fuerza mayor. Es una excepción que hay que probar; no se presume."
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, el literal a del artículo 317 aclara que no se cuenta el tiempo en que el proceso estuvo suspendido por acuerdo de las partes. Si el despacho tuvo los términos suspendidos por decisión del Consejo Superior de la Judicatura, como ocurrió este año en algunos distritos tras el sismo, conviene revisar el acto que lo ordenó y su alcance antes de calcular el plazo."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Vacancia judicial 2026: fechas y cómo contar los términos",
+      "href": "https://blog.wabog.com/vacancia-judicial-2026"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué pasa si el juez decreta el desistimiento tácito"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las consecuencias están en los literales d a g del artículo 317 y son más graves de lo que parece para quien cobra:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Terminación y levantamiento de medidas: el proceso o la actuación termina y se ordena el levantamiento de las medidas cautelares practicadas. Los embargos y secuestros conseguidos se pierden.",
+        "Recursos: el auto que decreta el desistimiento se notifica por estado y es apelable en el efecto suspensivo; el que lo niega es apelable en el efecto devolutivo.",
+        "Nueva demanda, pero con espera: se puede volver a demandar pasados seis meses desde la ejecutoria de la providencia o desde la notificación del auto de obedecimiento a lo resuelto por el superior.",
+        "Prescripción: quedan sin efecto la interrupción de la prescripción y la inoperancia de la caducidad que había producido la primera demanda. Si el plazo de prescripción ya corrió, la nueva demanda puede llegar tarde.",
+        "Segunda vez: si se decreta por segunda vez entre las mismas partes y en ejercicio de las mismas pretensiones, se extingue el derecho pretendido."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "warning",
+      "title": "Ojo con los títulos valores",
+      "text": "En el cobro de pagarés y letras el riesgo se multiplica: la prescripción de la acción cambiaria es corta y, si el desistimiento tácito borra el efecto interruptor de la demanda, el acreedor puede quedar sin acción ejecutiva. Revisa el título y su fecha de vencimiento antes de dejar que un ejecutivo se quede quieto."
+    },
+    {
+      "type": "paragraph",
+      "text": "La norma tiene una sola exclusión expresa: según el literal h, el desistimiento tácito no se aplica en contra de incapaces cuando carezcan de apoderado judicial."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Requisitos formales del título ejecutivo: qué cambió",
+      "href": "https://blog.wabog.com/requisitos-formales-titulo-ejecutivo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo evitar el desistimiento tácito en tu cartera de procesos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como la Corte exige actuaciones útiles y no simples memoriales, la defensa real es saber en qué etapa está cada proceso y cuánto lleva sin movimiento. Una rutina práctica:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Registra la fecha de la última actuación de cada proceso y calcula el vencimiento: un año, o dos si ya hay sentencia o auto de seguir adelante la ejecución.",
+        "Atiende cada requerimiento de 30 días el mismo día en que se notifica por estado y agenda el vencimiento con margen.",
+        "Planea la siguiente actuación útil según la etapa: notificar, pedir medidas sobre bienes identificados, presentar o actualizar la liquidación del crédito, impulsar el avalúo o el remate.",
+        "No confíes en memoriales de trámite: pedir copias o radicar peticiones sin relación con lo pedido no reinicia el conteo.",
+        "Antes de dejar un proceso en pausa, revisa la prescripción del derecho: si el desistimiento se decreta, la primera demanda deja de protegerte.",
+        "Si la inactividad tuvo una causa de fuerza mayor, guarda la prueba desde el principio."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hacer este control a mano en la consulta de procesos de la Rama Judicial funciona con diez expedientes, no con quinientos. Una herramienta de vigilancia judicial como Wabog ayuda a ver qué procesos llevan meses sin actuaciones antes de que el plazo se cumpla."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Cómo dejar de revisar manualmente la Rama Judicial todos los días",
+      "href": "https://blog.wabog.com/como-dejar-de-revisar-manualmente-la-rama-judicial-todos-los-dias"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Cuánto tiempo debe pasar para que opere el desistimiento tácito?",
+          "answer": "Depende del escenario. Si el juez ordena cumplir una carga, la parte tiene 30 días. Si el proceso está inactivo en primera o única instancia, el plazo es de un año desde la última notificación o actuación. Si ya hay sentencia ejecutoriada a favor del demandante o auto de seguir adelante la ejecución, el plazo es de dos años."
+        },
+        {
+          "question": "¿Cualquier memorial interrumpe el desistimiento tácito?",
+          "answer": "No. Aunque el literal c del artículo 317 habla de cualquier actuación, la Corte Suprema, en la STC11191-2020, precisó que la actuación debe ser apta para impulsar el proceso según su etapa. Solicitudes de copias o peticiones sin relación con lo pedido no interrumpen el plazo."
+        },
+        {
+          "question": "¿Puedo volver a demandar después del desistimiento tácito?",
+          "answer": "Sí, pasados seis meses desde la ejecutoria de la providencia que lo decretó o desde la notificación del auto de obedecimiento. Pero la primera demanda deja de interrumpir la prescripción, y si el desistimiento se decreta por segunda vez entre las mismas partes y por las mismas pretensiones, se extingue el derecho."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ambitojuridico.com/sites/default/files/BancoMedios/Archivos/sent-stc-111912020%2811001220300020200144401%29-20.pdf",
+      "title": "Corte Suprema de Justicia, Sala de Casación Civil – Sentencia STC11191-2020 (texto publicado por Ámbito Jurídico)"
+    },
+    {
+      "type": "embed",
+      "url": "https://leyes.co/codigo_general_del_proceso/317.htm",
+      "title": "Código General del Proceso (Ley 1564 de 2012) – Artículo 317, desistimiento tácito"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ambitojuridico.com/noticias/civil/civil-y-familia/definen-el-tipo-de-actuaciones-que-interrumpen-terminos-del",
+      "title": "Ámbito Jurídico – Definen el tipo de actuaciones que interrumpen términos del desistimiento tácito"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ambitojuridico.com/noticias/procesal/simples-solicitudes-de-copias-o-sin-propositos-serios-de-solucionar-la",
+      "title": "Ámbito Jurídico – Simples solicitudes de copias no interrumpen el desistimiento tácito"
+    }
+  ]
+}
