@@ -1,0 +1,256 @@
+{
+  "slug": "ley-2213-requisitos-demanda",
+  "title": "Ley 2213: requisitos de la demanda y del poder",
+  "date": "2026-11-09",
+  "tags": [
+    {
+      "slug": "panorama-juridico",
+      "name": "Panorama jurídico"
+    },
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    }
+  ],
+  "excerpt": "Ley 2213: requisitos de la demanda y del poder digital, envío simultáneo al demandado, excepción por medidas cautelares y qué dijo la Corte en la C-522/23.",
+  "coverImage": "/covers/ley-2213-requisitos-demanda.webp",
+  "readingTime": 7,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "La Ley 2213 de 2022 exige que la demanda indique el canal digital de partes, apoderados, testigos y peritos, que los anexos vayan en formato electrónico y que, salvo que se pidan medidas cautelares previas o se desconozca dónde notificar al demandado, se le envíe copia al radicarla; si no, se inadmite. El poder puede darse por mensaje de datos, sin firma, con el correo del apoderado inscrito en el Registro Nacional de Abogados. Según la Corte Constitucional (C-522 de 2023), estas reglas de admisión no aplican a la tutela."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los requisitos de la demanda en la Ley 2213 pesan hoy tanto como los del artículo 82 del Código General del Proceso. Un correo mal puesto en el poder o una demanda que no se envió al demandado pueden costar semanas de inadmisión y subsanación, mientras el deudor sigue disponiendo de sus bienes. Para firmas y casas de cobranza que radican demandas en serie, aquí está lo que exigen los artículos 3, 5 y 6 de la Ley 2213 de 2022 y cómo los interpretó la Corte Constitucional."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué es la Ley 2213 y por qué sigue vigente"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Ley 2213 se sancionó el 13 de junio de 2022 (Diario Oficial 52.064) y adoptó como legislación permanente las normas del Decreto Legislativo 806 de 2020, nacido como medida temporal en la pandemia. Aplica en las jurisdicciones civil, laboral, de familia, contencioso administrativa, constitucional y disciplinaria, ante autoridades administrativas con funciones jurisdiccionales y en el arbitraje. Según el parágrafo 2 de su artículo 1, complementa los códigos procesales: la demanda debe cumplir a la vez el CGP o el CPACA y los requisitos digitales de esta ley."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Requisitos de la demanda en la Ley 2213 (artículo 6)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo 6 contiene cuatro exigencias que el despacho revisa al estudiar la admisión:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Canal digital de todos los intervinientes: partes, representantes, apoderados, testigos, peritos y terceros por citar, so pena de inadmisión. Si no conoces el de testigos, peritos o terceros, basta con decirlo.",
+        "Anexos en mensaje de datos, que correspondan a los enunciados en la demanda.",
+        "Radicación electrónica en las direcciones que fije el Consejo Superior de la Judicatura para el reparto, sin copias físicas ni electrónicas para archivo o traslado.",
+        "Envío simultáneo al demandado de la demanda y sus anexos por medio electrónico, también al subsanar. Si no se conoce su canal digital, se acredita el envío físico."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/ley-2213-requisitos-demanda/checklist-demanda-ley-2213.webp",
+      "alt": "Checklist de requisitos de la demanda en la Ley 2213: canal digital, anexos digitales, envío simultáneo al demandado y poder con el correo del Registro Nacional de Abogados",
+      "caption": "Lo que revisa el juzgado antes de admitir, según los artículos 5 y 6 de la Ley 2213."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "La excepción de las medidas cautelares previas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El envío simultáneo tiene dos excepciones expresas en el artículo 6: cuando se soliciten medidas cautelares previas y cuando se desconozca el lugar donde el demandado recibirá notificaciones. La primera es clave en el cobro jurídico: en un proceso ejecutivo con solicitud de embargo y secuestro, enviar la demanda al deudor antes de que se practiquen las medidas sería avisarle que oculte o traspase sus bienes."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la práctica, conviene decir de forma expresa en la demanda que no se hace el envío porque se piden medidas previas. Hay discusión sobre si basta cualquier solicitud o si deben ser medidas procedentes; para evitar una inadmisión, pide medidas concretas y sustentadas, no una petición genérica."
+    },
+    {
+      "type": "callout",
+      "tone": "warning",
+      "title": "Consecuencia del incumplimiento",
+      "text": "El artículo 6 ordena al secretario o al funcionario que haga sus veces velar por este requisito y dispone que, si no se acredita el envío, el juez inadmitirá la demanda. Si no se subsana dentro del término del CGP, la demanda se rechaza."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Qué gana el demandante si envió la demanda"
+    },
+    {
+      "type": "paragraph",
+      "text": "El envío previo no es solo una carga. El mismo artículo 6 dispone que, si el demandante ya remitió la demanda con todos sus anexos al demandado, al admitirse la demanda la notificación personal se limita al envío del auto admisorio. Eso agiliza la notificación del artículo 8 y reduce discusiones sobre qué documentos recibió la contraparte."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Notificación electrónica: ¿desde cuándo corren los términos?",
+      "href": "https://blog.wabog.com/notificacion-electronica-terminos-acuse-de-recibo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El poder por mensaje de datos (artículo 5)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo 5 permite conferir poderes especiales para cualquier actuación judicial mediante mensaje de datos, sin firma manuscrita o digital, con la sola antefirma. Esos poderes se presumen auténticos y no requieren presentación personal ni reconocimiento. Pero la norma trae dos condiciones que conviene revisar antes de radicar:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "El poder debe indicar expresamente la dirección de correo electrónico del apoderado, y esa dirección debe coincidir con la inscrita en el Registro Nacional de Abogados.",
+        "Si el poderdante es una persona inscrita en el registro mercantil, como una sociedad o un banco, el poder debe remitirse desde la dirección de correo electrónico que tenga inscrita para recibir notificaciones judiciales."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Para una casa de cobranza que representa a varios acreedores, esto implica conservar el mensaje con el que cada cliente otorgó el poder, verificar en el certificado de existencia y representación el correo de notificaciones judiciales y mantener actualizado el correo de cada abogado en el Registro Nacional de Abogados."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Los deberes que siguen después de radicar (artículo 3)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo 3 obliga a los sujetos procesales a informar sus canales digitales y a enviar por ellos un ejemplar de todos los memoriales a los demás intervinientes, de forma simultánea y con copia al despacho. También deben informar cualquier cambio de dirección electrónica; si no lo hacen, las notificaciones siguen siendo válidas en la anterior, en armonía con el numeral 5 del artículo 78 del CGP."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese envío mueve términos: según el parágrafo del artículo 9, si una parte acredita que envió por canal digital un escrito del que deba correrse traslado, se prescinde del traslado por secretaría; este se entiende hecho a los dos días hábiles siguientes y el término corre desde el acuse de recibo o la constatación del acceso. Un memorial de la contraparte en tu correo es el inicio de un plazo, no un simple aviso."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué dijo la Corte Constitucional en la C-522 de 2023"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la sentencia C-522 de 2023, del 28 de noviembre de 2023, con ponencia del magistrado Jorge Enrique Ibáñez Najar (expediente D-15.252), la Corte Constitucional estudió una demanda contra el inciso del artículo 6 que impone el envío simultáneo y ordena inadmitir la demanda sin prueba de ese envío. La Corte declaró exequibles esas expresiones, con un condicionamiento:"
+    },
+    {
+      "type": "quote",
+      "text": "…en el entendido que las reglas procesales sobre admisibilidad a las que se refieren no son aplicables al trámite de la acción de tutela.",
+      "cite": "Corte Constitucional, Sentencia C-522 de 2023"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el comunicado de la Corte, exigir esas cargas para admitir una tutela imponía una barrera de acceso a la justicia y desconocía la reserva de ley estatutaria, porque la admisión es un aspecto estructural de una acción informal por mandato del artículo 86 de la Constitución. La Corte condicionó el fallo en vez de declarar la inexequibilidad para no afectar las demás jurisdicciones, donde la regla sigue siendo requisito de admisión."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Situación",
+        "¿Hay que enviar la demanda al demandado al radicar?",
+        "Si no se envía"
+      ],
+      "rows": [
+        [
+          "Demanda sin medidas cautelares previas",
+          "Sí, con sus anexos, por medio electrónico",
+          "Inadmisión"
+        ],
+        [
+          "Demanda con medidas cautelares previas",
+          "No",
+          "No es causal de inadmisión"
+        ],
+        [
+          "Se desconoce dónde notificar al demandado",
+          "No",
+          "No es causal de inadmisión"
+        ],
+        [
+          "Escrito de subsanación",
+          "Sí, salvo las mismas excepciones",
+          "Inadmisión"
+        ],
+        [
+          "Acción de tutela",
+          "No es requisito de admisión (C-522 de 2023)",
+          "No puede inadmitirse por eso"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Checklist antes de radicar"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Revisa que la demanda indique el canal digital de partes, representantes y apoderados, y el de testigos, peritos y terceros, o que diga expresamente que desconoces el de estos últimos.",
+        "Confirma que todos los anexos enunciados estén adjuntos en formato digital y legibles.",
+        "Si no pides medidas cautelares previas, envía la demanda y los anexos al correo del demandado al mismo tiempo que radicas, y aporta la prueba del envío.",
+        "Si pides medidas previas, dilo de forma expresa en la demanda para justificar que no hiciste el envío.",
+        "Verifica que el poder tenga tu correo tal como figura en el Registro Nacional de Abogados y, si el cliente es una sociedad, que lo haya enviado desde su correo de notificaciones judiciales.",
+        "Después de radicar, envía cada memorial a todos los sujetos procesales con copia al juzgado y controla los traslados que te llegan por correo."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tras la admisión, el reto es no perder de vista los autos y traslados que siguen. Si manejas muchos procesos, una herramienta de vigilancia judicial como Wabog puede avisarte cuando haya una actuación nueva."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Requisitos formales del título ejecutivo: qué cambió",
+      "href": "https://blog.wabog.com/requisitos-formales-titulo-ejecutivo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿El poder enviado por correo necesita firma?",
+          "answer": "No. Según el artículo 5 de la Ley 2213, el poder especial puede conferirse por mensaje de datos sin firma manuscrita o digital, con la sola antefirma, y se presume auténtico. Debe indicar el correo del apoderado inscrito en el Registro Nacional de Abogados."
+        },
+        {
+          "question": "¿Qué pasa si no envío la demanda al demandado al radicarla?",
+          "answer": "Si no pediste medidas cautelares previas y conocías el canal del demandado, el juez inadmitirá la demanda, según el artículo 6. Podrás subsanar dentro del término del CGP acreditando el envío; si no lo haces, la demanda será rechazada."
+        },
+        {
+          "question": "¿En un proceso ejecutivo con embargo debo enviar la demanda al deudor?",
+          "answer": "No al momento de radicar, si solicitas medidas cautelares previas. Es una de las dos excepciones del artículo 6 de la Ley 2213, pensada para no alertar al deudor antes de que se practiquen las medidas."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2213_2022.html",
+      "title": "Secretaría del Senado – Ley 2213 de 2022 (texto compilado)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2023/C-522-23.htm",
+      "title": "Corte Constitucional – Sentencia C-522 de 2023"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ambitojuridico.com/sites/default/files/2023-12/Com-Sent-C-522-23.pdf",
+      "title": "Corte Constitucional – Comunicado de la Sentencia C-522 de 2023 (vía Ámbito Jurídico)"
+    },
+    {
+      "type": "embed",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html",
+      "title": "Secretaría del Senado – Código General del Proceso, Ley 1564 de 2012 (arts. 78 y 90)"
+    }
+  ]
+}
