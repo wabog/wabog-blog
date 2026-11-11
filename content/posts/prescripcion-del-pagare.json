@@ -1,0 +1,242 @@
+{
+  "slug": "prescripcion-del-pagare",
+  "title": "Prescripción del pagaré: cómo interrumpirla a tiempo",
+  "date": "2026-11-11",
+  "tags": [
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    },
+    {
+      "slug": "panorama-juridico",
+      "name": "Panorama jurídico"
+    }
+  ],
+  "excerpt": "Prescripción del pagaré: plazos de 3 años, 1 año y 6 meses, cómo interrumpirla con la demanda (art. 94 CGP) y qué pasa si notificas tarde al deudor.",
+  "coverImage": "/covers/prescripcion-del-pagare.webp",
+  "readingTime": 7,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "La acción cambiaria directa de un pagaré prescribe en tres años contados desde el vencimiento (art. 789 del Código de Comercio). Radicar la demanda no basta: según el artículo 94 del CGP, la interrupción solo se cuenta desde la radicación si el mandamiento ejecutivo se notifica al deudor dentro del año siguiente a la notificación al demandante. Si ese año se pasa, la interrupción opera desde que el deudor queda notificado, y para entonces el título puede estar prescrito."
+    },
+    {
+      "type": "paragraph",
+      "text": "La prescripción del pagaré es una de las causas más frecuentes por las que un acreedor pierde un cobro que tenía ganado. El título es válido, la deuda existe y la demanda se radicó a tiempo, pero el deudor se notifica tarde y la excepción de prescripción prospera. En este artículo repasamos los plazos que fija el Código de Comercio, cómo se interrumpe la prescripción con la demanda según el Código General del Proceso, qué otras vías existen y qué rutina conviene tener en un despacho o una casa de cobranza para no perder el término."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cuándo prescribe un pagaré?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Código de Comercio regula la prescripción de la acción cambiaria en los artículos 789 a 792. Hay tres plazos distintos según quién cobra y contra quién:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Acción",
+        "Plazo",
+        "Desde cuándo corre",
+        "Norma"
+      ],
+      "rows": [
+        [
+          "Acción cambiaria directa (contra el deudor principal)",
+          "3 años",
+          "El día del vencimiento",
+          "Art. 789 C. Co."
+        ],
+        [
+          "Acción de regreso del último tenedor",
+          "1 año",
+          "La fecha del protesto o, si el título es sin protesto, el vencimiento",
+          "Art. 790 C. Co."
+        ],
+        [
+          "Acción del obligado de regreso contra obligados anteriores",
+          "6 meses",
+          "La fecha del pago voluntario o la notificación de la demanda en su contra",
+          "Art. 791 C. Co."
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/prescripcion-del-pagare/plazos-prescripcion-pagare.webp",
+      "alt": "Plazos de prescripción del pagaré: tres años para la acción directa, un año para el regreso del tenedor y seis meses para el regreso del que pagó",
+      "caption": "Los tres plazos de prescripción de la acción cambiaria en el Código de Comercio."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la práctica, la mayoría de los cobros de cartera se hacen por la acción directa contra el deudor principal, así que el número que hay que tener presente es tres años desde el vencimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un detalle que se olvida con frecuencia está en el artículo 792: las causas que interrumpen la prescripción respecto de uno de los deudores cambiarios no la interrumpen respecto de los demás, salvo el caso de los firmantes de un mismo grado. Demandar y notificar al deudor principal no protege automáticamente la acción contra un endosante o un tercero que no esté en esa misma posición."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo interrumpir la prescripción del pagaré con la demanda"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Código Civil prevé dos formas de interrumpir la prescripción extintiva: la natural, cuando el deudor reconoce la obligación de forma expresa o tácita, y la civil, por la demanda judicial (art. 2539). La forma en que opera la interrupción civil la fija el artículo 94 del Código General del Proceso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según esa norma, la presentación de la demanda interrumpe el término de prescripción, siempre que el auto admisorio o el mandamiento ejecutivo se notifique al demandado dentro del año siguiente, contado a partir del día siguiente a la notificación de esa providencia al demandante. Pasado ese año, los efectos de la interrupción solo se producen con la notificación al demandado."
+    },
+    {
+      "type": "image",
+      "src": "/images/prescripcion-del-pagare/interrupcion-prescripcion-demanda.webp",
+      "alt": "Línea de tiempo de cómo se interrumpe la prescripción del pagaré con la demanda según el artículo 94 del CGP",
+      "caption": "El año para notificar al deudor empieza a correr al día siguiente de la notificación del mandamiento al demandante."
+    },
+    {
+      "type": "paragraph",
+      "text": "La diferencia es enorme. Si el deudor se notifica dentro del año, la prescripción se entiende interrumpida desde el día de la radicación. Si se notifica después, la interrupción cuenta desde la fecha de esa notificación tardía, y si para entonces ya habían pasado los tres años desde el vencimiento, el título está prescrito aunque la demanda se haya presentado a tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mismo artículo agrega dos reglas útiles para el cobro. La notificación del mandamiento ejecutivo hace las veces de requerimiento judicial para constituir en mora al deudor cuando la ley lo exige. Y si hay varios demandados en litisconsorcio facultativo, los efectos de la notificación se miran respecto de cada uno por separado: cada deudor que se notifica tarde es un riesgo propio."
+    },
+    {
+      "type": "callout",
+      "tone": "warning",
+      "title": "El año no se suspende por esperar",
+      "text": "El plazo para notificar al deudor corre aunque el despacho tarde en tramitar, aunque la empresa de mensajería no entregue o aunque se esté buscando la dirección. Si la notificación no avanza, hay que pedir oportunamente las medidas que el CGP prevé (por ejemplo, el emplazamiento cuando procede) y dejar constancia de cada gestión."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Un caso real: STC2934-2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Sala de Casación Civil, Agraria y Rural de la Corte Suprema de Justicia revisó esta situación en la sentencia de tutela STC2934-2026, del 6 de marzo de 2026, con ponencia del magistrado Fernando Augusto Jiménez Valderrama. Se trataba de un proceso ejecutivo con garantía hipotecaria en Bogotá. Según los hechos que recoge la providencia, los pagarés vencían el 30 de agosto de 2017, la demanda se presentó el 5 de junio de 2019 y el mandamiento se notificó al demandante el 16 de julio de 2019. Uno de los demandados, sin embargo, solo quedó notificado el 1 de febrero de 2024."
+    },
+    {
+      "type": "paragraph",
+      "text": "Con esas fechas, la Corte encontró razonable la conclusión de los jueces de instancia: la demanda no alcanzó a interrumpir la prescripción porque la notificación se hizo mucho después del año que da el artículo 94. La tutela fue negada al no encontrar un defecto en la decisión. El caso ilustra lo que ocurre en muchos ejecutivos: la demanda se radicó con más de un año de margen y aun así el cobro se perdió por la demora en notificar."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Otras formas de interrumpir o perder la prescripción"
+    },
+    {
+      "type": "paragraph",
+      "text": "Además de la demanda, hay otras situaciones que conviene conocer porque afectan el cálculo:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Requerimiento escrito al deudor: el último inciso del artículo 94 del CGP permite interrumpir la prescripción con un requerimiento escrito que el acreedor le haga directamente al deudor. Solo puede hacerse una vez, así que conviene usarlo con estrategia y guardar prueba de su entrega.",
+        "Reconocimiento del deudor: la prescripción se interrumpe naturalmente cuando el deudor reconoce la obligación, de forma expresa o tácita (art. 2539 del Código Civil). Un acuerdo de pago firmado es la prueba más clara.",
+        "Renuncia después de cumplida: según el artículo 2514 del Código Civil, la prescripción puede renunciarse expresa o tácitamente, pero solo después de cumplida. La norma pone como ejemplo de renuncia tácita que quien debe dinero pague intereses o pida plazos.",
+        "Nuevo conteo: una vez interrumpida o renunciada la prescripción, el término empieza a contarse de nuevo (art. 2536 del Código Civil).",
+        "Desistimiento tácito: si el proceso termina por desistimiento tácito, la demanda deja de producir el efecto interruptor, y el acreedor puede quedar sin acción si el plazo ya corrió."
+      ]
+    },
+    {
+      "type": "cta_pill",
+      "label": "Desistimiento tácito: qué actuaciones frenan el plazo",
+      "href": "https://blog.wabog.com/desistimiento-tacito"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué deben hacer despachos y casas de cobranza"
+    },
+    {
+      "type": "paragraph",
+      "text": "La prescripción del pagaré rara vez se pierde por desconocer la norma; se pierde por falta de control sobre las fechas. Esta rutina ayuda a evitarlo:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Registra la fecha de vencimiento de cada pagaré (y de cada cuota, si aplica) y calcula la fecha de prescripción apenas recibes la cartera.",
+        "Prioriza la radicación de los títulos que están a menos de un año de prescribir y verifica antes los requisitos formales del título para no perder tiempo con una inadmisión.",
+        "Apenas se notifique por estado el mandamiento ejecutivo, anota la fecha límite del año del artículo 94 y envía la notificación al deudor de inmediato.",
+        "Controla por separado a cada deudor, avalista o codeudor demandado: cada uno tiene su propio año.",
+        "Si la notificación electrónica o física falla, pide el emplazamiento u otra medida a tiempo y deja constancia de cada intento.",
+        "Antes de diciembre, revisa qué títulos vencen durante la vacancia judicial y radícalos con margen."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En carteras grandes, revisar estados a mano en cientos de procesos es justo donde se pierden estas fechas. Una herramienta de vigilancia judicial como Wabog avisa cuando el juzgado publica el mandamiento, lo que permite empezar a contar el año del artículo 94 desde el primer día."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos artículos complementan el tema:"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Requisitos formales del título ejecutivo: qué cambió",
+      "href": "https://blog.wabog.com/requisitos-formales-titulo-ejecutivo"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Notificación electrónica: ¿desde cuándo corren los términos?",
+      "href": "https://blog.wabog.com/notificacion-electronica-terminos-acuse-de-recibo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿En cuánto tiempo prescribe un pagaré en Colombia?",
+          "answer": "La acción cambiaria directa prescribe en tres años contados desde el día del vencimiento, según el artículo 789 del Código de Comercio. La acción de regreso del último tenedor prescribe en un año y la del obligado que pagó contra los anteriores, en seis meses."
+        },
+        {
+          "question": "¿Presentar la demanda interrumpe la prescripción del pagaré?",
+          "answer": "Sí, pero con una condición: el mandamiento ejecutivo debe notificarse al deudor dentro del año siguiente a la notificación de esa providencia al demandante (art. 94 del CGP). Si se notifica después, la interrupción solo cuenta desde la notificación al deudor."
+        },
+        {
+          "question": "¿Se puede interrumpir la prescripción sin demandar?",
+          "answer": "Sí. El artículo 94 del CGP permite hacerlo una sola vez con un requerimiento escrito del acreedor al deudor, y el Código Civil reconoce la interrupción natural cuando el deudor reconoce la obligación, por ejemplo al firmar un acuerdo de pago."
+        },
+        {
+          "question": "Si demando a varios deudores, ¿basta con notificar a uno?",
+          "answer": "No necesariamente. El artículo 792 del Código de Comercio dice que lo que interrumpe la prescripción frente a un deudor cambiario no la interrumpe frente a los demás, salvo los firmantes de un mismo grado, y el artículo 94 del CGP mira los efectos de la notificación respecto de cada demandado en el litisconsorcio facultativo."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio_pr024.html",
+      "title": "Secretaría del Senado – Código de Comercio, artículos 789 a 792 (prescripción de la acción cambiaria)"
+    },
+    {
+      "type": "embed",
+      "url": "https://procesal.uexternado.edu.co/codigo-general/articulo-94-interrupcion-de-la-prescripcion-inoperancia-de-la-caducidad-y-constitucion-en-mora/",
+      "title": "Código General del Proceso – Artículo 94, interrupción de la prescripción (Universidad Externado)"
+    },
+    {
+      "type": "embed",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil_pr078.html",
+      "title": "Secretaría del Senado – Código Civil, artículos 2514, 2536 y 2539 (renuncia e interrupción de la prescripción)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.arielapp.co/es/biblioteca/documento/csj-stc2934-2026-b4692e57",
+      "title": "Corte Suprema de Justicia, Sala de Casación Civil, Agraria y Rural – Sentencia STC2934-2026 (texto en Ariel)"
+    }
+  ]
+}
