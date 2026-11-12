@@ -18,11 +18,11 @@
   --ink: #101418;
   --ink-2: #3c4450;
   --muted: #5b6472;
-  --faint: #9aa3af;
+  --faint: #6f7784;
   --line: #e6e4e0;
   --line-2: #d8d5cf;
 
-  --success: #1c8a4d;
+  --success: #16723f;
   --success-bg: #e7f6ee;
   --warning: #b45309;
   --warning-bg: #fdf1e2;
@@ -51,7 +51,7 @@
   --ink: #f2f3f5;
   --ink-2: #cdd2d8;
   --muted: #9aa3af;
-  --faint: #6c757f;
+  --faint: #8b939d;
   --line: #262b31;
   --line-2: #333a42;
 
@@ -287,7 +287,7 @@ a {
 }
 
 .btn-accent:hover {
-  background: #6e80ff;
+  background: var(--accent-600);
   transform: translateY(-2px);
   box-shadow: 0 10px 28px rgba(20, 84, 250, 0.5);
 }
@@ -688,6 +688,12 @@ a {
   text-transform: uppercase;
 }
 
+/* Dentro de columnas flex (tarjetas, destacado) la pill no debe estirarse */
+.post-tag-pill {
+  align-self: flex-start;
+  justify-self: start;
+}
+
 .featured-card-title {
   font-family: var(--font-serif);
   font-size: clamp(1.45rem, 2.6vw, 2rem);
@@ -1065,7 +1071,7 @@ a {
   border-radius: var(--radius);
   overflow: hidden;
   margin-top: 2.25rem;
-  aspect-ratio: 21 / 9;
+  aspect-ratio: 1200 / 630;
   border: 1px solid var(--line);
   background: var(--surface);
 }
@@ -1088,6 +1094,34 @@ a {
 .article-layout .toc {
   grid-column: 2;
   min-width: 0;
+}
+
+/* ---------- Marco del artículo ----------
+ * Misma rejilla que .article-layout para que título, portada y bio arranquen
+ * en el mismo borde izquierdo que el cuerpo (antes el hero iba centrado en
+ * otra columna y quedaba corrido respecto al texto).
+ */
+.article-frame {
+  display: grid;
+  grid-template-columns: minmax(0, 42rem) 15rem;
+  gap: 0 2.5rem;
+  justify-content: center;
+  max-width: 88rem;
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+}
+
+.article-frame > * {
+  grid-column: 1;
+  min-width: 0;
+}
+
+.article-frame > .article-cover {
+  grid-column: 1 / -1;
+}
+
+.article-frame > .author-bio {
+  margin-top: 0;
 }
 
 .article-prose {
@@ -1143,7 +1177,7 @@ a {
   font-weight: 700;
 }
 
-.article-prose a {
+.article-prose a:not(.cta-pill):not(.embed-card):not(.read-next) {
   color: var(--accent-500);
   font-weight: 600;
   text-decoration: underline;
@@ -1292,9 +1326,24 @@ a {
   transition: background-color 0.15s ease, transform 0.15s ease;
 }
 
+.cta-pill {
+  font-family: var(--font-sans);
+  max-width: 100%;
+  text-align: center;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
 .cta-pill:hover {
-  background: #6e80ff;
+  background: var(--accent-600);
   transform: translateY(-1px);
+}
+
+.cta-pill:focus-visible,
+.read-next:focus-visible,
+.embed-card:focus-visible {
+  outline: 2px solid var(--accent-500);
+  outline-offset: 3px;
 }
 
 .cta-pill-center {
@@ -1333,24 +1382,44 @@ a {
 }
 
 .embed-card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  flex: 1;
   min-width: 0;
 }
 
 .embed-card-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  font-family: var(--font-sans);
   font-weight: 600;
   font-size: 0.92rem;
+  line-height: 1.4;
   color: var(--ink);
+  overflow-wrap: anywhere;
+}
+
+.embed-card:hover .embed-card-title {
+  color: var(--accent-500);
+}
+
+.embed-card-url {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: var(--faint);
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 
-.embed-card-url {
-  font-size: 0.82rem;
-  color: var(--faint);
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+/* Fuentes seguidas: menos aire entre tarjetas que entre párrafos */
+.article-prose > .embed-card + .embed-card {
+  margin-top: 0.75rem;
 }
 
 .prose-table-wrap {
@@ -1761,7 +1830,8 @@ a {
 
 /* ---------- Responsive ---------- */
 @media (max-width: 1200px) {
-  .article-layout {
+  .article-layout,
+  .article-frame {
     grid-template-columns: minmax(0, 42rem) 13rem;
     gap: 0 2rem;
   }
@@ -1787,6 +1857,10 @@ a {
   .article-layout {
     grid-template-columns: 1fr;
     padding-top: 2.5rem;
+  }
+
+  .article-frame {
+    grid-template-columns: minmax(0, 42rem);
   }
 
   .article-layout .article-prose,
@@ -1859,4 +1933,210 @@ a {
     font-size: 18px;
     border-width: 1.5px;
   }
+}
+/* ---------- "Lee también" (cta_pill hacia otro artículo) ---------- */
+.read-next {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent-500);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  font-family: var(--font-sans);
+  text-decoration: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.read-next:hover {
+  border-color: var(--line-2);
+  border-left-color: var(--accent-500);
+  box-shadow: var(--shadow-1);
+}
+
+.read-next-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  flex: 1;
+  min-width: 0;
+}
+
+.read-next-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent-600);
+}
+
+.read-next-title {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--ink);
+}
+
+.read-next:hover .read-next-title {
+  color: var(--accent-500);
+}
+
+.read-next-arrow {
+  flex-shrink: 0;
+  font-size: 1.15rem;
+  color: var(--accent-500);
+  transition: transform 0.15s ease;
+}
+
+.read-next:hover .read-next-arrow {
+  transform: translateX(3px);
+}
+
+/* ---------- Índice plegable (móvil) ---------- */
+.toc-mobile {
+  display: none;
+  margin-bottom: 2rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  font-family: var(--font-sans);
+}
+
+.toc-mobile summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.9rem 1.1rem;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+}
+
+.toc-mobile summary::-webkit-details-marker {
+  display: none;
+}
+
+.toc-mobile summary::after {
+  content: "+";
+  font-size: 1.1rem;
+  color: var(--accent-500);
+}
+
+.toc-mobile[open] summary::after {
+  content: "−";
+}
+
+.toc-mobile-count {
+  margin-left: auto;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--faint);
+}
+
+.toc-mobile nav {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0.6rem 0.8rem;
+  border-top: 1px solid var(--line);
+}
+
+.toc-mobile nav a {
+  padding: 0.55rem 0.5rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: var(--muted);
+}
+
+.toc-mobile nav a[data-level="3"] {
+  padding-left: 1.3rem;
+}
+
+@media (max-width: 900px) {
+  .toc-mobile {
+    display: block;
+  }
+}
+
+/* ---------- Tablas en móvil: cada fila es una tarjeta ---------- */
+@media (max-width: 640px) {
+  .prose-table-wrap {
+    border: 0;
+    overflow: visible;
+  }
+
+  .prose-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+
+  .prose-table,
+  .prose-table tbody,
+  .prose-table tr,
+  .prose-table td {
+    display: block;
+    width: 100%;
+  }
+
+  .prose-table tr {
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    background: var(--surface);
+    padding: 0.35rem 0;
+  }
+
+  .prose-table tr + tr {
+    margin-top: 0.75rem;
+  }
+
+  .prose-table td,
+  .prose-table tr:last-child td {
+    display: grid;
+    grid-template-columns: minmax(6.5rem, 38%) 1fr;
+    gap: 0.75rem;
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .prose-table tr td:last-child {
+    border-bottom: 0;
+  }
+
+  .prose-table td::before {
+    content: attr(data-label);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding-top: 0.15rem;
+  }
+
+  .read-next {
+    padding: 0.9rem 1rem;
+  }
+}
+
+/* ---------- Ajustes de contraste en modo oscuro ---------- */
+[data-theme="dark"] .callout-info {
+  background: var(--accent-50);
+  border-color: color-mix(in srgb, var(--accent-400) 35%, transparent);
+  color: var(--accent-200);
+}
+
+[data-theme="dark"] .article-prose .cta-pill,
+[data-theme="dark"] .btn-accent {
+  background: #2f62f5;
+}
+
+[data-theme="dark"] .article-prose .cta-pill:hover,
+[data-theme="dark"] .btn-accent:hover {
+  background: #1f4fe0;
 }

@@ -47,10 +47,10 @@ function Embed({ url, title }: Extract<BlogBlock, { type: "embed" }>) {
   }
   return (
     <a href={url} target="_blank" rel="noopener noreferrer" className="embed-card">
-      <span className="embed-card-icon">↗</span>
+      <span className="embed-card-icon" aria-hidden="true">↗</span>
       <span className="embed-card-body">
         <span className="embed-card-title">{title ?? host}</span>
-        <span className="embed-card-url">{url}</span>
+        <span className="embed-card-url">{host}</span>
       </span>
     </a>
   );
@@ -74,10 +74,52 @@ function Callout({ tone, title, text }: Extract<BlogBlock, { type: "callout" }>)
   );
 }
 
+const BLOG_HOST = "blog.wabog.com";
+
+/** Ruta interna si el enlace apunta a otro artículo del blog; null si sale del blog. */
+function internalPath(href: string): string | null {
+  if (href.startsWith("/")) return href;
+  try {
+    const u = new URL(href);
+    if (u.hostname.replace(/^www\./, "") !== BLOG_HOST) return null;
+    const path = u.pathname.endsWith("/") ? u.pathname : `${u.pathname}/`;
+    return `${path}${u.search}${u.hash}`;
+  } catch {
+    return null;
+  }
+}
+
 function CtaPill({ label, href }: Extract<BlogBlock, { type: "cta_pill" }>) {
+  const path = internalPath(href);
+
+  // Enlace a otro artículo: tarjeta secundaria "Lee también", no un botón de
+  // conversión. Así el único botón azul del cuerpo es el que lleva a la app.
+  if (path) {
+    return (
+      <a
+        href={path}
+        className="read-next"
+        data-analytics="article_read_next"
+        data-analytics-location="article_body"
+      >
+        <span className="read-next-body">
+          <span className="read-next-label">Lee también</span>
+          <span className="read-next-title">{label}</span>
+        </span>
+        <span className="read-next-arrow" aria-hidden="true">→</span>
+      </a>
+    );
+  }
+
   return (
     <div className="cta-pill-center">
-      <a href={href} rel="noopener noreferrer" className="cta-pill">
+      <a
+        href={href}
+        rel="noopener noreferrer"
+        className="cta-pill"
+        data-analytics="article_inline_cta"
+        data-analytics-location="article_body"
+      >
         {label}
       </a>
     </div>
@@ -103,7 +145,9 @@ function Table({ headers, rows }: Extract<BlogBlock, { type: "table" }>) {
         <tbody>
           {rows.map((row, i) => (
             <tr key={i}>
-              {row.map((cell, j) => <td key={j}>{cell}</td>)}
+              {row.map((cell, j) => (
+                <td key={j} data-label={headers[j]}>{cell}</td>
+              ))}
             </tr>
           ))}
         </tbody>
