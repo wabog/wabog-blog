@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { ArticleRenderer } from "@/components/blocks/article-renderer";
 import { Cover } from "@/components/cover";
-import { Toc, buildToc } from "@/components/toc";
+import { Toc, TocMobile, buildToc } from "@/components/toc";
 import { PostCard, formatDate } from "@/components/post-card";
 import { AuthorAvatar, AuthorBio } from "@/components/author";
 import { getAllPosts, getPostsByTag, getPostBySlug } from "@/lib/posts";
@@ -141,7 +141,7 @@ export default async function ArticlePage({ params }: PageProps) {
       <ArticleJsonLd post={post} />
       <article>
         <header className="article-hero">
-          <div className="article-container">
+          <div className="article-frame">
             <nav className="breadcrumb" aria-label="Migas de pan">
               <Link href="/">Blog de Wabog</Link>
               <span className="breadcrumb-sep" aria-hidden="true">/</span>
@@ -179,7 +179,7 @@ export default async function ArticlePage({ params }: PageProps) {
         </header>
 
         {post.coverImage ? (
-          <div className="article-container">
+          <div className="article-frame">
             <div className="article-cover">
               <Cover src={post.coverImage} title={post.title} />
             </div>
@@ -187,17 +187,21 @@ export default async function ArticlePage({ params }: PageProps) {
         ) : null}
 
         <div className="article-layout">
+          <TocMobile items={toc} />
           <ArticleRenderer blocks={post.blocks} />
           <Toc items={toc} />
         </div>
 
-        <div className="article-container">
+        <div className="article-frame">
           <AuthorBio author={post.author} />
+        </div>
+
+        <div className="container">
 
           {related.length > 0 ? (
             <section className="related-section" aria-label="Artículos relacionados">
               <div className="section-head">
-                <h2 className="section-title">Seguí leyendo</h2>
+                <h2 className="section-title">Sigue leyendo</h2>
               </div>
               <div className="posts-grid">
                 {related.map((p) => (

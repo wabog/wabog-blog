@@ -30,3 +30,23 @@ export function Toc({ items }: { items: TocItem[] }) {
     </nav>
   );
 }
+
+/** Índice plegable para pantallas angostas, donde el índice lateral no cabe. */
+export function TocMobile({ items }: { items: TocItem[] }) {
+  if (items.length === 0) return null;
+  return (
+    <details className="toc-mobile">
+      <summary>
+        <span>Contenido del artículo</span>
+        <span className="toc-mobile-count">{items.length} secciones</span>
+      </summary>
+      <nav aria-label="Contenido del artículo">
+        {items.map((item) => (
+          <a key={item.id} href={`#${item.id}`} data-level={item.level}>
+            {item.text}
+          </a>
+        ))}
+      </nav>
+    </details>
+  );
+}
