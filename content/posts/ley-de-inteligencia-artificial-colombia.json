@@ -1,0 +1,278 @@
+{
+  "slug": "ley-de-inteligencia-artificial-colombia",
+  "title": "Ley de inteligencia artificial en Colombia: en qué va",
+  "date": "2026-11-13",
+  "tags": [
+    {
+      "slug": "ia-legal",
+      "name": "IA para abogados"
+    },
+    {
+      "slug": "legaltech",
+      "name": "LegalTech"
+    }
+  ],
+  "excerpt": "Ley de inteligencia artificial en Colombia: en qué va el Proyecto 025 de 2026, qué propone y qué reglas sobre IA ya aplican hoy a abogados y despachos.",
+  "coverImage": "/covers/ley-de-inteligencia-artificial-colombia.webp",
+  "readingTime": 7,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "Colombia todavía no tiene una ley de inteligencia artificial. El proyecto más avanzado es el 025 de 2026 de la Cámara, radicado el 21 de julio de 2026 por 45 congresistas: ya tiene ponencia para primer debate en la Comisión Sexta, pero a 13 de noviembre de 2026 no se ha votado. Propone a MinCiencias como autoridad nacional, una evaluación previa para los sistemas de alto impacto y un régimen de infracciones leves, graves y gravísimas. Mientras tanto, a los abogados ya les aplican la protección de datos personales, los lineamientos de la Judicatura, la jurisprudencia sobre IA y el agravante penal por suplantar a alguien con IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada vez que un abogado sube un expediente a un asistente de IA, o una casa de cobranza automatiza la redacción de demandas, aparece la misma pregunta: ¿qué dice la ley de inteligencia artificial en Colombia? La respuesta corta es que esa ley todavía no existe. Hay un proyecto en el Congreso que ganó impulso en las últimas semanas, con ponencia radicada y una comisión accidental de IA recién instalada en la Cámara, y hay un conjunto de reglas que ya se aplican aunque no lleven el nombre de \"ley de IA\". En este artículo revisamos en qué va el trámite, qué propone el texto y qué conviene hacer hoy en un despacho."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Hay una ley de inteligencia artificial en Colombia?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No. El país no tiene una ley general que regule el desarrollo y el uso de la IA. En el plano nacional rige el documento CONPES 4144 de 2025, que adopta la Política Nacional de Inteligencia Artificial, pero se trata de un instrumento de política pública: fija lineamientos para el Estado y no impone obligaciones ni sanciones a los particulares."
+    },
+    {
+      "type": "paragraph",
+      "text": "En el Congreso cursan varias iniciativas. La que más ha avanzado es el Proyecto de Ley 025 de 2026 de la Cámara de Representantes. En el Senado está, entre otros, el Proyecto de Ley 138 de 2026, que propone un marco para la promoción, el desarrollo y el uso responsable de la IA y crearía un consejo asesor de carácter consultivo. Según el representante Alejandro Toro, coordinador de la comisión accidental de IA de la Cámara, hay más de 20 proyectos relacionados con el tema que no avanzan, de acuerdo con lo reportado por Impacto TIC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "En qué va el Proyecto de Ley 025 de 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el informe de ponencia publicado por la Cámara, el proyecto se radicó el 21 de julio de 2026 en la Secretaría General y se publicó en la Gaceta del Congreso 878 de 2026. Lo firmaron 45 congresistas, 34 representantes y 11 senadores, según Impacto TIC. Su trámite está en la Comisión Sexta de la Cámara, donde fueron designados como ponentes David Alejandro Toro Ramírez (coordinador), Laura Isabel Vera Zapata y Mauricio Andrés Toro Orjuela."
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe de ponencia para primer debate ya está radicado, pero el debate no se ha surtido. En una nota del 13 de noviembre de 2026, Impacto TIC describe que el proyecto \"espera su primer debate\" mientras la nueva comisión accidental de IA de la Cámara, coordinada por los representantes Alejandro Toro y Felipe Hernández, adelanta sus reuniones."
+    },
+    {
+      "type": "image",
+      "src": "/images/ley-de-inteligencia-artificial-colombia/tramite-proyecto-ley-ia.webp",
+      "alt": "Línea de tiempo del trámite del proyecto de ley de inteligencia artificial en Colombia: radicado, ponencia, primer debate pendiente y pasos restantes",
+      "caption": "El Proyecto de Ley 025 de 2026 sigue en la Comisión Sexta de la Cámara, antes de su primer debate."
+    },
+    {
+      "type": "paragraph",
+      "text": "El calendario importa. La ponencia recuerda que este proyecto retoma uno anterior, el 324 de 2025 Cámara – 043 de 2025 Senado, presentado por MinCiencias y MinTIC, que terminó archivado conforme al artículo 190 de la Ley 5 de 1992, la norma que regula el tránsito de los proyectos entre legislaturas. Es decir, la discusión ya se cayó una vez por tiempos. Si el nuevo proyecto no avanza en esta legislatura, puede correr la misma suerte."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Un debate abierto: ¿ley ordinaria o estatutaria?",
+      "text": "Germán López Ardila, de la Cámara Colombiana de Informática y Telecomunicaciones (CCIT), advirtió que el proyecto podría requerir el trámite de una ley estatutaria, según Impacto TIC. Es una opinión, no una decisión del Congreso, pero si esa tesis se impone el trámite sería más exigente."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué propone el texto para primer debate"
+    },
+    {
+      "type": "paragraph",
+      "text": "El objeto del proyecto, según la ponencia, es promover la generación de conocimiento, el desarrollo de la infraestructura tecnológica y la implementación de la IA en el país. El texto propuesto para primer debate incluye, entre otros, estos puntos:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Autoridad: MinCiencias sería la autoridad nacional competente en IA, y se crearía una comisión intersectorial con MinCiencias, MinTIC y la Superintendencia de Industria y Comercio (SIC), sin crear una entidad nueva.",
+        "Vigilancia: la SIC ejercería de manera residual la inspección, vigilancia y control cuando no exista una autoridad sectorial.",
+        "Sanciones: las infracciones se clasificarían en leves, graves y gravísimas. Poner en marcha un sistema de alto impacto sin evaluación previa sería una infracción grave, y la reglamentación no podría crear infracciones nuevas.",
+        "Voces e imágenes: usar la voz o la imagen de una persona en sistemas de IA exigiría su autorización previa y expresa.",
+        "Trabajo: quienes implementen IA tendrían que prever planes de reconversión o capacitación para los trabajadores potencialmente afectados.",
+        "Plazos: el Gobierno tendría 24 meses para reglamentar la ley y 12 meses para fijar los lineamientos de los entornos de prueba (sandbox)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dos advertencias. Primera: es un texto en discusión; en el debate puede cambiar la numeración, el alcance de las obligaciones y el monto de las sanciones. Segunda: el articulado no trae reglas específicas para los abogados. Sí hay una idea en la justificación del proyecto que conecta con la práctica judicial: según la ponencia, la IA \"carece de capacidad de argumentación y no garantiza imparcialidad\". Es la misma línea que ya siguen las cortes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lo que ya aplica hoy, aunque no haya ley de IA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que no exista una ley general no significa que la IA se use sin reglas. Como lo resumió Daniel Ospina, asesor de la Delegatura de Protección de Datos Personales de la SIC, la IA \"no existe en un vacío regulatorio\", porque la Ley 1581 de 2012 ya rige el tratamiento de datos personales, según Impacto TIC. A esa base se suman pronunciamientos judiciales y reglas de la Rama Judicial:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Regla vigente",
+        "Qué dice sobre la IA",
+        "Qué implica para el abogado"
+      ],
+      "rows": [
+        [
+          "Ley 1581 de 2012 (protección de datos)",
+          "Rige el tratamiento de datos personales, también con IA",
+          "Cuidar qué datos de clientes y contrapartes sube a una herramienta"
+        ],
+        [
+          "Sentencia T-323 de 2024 (Corte Constitucional)",
+          "La IA puede apoyar, pero no reemplazar el razonamiento del juez",
+          "Revisar si una providencia delegó en la IA lo que no podía delegar"
+        ],
+        [
+          "Acuerdo PCSJA24-12243 (Consejo Superior de la Judicatura)",
+          "Usos permitidos y vetados de la IA generativa en la Rama Judicial",
+          "Exigir transparencia cuando el despacho usó IA"
+        ],
+        [
+          "Auto AC739-2026 (Corte Suprema)",
+          "Citar normas o sentencias inexistentes es temeridad sancionable",
+          "Verificar cada cita antes de radicar"
+        ],
+        [
+          "Sentencia C-212 de 2026 (Corte Constitucional)",
+          "Avaló el aumento de la multa por falsedad personal cometida con IA",
+          "Tener presente el agravante ante suplantaciones o deepfakes"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El caso más reciente es la Sentencia C-212 de 2026, del 15 de julio de 2026, con ponencia del magistrado Jorge Enrique Ibáñez Najar. La Corte Constitucional declaró exequible, por el cargo analizado, el inciso del artículo 296 del Código Penal que agregó la Ley 2502 de 2025: cuando la falsedad personal se comete con inteligencia artificial, la multa puede aumentar hasta en una tercera parte. Según el fallo, para aplicar el agravante hay que probar que la herramienta es un sistema de IA y que su uso sirvió para suplantar a la persona; un uso accesorio de tecnología no basta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para los litigantes, el precedente que más pesa sigue siendo el Auto AC739-2026 de la Corte Suprema, que multó con 15 salarios mínimos a un abogado por citar referencias inexistentes generadas con IA. Lo explicamos en nuestra guía sobre las reglas de la IA en los procesos judiciales."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Inteligencia artificial en procesos judiciales: reglas 2026",
+      "href": "https://blog.wabog.com/inteligencia-artificial-procesos-judiciales-reglas"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué hacer hoy en el despacho o la casa de cobranza"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las obligaciones que más riesgo generan hoy ya existen, y las que propone el proyecto van en la misma dirección: transparencia, supervisión humana y cuidado con los datos. Estas medidas son un buen punto de partida:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Haga un inventario de las herramientas de IA que usa el equipo (asistentes de redacción, transcripción, chatbots de atención) y anote qué datos procesa cada una.",
+        "Defina qué información no se sube a herramientas abiertas: datos sensibles, información reservada del proceso y datos de terceros sin una base legal clara.",
+        "Exija revisión humana de todo escrito en el que haya intervenido la IA, con verificación de cada norma y cada sentencia en las fuentes oficiales.",
+        "Si su despacho usa voces o imágenes en materiales de atención o mercadeo, documente la autorización de las personas: el proyecto la exigiría de forma previa y expresa.",
+        "Haga seguimiento al trámite del Proyecto 025 de 2026: el texto puede cambiar en el primer debate y los plazos de transición también."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/ley-de-inteligencia-artificial-colombia/checklist-ia-despacho.webp",
+      "alt": "Lista de chequeo para usar inteligencia artificial en un despacho jurídico en Colombia mientras se tramita la ley de IA",
+      "caption": "Cuatro medidas que no dependen de que se apruebe la ley."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sobre el manejo de la información de los clientes cuando se trabaja con herramientas de IA, este artículo complementa lo anterior:"
+    },
+    {
+      "type": "cta_pill",
+      "label": "IA en derecho: mitos y verdades sobre confidencialidad y ética",
+      "href": "https://blog.wabog.com/mitos-y-verdades-sobre-confidencialidad-y-uso-etico-de-la-inteligencia-artificial-en-derecho"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Ya existe una ley de inteligencia artificial en Colombia?",
+          "answer": "No. A 13 de noviembre de 2026 no hay una ley general de IA. Rige el CONPES 4144 de 2025 como política pública, y en el Congreso cursan proyectos como el 025 de 2026 de la Cámara y el 138 de 2026 del Senado."
+        },
+        {
+          "question": "¿En qué etapa está el Proyecto de Ley 025 de 2026?",
+          "answer": "Está en la Comisión Sexta de la Cámara de Representantes, con informe de ponencia para primer debate radicado. El primer debate todavía no se ha realizado."
+        },
+        {
+          "question": "¿Quién vigilaría el cumplimiento si se aprueba?",
+          "answer": "Según el texto propuesto para primer debate, MinCiencias sería la autoridad nacional en IA, con una comisión intersectorial junto a MinTIC y la SIC. La SIC ejercería la inspección, vigilancia y control de manera residual."
+        },
+        {
+          "question": "¿Un abogado puede usar IA mientras tanto?",
+          "answer": "Sí. Ninguna norma vigente lo prohíbe, pero el abogado responde por lo que radica: la Corte Suprema sancionó a un litigante que citó referencias inexistentes generadas con IA, y el tratamiento de datos personales de los clientes está sujeto a la Ley 1581 de 2012."
+        },
+        {
+          "question": "¿Suplantar a alguien con IA tiene una pena mayor?",
+          "answer": "Sí, en la multa. La Ley 2502 de 2025 agregó al delito de falsedad personal un aumento de la multa de hasta una tercera parte cuando se usa IA, y la Corte Constitucional lo declaró exequible en la Sentencia C-212 de 2026."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.camara.gov.co/wp-content/uploads/2026/09/proyectos-ley/publicaciones/proyecto-36127/PPD-PL-025-26C-CON-FIRMAS.pdf",
+      "title": "Cámara de Representantes – Informe de ponencia para primer debate del Proyecto de Ley 025 de 2026"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.camara.gov.co/wp-content/uploads/2026/07/proyectos-ley/documentos/proyecto-36127/P.L.025-2026SC-INTELIGENCIA-ARTIFICIAL.pdf",
+      "title": "Cámara de Representantes – Texto radicado del Proyecto de Ley 025 de 2026 sobre inteligencia artificial"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.camara.gov.co/inteligencia-artificial-2/",
+      "title": "Cámara de Representantes – Ficha de trámite del Proyecto de Ley 025 de 2026"
+    },
+    {
+      "type": "embed",
+      "url": "https://impactotic.co/gobierno/comision-accidental-de-inteligencia-artificial-camara-colombia/",
+      "title": "Impacto TIC – La Cámara instala la Comisión accidental de Inteligencia Artificial (13 de noviembre de 2026)"
+    },
+    {
+      "type": "embed",
+      "url": "https://leyes.senado.gov.co/p-ley/2026-2027/PL%20138-2026%20-%20USO%20RESPONSABLE%20IA.pdf",
+      "title": "Senado de la República – Proyecto de Ley 138 de 2026, uso responsable de la IA"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2026/C-212-26.htm",
+      "title": "Corte Constitucional – Sentencia C-212 de 2026 (falsedad personal con inteligencia artificial)"
+    },
+    {
+      "type": "embed",
+      "url": "https://cortesuprema.gov.co/sala-civil-agraria-y-rural-sanciona-a-abogado-por-temeridad-procesal-al-citar-textos-legales-y-referencias-jurisprudenciales-apocrifas-generadas-por-la-ia/",
+      "title": "Corte Suprema de Justicia – Sala Civil sanciona a abogado por citar referencias apócrifas generadas por IA (Auto AC739-2026)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/consejo-superior-de-la-judicatura/-/judicatura-presenta-abc-de-la-sentencia-de-la-corte-constitucional-sobre-uso-de-la-ia-generativa-en-la-administraci%C3%B3n-de-justicia",
+      "title": "Consejo Superior de la Judicatura – ABC de la Sentencia T-323 de 2024 de la Corte Constitucional"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/consejo-superior-de-la-judicatura/-/consejo-superior-de-la-judicatura-expidi%C3%B3-lineamientos-para-el-uso-responsable-y-seguro-de-la-ia-generativa-en-la-rama-judicial",
+      "title": "Consejo Superior de la Judicatura – Lineamientos para el uso de la IA generativa en la Rama Judicial (Acuerdo PCSJA24-12243)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.esap.edu.co/wp-content/uploads/2026/06/conpes-4144.pdf",
+      "title": "DNP – Documento CONPES 4144 de 2025, Política Nacional de Inteligencia Artificial (copia ESAP)"
+    },
+    {
+      "type": "embed",
+      "url": "https://poderlegislativo.camara.gov.co/2026/09/30/los-desafios-de-legislar-en-la-era-de-la-ia/",
+      "title": "Poder Legislativo (Cámara) – Columna del representante David Alejandro Toro sobre el Proyecto de Ley 025 de 2026"
+    }
+  ]
+}
