@@ -1,0 +1,237 @@
+{
+  "slug": "suspension-de-terminos-falla-microsoft",
+  "title": "Suspensión de términos por falla de Microsoft: qué hacer",
+  "date": "2026-11-14",
+  "tags": [
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    },
+    {
+      "slug": "panorama-juridico",
+      "name": "Panorama jurídico"
+    }
+  ],
+  "excerpt": "Suspensión de términos por falla de Microsoft: qué ordenó la Judicatura del 13 al 17 de noviembre, qué quedó por fuera y cómo recalcular sus plazos.",
+  "coverImage": "/covers/suspension-de-terminos-falla-microsoft.webp",
+  "readingTime": 7,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "La caída global de Microsoft 365 del 12 de noviembre de 2026 dejó sin correo institucional, Teams ni SharePoint a los despachos judiciales. El Consejo Seccional de Bogotá suspendió primero los términos del viernes 13 en su distrito (Acuerdo CSJBTA26-155) y, según lo publicado por medios jurídicos y por la propia Judicatura, el Consejo Superior extendió la medida a todo el país del 13 al 17 de noviembre, ambas fechas inclusive (Acuerdo PCSJA26-12615). Como el lunes 16 es festivo, se pierden dos días hábiles: si no hay prórroga, los términos vuelven a correr el miércoles 18. Tutelas con medida provisional, hábeas corpus y control de garantías con persona capturada siguieron funcionando."
+    },
+    {
+      "type": "paragraph",
+      "text": "La suspensión de términos por falla de Microsoft es una medida poco común: esta vez no fue un desastre natural ni una emergencia sanitaria, sino la caída tecnológica de un proveedor la que frenó los plazos en los juzgados del país. Para abogados, firmas y casas de cobranza, la consecuencia práctica es inmediata: hay que revisar qué vencimientos caían entre el 13 y el 17 de noviembre, qué memoriales enviados por correo pudieron no llegar y qué audiencias por Teams quedaron en el aire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué pasó: la falla de Microsoft 365 en la Rama Judicial"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el Acuerdo CSJBTA26-155 del Consejo Seccional de la Judicatura de Bogotá, desde las 11:48 a. m. del jueves 12 de noviembre de 2026 la plataforma Microsoft 365 que usa la Rama Judicial presentó fallas que afectaron, entre otros servicios, Outlook, Teams, OneDrive, SharePoint y las versiones en línea de Word, Excel y PowerPoint. Infobae reportó que Microsoft advirtió una ventana de hasta 48 horas de intermitencias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para los despachos esto no es un detalle técnico: el correo institucional es el canal por el que reciben demandas, memoriales y tutelas desde la Ley 2213 de 2022, Teams es la plataforma de las audiencias virtuales y SharePoint aloja buena parte de los expedientes electrónicos. Según Ámbito Jurídico, con Outlook caído los despachos no podían enviar ni recibir comunicaciones judiciales."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué ordenó la Judicatura sobre la suspensión de términos"
+    },
+    {
+      "type": "paragraph",
+      "text": "La respuesta llegó en dos pasos el mismo viernes 13 de noviembre:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Bogotá, solo el 13 de noviembre. El Consejo Seccional de la Judicatura de Bogotá expidió el Acuerdo CSJBTA26-155, que autorizó suspender los términos durante el 13 de noviembre en los despachos del Distrito Judicial de Bogotá. Exceptuó las audiencias inmediatas o actos urgentes de control de garantías (adultos y adolescentes), las peticiones de libertad ante los jueces de ejecución de penas, las tutelas con medida provisional o que versen sobre salud o riesgo para la vida, y el hábeas corpus.",
+        "Todo el país, del 13 al 17 de noviembre. Horas después, de acuerdo con El País, Ámbito Jurídico y El Espectador, el Consejo Superior de la Judicatura expidió el Acuerdo PCSJA26-12615, publicado en la Gaceta de la Judicatura, que ordena suspender los términos judiciales en todo el territorio nacional desde el 13 hasta el 17 de noviembre de 2026, inclusive."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Según esos mismos medios, el acuerdo nacional exceptúa las acciones de tutela con medida provisional, el hábeas corpus, las diligencias de control de garantías con persona capturada y las demás audiencias, trámites o diligencias que involucren personas privadas de la libertad. Para esas actuaciones, los consejos y direcciones seccionales pueden usar cualquier medio tecnológico, electrónico o análogo que resulte idóneo."
+    },
+    {
+      "type": "image",
+      "src": "/images/suspension-de-terminos-falla-microsoft/cronologia-suspension-microsoft.webp",
+      "alt": "Cronología de la suspensión de términos por falla de Microsoft en la Rama Judicial, del 12 al 18 de noviembre de 2026",
+      "caption": "Del inicio de la falla a la reanudación prevista de los términos."
+    },
+    {
+      "type": "callout",
+      "tone": "warning",
+      "title": "Verifique el texto oficial",
+      "text": "Al cierre de este artículo (14 de noviembre) no encontramos el PDF del Acuerdo PCSJA26-12615 en el repositorio de actos administrativos de la Rama Judicial; sus datos provienen de la Gaceta de la Judicatura citada por la prensa jurídica. La medida puede prorrogarse o levantarse antes si el servicio se normaliza. Revise el portal de la Rama Judicial y el micrositio de su despacho antes de dar por cierto un vencimiento."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cuántos días se pierden y cuándo se reanudan los términos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El calendario juega a favor de la claridad. El sábado 14 y el domingo 15 no son hábiles, y el lunes 16 de noviembre es festivo por la Independencia de Cartagena. En la práctica, la suspensión nacional elimina dos días hábiles: el viernes 13 y el martes 17. Si el Consejo Superior no adopta una prórroga, los términos se reanudan el miércoles 18 de noviembre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recuerde la diferencia entre suspender e interrumpir: un término suspendido no vuelve a empezar; se detiene y, al reanudarse, corren solo los días que faltaban. Además, el artículo 118 del Código General del Proceso establece que en los términos de días no se cuentan los de vacancia judicial ni aquellos en que por cualquier circunstancia permanezca cerrado el juzgado."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo: un recurso de reposición"
+    },
+    {
+      "type": "paragraph",
+      "text": "El recurso de reposición contra un auto dictado por fuera de audiencia debe interponerse dentro de los tres días siguientes a su notificación (artículo 318 del CGP). Suponga un auto notificado por estado el miércoles 11 de noviembre en un juzgado de Medellín:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Día del término",
+        "Sin suspensión",
+        "Con la suspensión nacional"
+      ],
+      "rows": [
+        [
+          "Día 1",
+          "Jueves 12",
+          "Jueves 12 (aún no había suspensión)"
+        ],
+        [
+          "Día 2",
+          "Viernes 13",
+          "Miércoles 18"
+        ],
+        [
+          "Día 3 (vencimiento)",
+          "Martes 17",
+          "Jueves 19"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El jueves 12 sí corrió, porque la suspensión empieza el 13, aunque la falla comenzó a media mañana de ese día. Si ese jueves no pudo radicar por la caída del correo, documéntelo (capturas, mensajes rebotados, constancia del despacho): le servirá si necesita discutir el cómputo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué deben hacer abogados y casas de cobranza"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Liste los vencimientos entre el 12 y el 19 de noviembre y recalcúlelos: corra cada uno dos días hábiles si el término estaba en curso el 13.",
+        "Reenvíe lo enviado durante la falla. Si radicó memoriales o demandas por correo desde el mediodía del 12, confirme que llegaron; si no hay acuse de recibo, vuelva a enviarlos cuando el servicio se restablezca y conserve la prueba del primer envío.",
+        "Revise las notificaciones electrónicas en curso. La Ley 2213 entiende surtida la notificación personal por mensaje de datos dos días hábiles después del envío; si su mensaje salió durante la caída, verifique que el destinatario lo recibió antes de contar.",
+        "Confirme las audiencias por Teams programadas para esos días. Salvo las exceptuadas, esté atento a la nueva fecha que fije el despacho en estados o por correo.",
+        "No asuma efectos sobre prescripción o caducidad. Las fuentes consultadas hablan de términos judiciales y no traen una regla expresa sobre prescripción o caducidad: si una demanda vence por estos días, radíquela apenas pueda."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Un riesgo menos visible es el de la reanudación: cuando el correo y SharePoint vuelvan a operar, es probable que los despachos publiquen en pocos días los estados y autos acumulados. Ese es el momento en que se pierden términos por no ver una actuación a tiempo; una herramienta de vigilancia judicial como Wabog, que avisa de cada movimiento en sus procesos, ayuda a no depender de la revisión manual en esa semana."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Suspensión de términos por el sismo: cómo recalcular",
+      "href": "https://blog.wabog.com/suspension-de-terminos-judiciales-sismo-2026"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Notificación electrónica: ¿desde cuándo corren los términos?",
+      "href": "https://blog.wabog.com/notificacion-electronica-terminos-acuse-de-recibo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿La suspensión de términos por la falla de Microsoft aplica en todo el país?",
+          "answer": "Según lo reportado sobre el Acuerdo PCSJA26-12615 del Consejo Superior de la Judicatura, sí: del 13 al 17 de noviembre de 2026, inclusive. Antes, el Consejo Seccional de Bogotá había suspendido solo el 13 de noviembre en su distrito."
+        },
+        {
+          "question": "¿Cuándo se reanudan los términos judiciales?",
+          "answer": "Si no hay prórroga, el miércoles 18 de noviembre de 2026, porque el 16 es festivo y la suspensión cubre hasta el 17. Confírmelo en el portal de la Rama Judicial."
+        },
+        {
+          "question": "¿Se pueden presentar tutelas durante la suspensión?",
+          "answer": "Sí. Las tutelas con medida provisional y el hábeas corpus quedaron exceptuados, al igual que el control de garantías con persona capturada y las actuaciones con personas privadas de la libertad."
+        },
+        {
+          "question": "¿La suspensión reinicia mis plazos?",
+          "answer": "No. Es una suspensión, no una interrupción: al reanudarse corren solo los días que faltaban cuando empezó."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ambitojuridico.com/sites/default/files/2026-11/Acu-CSJBTA26-155-26.pdf",
+      "title": "Consejo Seccional de la Judicatura de Bogotá – Acuerdo CSJBTA26-155 de 2026"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ambitojuridico.com/noticias/tic/atencion-suspenden-terminos-judiciales-en-todo-el-pais",
+      "title": "Ámbito Jurídico – Suspenden términos judiciales en todo el país (13 al 17 de noviembre)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.elpais.com.co/judicial/consejo-superior-de-la-judicatura-suspende-los-terminos-judiciales-en-todo-el-pais-por-la-falla-masiva-de-microsoft-1337.html",
+      "title": "El País – Acuerdo PCSJA26-12615: suspensión nacional de términos por la falla de Microsoft"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.elespectador.com/judicial/se-frenan-los-plazos-en-los-procesos-judiciales-por-la-falla-global-de-microsoft/",
+      "title": "El Espectador – Se frenan los plazos judiciales por la falla global de Microsoft"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.asuntoslegales.com.co/actualidad/consejo-seccional-de-judicatura-de-bogota-anuncio-suspension-de-terminos-judiciales-4524395",
+      "title": "Asuntos Legales – Consejo Seccional de Bogotá anuncia suspensión de términos"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.infobae.com/colombia/2026/11/13/por-falla-en-los-servidores-de-microsoft-se-suspenden-los-terminos-en-los-despachos-judiciales-en-bogota-esto-decidio-el-consejo-superior-de-la-judicatura/",
+      "title": "Infobae – Falla de Microsoft y suspensión de términos en Bogotá"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.portafolio.co/economia/noviembre-tiene-dos-lunes-festivos-en-colombia-hoy-por-todos-los-santos-y-el-16-por-la-independencia-de-cartagena-505555",
+      "title": "Portafolio – Noviembre de 2026 tiene dos lunes festivos: el 2 y el 16"
+    },
+    {
+      "type": "embed",
+      "url": "https://procesal.uexternado.edu.co/codigo-general/articulo-118-computo-de-terminos/",
+      "title": "Universidad Externado – Código General del Proceso, artículo 118 (cómputo de términos)"
+    },
+    {
+      "type": "embed",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html",
+      "title": "Secretaría del Senado – Código General del Proceso (Ley 1564 de 2012), artículo 318"
+    },
+    {
+      "type": "embed",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2213_2022.html",
+      "title": "Secretaría del Senado – Ley 2213 de 2022, artículo 8"
+    }
+  ]
+}
