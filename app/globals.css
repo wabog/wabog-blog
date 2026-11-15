@@ -1601,6 +1601,13 @@ a {
   margin-inline: auto;
 }
 
+.article-end-cta p a {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 .article-end-cta .cta-pill {
   background: #fff;
   color: var(--accent-700);
