@@ -1,0 +1,241 @@
+{
+  "slug": "prescripcion-credito-upac",
+  "title": "Prescripción de crédito UPAC: qué dijo la Corte",
+  "date": "2026-11-15",
+  "tags": [
+    {
+      "slug": "panorama-juridico",
+      "name": "Panorama jurídico"
+    },
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    }
+  ],
+  "excerpt": "Prescripción de crédito UPAC: la Corte Constitucional (T-355/26) dice que corre aunque no haya reestructuración y ordenó cancelar la hipoteca.",
+  "coverImage": "/covers/prescripcion-credito-upac.webp",
+  "readingTime": 8,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "En la sentencia T-355 de 2026 (30 de octubre), la Corte Constitucional reiteró que la prescripción de un crédito UPAC no depende de que el banco lo haya reestructurado bajo la Ley 546 de 1999: el término de la acción cambiaria corre desde el vencimiento del título o desde la aceleración. Amparó el debido proceso de un deudor, encontró tres defectos en el fallo que le negó la prescripción y, como el banco ya había condonado la deuda, le ordenó a Bancolombia otorgar en un mes la escritura de cancelación de la hipoteca."
+    },
+    {
+      "type": "paragraph",
+      "text": "La prescripción de un crédito UPAC vuelve a estar en discusión por una razón práctica: miles de obligaciones hipotecarias de los años noventa quedaron en el limbo después de la crisis de 1999. Los procesos ejecutivos se terminaron, los créditos no siempre se reestructuraron y, décadas después, las hipotecas siguen inscritas en los folios de matrícula. Algunos jueces han negado la prescripción con un argumento recurrente: si el crédito no se reestructuró, no es exigible y el plazo nunca empezó a correr."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Corte Constitucional acaba de rechazar de nuevo esa lectura. En este artículo explicamos qué decidió la sentencia T-355 de 2026, por qué importa y qué deben revisar los abogados de deudores, los bancos y las casas de cobranza que gestionan cartera UPAC antigua."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué decidió la Corte sobre la prescripción del crédito UPAC"
+    },
+    {
+      "type": "paragraph",
+      "text": "La decisión es de la Sala Octava de Revisión, con ponencia de la magistrada Paola Andrea Meneses Mosquera y la participación de los magistrados Natalia Ángel Cabo y Miguel Polo Rosero. Fue proferida el 30 de octubre de 2026 en el expediente T-12.060.781."
+    },
+    {
+      "type": "paragraph",
+      "text": "La tutela atacaba una sentencia del Juzgado 75 de Pequeñas Causas y Competencia Múltiple de Bogotá, que el 29 de septiembre de 2025 negó la prescripción de un crédito hipotecario en UPAC y la cancelación de la hipoteca. El juez consideró que, como el crédito no se había reestructurado conforme a la Ley 546 de 1999, la obligación no era exigible y no había forma de fijar desde cuándo contaba el término. Los jueces de tutela de primera y segunda instancia (el Juzgado 23 Civil del Circuito y la Sala Civil del Tribunal Superior de Bogotá) negaron el amparo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Corte revocó esos fallos y concedió la tutela del derecho al debido proceso. Según la sentencia, el juez incurrió en tres defectos:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Defecto sustantivo: le dio a la falta de reestructuración un efecto que no está previsto ni en la Ley 546 de 1999, ni en el artículo 789 del Código de Comercio, ni en el artículo 2535 del Código Civil.",
+        "Desconocimiento del precedente: no aplicó ni justificó por qué se apartaba de la sentencia T-355 de 2025, que había resuelto un caso con los mismos elementos.",
+        "Defecto fáctico en su dimensión negativa: dictó sentencia anticipada sin examinar si hubo interrupción, suspensión o renuncia a la prescripción, y sin resolver la excepción de interrupción natural que propuso el banco."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/prescripcion-credito-upac/regla-prescripcion-credito-upac.webp",
+      "alt": "Regla de la sentencia T-355 de 2026 sobre la prescripción del crédito UPAC sin reestructurar",
+      "caption": "Las cuatro ideas centrales de la T-355 de 2026."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "El caso: una hipoteca de 1994 que seguía en el folio"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según los hechos que relata la Corte, en 1994 una pareja compró un apartamento en Bogotá con un crédito en UPAC respaldado por un pagaré y una hipoteca abierta sin límite de cuantía. El banco inició un proceso ejecutivo hipotecario en los años noventa. El 20 de marzo de 2007 el Juzgado 13 Civil del Circuito de Bogotá lo declaró terminado con base en la Ley 546 de 1999 y la jurisprudencia sobre créditos UPAC, levantó las medidas y dejó a salvo la obligación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Después de eso, de acuerdo con lo que informaron las partes a la Corte, no hubo pagos, refinanciaciones ni nuevas demandas. En abril de 2023 los deudores demandaron la prescripción extintiva. El juzgado la negó en 2025 con el argumento de la falta de reestructuración. Mientras la tutela estaba en trámite, Bancolombia (sucesor del acreedor original) condonó la obligación el 9 de diciembre de 2025."
+    },
+    {
+      "type": "image",
+      "src": "/images/prescripcion-credito-upac/linea-tiempo-caso-t-355-2026.webp",
+      "alt": "Línea de tiempo del caso de prescripción de crédito UPAC resuelto en la sentencia T-355 de 2026",
+      "caption": "Cronología del caso según los hechos narrados en la sentencia."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Por qué la falta de reestructuración no detiene la prescripción"
+    },
+    {
+      "type": "paragraph",
+      "text": "La sentencia se apoya en la T-355 de 2025, del 28 de agosto de 2025, con ponencia del magistrado Vladimir Fernández Andrade. En ese fallo la Corte separó dos preguntas que algunos despachos venían mezclando:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Si un crédito UPAC sin reestructurar se puede cobrar por la vía ejecutiva. Aquí la falta de reestructuración sí tiene efectos: la Sala de Casación Civil de la Corte Suprema la ha tratado como un obstáculo para iniciar o impulsar procesos hipotecarios sobre esos créditos.",
+        "Desde cuándo corre la prescripción de la acción cambiaria. Aquí, según la Corte Constitucional, rige el régimen general: el término de tres años del artículo 789 del Código de Comercio se cuenta desde el vencimiento del título, sea por el plazo pactado o por la aceleración."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La Corte explicó que no existe una norma que saque a las obligaciones en UPAC del régimen general de prescripción, y que la Ley 546 de 1999 no convirtió la falta de reestructuración en una causa de suspensión, interrupción o ampliación del plazo. Aceptar lo contrario, advirtió, llevaría a una especie de imprescriptibilidad de hecho, que depende de un acto que solo puede ejecutar una de las partes."
+    },
+    {
+      "type": "quote",
+      "text": "La ausencia de reestructuración del crédito no constituye una condición para el inicio del cómputo de la prescripción de la acción cambiaria.",
+      "cite": "Corte Constitucional, Sentencia T-355 de 2026 (ordinal cuarto)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un punto relevante para quien litiga estos casos: el juez de tutela de primera instancia había descartado la T-355 de 2025 porque sus efectos eran solo entre las partes. La Corte respondió que eso confunde el alcance de la orden con la fuerza vinculante de la regla de decisión, y que el carácter inter partes no era razón suficiente para desconocer el precedente."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Qué ordenó la Corte: cancelar la hipoteca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como el banco ya había condonado la deuda, la Corte declaró la carencia actual de objeto frente a la petición de anular la sentencia y obtener un nuevo fallo sobre la prescripción. No dejó sin efectos la providencia ni declaró la prescripción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la hipoteca seguía inscrita. La Corte recordó que, según el artículo 2457 del Código Civil, la extinción de la obligación conlleva la de la hipoteca que la garantiza, y precisó que un paz y salvo no equivale a una autorización para cancelarla en el registro. Por eso ordenó a Bancolombia que, dentro del mes siguiente a la notificación, otorgue la escritura pública de cancelación de la hipoteca, siempre que la garantía no respalde otras obligaciones vigentes; si las respalda, debe informárselo a los deudores en el mismo plazo. Además, advirtió al juzgado que en casos futuros debe aplicar la regla de la T-355 de 2025."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Pregunta",
+        "Respuesta de la Corte"
+      ],
+      "rows": [
+        [
+          "¿Sin reestructuración no corre la prescripción?",
+          "Sí corre. La reestructuración no es condición para iniciar el término."
+        ],
+        [
+          "¿Desde cuándo se cuenta?",
+          "Desde el vencimiento del título: plazo pactado o aceleración (art. 789 C. Co. y art. 2535 C. C.)."
+        ],
+        [
+          "¿Qué debe revisar el juez?",
+          "Interrupciones, suspensión, renuncia y la conducta de las partes antes de fallar."
+        ],
+        [
+          "¿La deuda extinguida deja libre el inmueble?",
+          "La hipoteca se extingue, pero hay que otorgar y registrar la escritura de cancelación."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué deben hacer abogados, bancos y casas de cobranza"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para quien representa deudores con créditos UPAC antiguos, la sentencia ofrece un argumento sólido frente al juez que exija la reestructuración como condición previa. También deja lecciones de estrategia:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Prueba la fecha de vencimiento o de aceleración con el pagaré y el expediente del ejecutivo terminado. En este caso, el fallo del juzgado mencionaba dos fechas distintas para la última cuota (2004 y 2014), y la Corte lo señaló como una inconsistencia relevante.",
+        "Anticipa la discusión sobre interrupción natural o renuncia: pagos, propuestas firmadas, acuerdos o refinanciaciones posteriores pueden reiniciar el conteo.",
+        "Si el proceso es de mínima cuantía y se tramita en única instancia, la tutela puede ser la vía para atacar la sentencia, porque no hay apelación. La Corte consideró cumplida la subsidiariedad por esa razón.",
+        "Si la deuda se extingue por prescripción, pago o condonación, pide la escritura de cancelación de la hipoteca y su registro: el paz y salvo no basta."
+      ]
+    },
+    {
+      "type": "cta_pill",
+      "label": "Prescripción del pagaré: cómo interrumpirla a tiempo",
+      "href": "https://blog.wabog.com/prescripcion-del-pagare"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para bancos, titularizadoras, compradores de cartera y casas de cobranza, la conclusión es la inversa: la cartera UPAC sin reestructurar no está blindada contra la prescripción. Conviene revisar cada obligación con un cronograma propio:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Fecha de vencimiento o de aceleración del pagaré.",
+        "Fecha de terminación del ejecutivo y actuaciones posteriores.",
+        "Requerimientos, demandas, pagos, acuerdos o reconocimientos que puedan haber interrumpido el término, con soporte documental.",
+        "Hipotecas vigentes en el folio que ya no respaldan obligaciones exigibles, para cancelarlas y evitar tutelas y condenas."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En carteras grandes, el riesgo está en los procesos que nadie mira durante años. Llevar un control centralizado de los expedientes y de sus actuaciones, con herramientas de vigilancia judicial como Wabog, ayuda a detectar a tiempo las obligaciones que se acercan a prescribir."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Requisitos formales del título ejecutivo: qué cambió",
+      "href": "https://blog.wabog.com/requisitos-formales-titulo-ejecutivo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Prescribe un crédito UPAC que no fue reestructurado?",
+          "answer": "Sí. Según las sentencias T-355 de 2025 y T-355 de 2026 de la Corte Constitucional, la falta de reestructuración bajo la Ley 546 de 1999 no impide que empiece a correr el término de prescripción de la acción cambiaria."
+        },
+        {
+          "question": "¿Desde cuándo se cuenta la prescripción de un crédito UPAC?",
+          "answer": "Desde el vencimiento del título valor, ya sea por el cumplimiento del plazo pactado o por la aceleración de la obligación. Para la acción cambiaria directa el término es de tres años (art. 789 del Código de Comercio), sin perjuicio de interrupciones, suspensión o renuncia."
+        },
+        {
+          "question": "Si la deuda se extingue, ¿se cancela sola la hipoteca?",
+          "answer": "No en el registro. La extinción de la obligación conlleva la de la hipoteca (art. 2457 del Código Civil), pero hay que otorgar la escritura de cancelación e inscribirla. La Corte aclaró que un paz y salvo no autoriza por sí solo la cancelación."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2026/T-355-26.htm",
+      "title": "Corte Constitucional – Sentencia T-355 de 2026"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2025/T-355-25.htm",
+      "title": "Corte Constitucional – Sentencia T-355 de 2025"
+    },
+    {
+      "type": "embed",
+      "url": "https://www1.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=180",
+      "title": "Función Pública – Ley 546 de 1999 (financiación de vivienda, UPAC y UVR)"
+    }
+  ]
+}
