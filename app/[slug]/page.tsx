@@ -213,7 +213,16 @@ export default async function ArticlePage({ params }: PageProps) {
 
           <div className="article-end-cta">
             <h3>¿Listo para no volver a perder un término?</h3>
-            <p>Vigila tus radicados en tiempo real y recibe las actuaciones de tus procesos por WhatsApp.</p>
+            <p>
+              <a
+                href="https://wabog.com/"
+                data-analytics="article_cta_home"
+                data-analytics-location="article_end"
+              >
+                Wabog es el software de vigilancia judicial para abogados y firmas
+              </a>
+              : vigila tus radicados y recibe las actuaciones de tus procesos por WhatsApp.
+            </p>
             <a
               href="https://app.wabog.com"
               className="cta-pill"
