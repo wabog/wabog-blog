@@ -1,0 +1,232 @@
+{
+  "slug": "ley-dejen-de-fregar-cobranza",
+  "title": "Ley Dejen de Fregar: cómo cobrar cartera sin sanciones",
+  "date": "2026-11-16",
+  "tags": [
+    {
+      "slug": "panorama-juridico",
+      "name": "Panorama jurídico"
+    },
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    }
+  ],
+  "excerpt": "Ley Dejen de Fregar (Ley 2300 de 2023): horarios, canales y prohibiciones que deben cumplir abogados y casas de cobranza al gestionar el cobro de cartera.",
+  "coverImage": "/covers/ley-dejen-de-fregar-cobranza.webp",
+  "readingTime": 7,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "La Ley Dejen de Fregar (Ley 2300 de 2023) se aplica a cualquier persona natural o jurídica que haga gestiones de cobranza, directamente, por medio de terceros o por cesión de la obligación, no solo a los bancos. Solo se puede contactar al deudor por los canales que él autorizó, de lunes a viernes de 7:00 a. m. a 7:00 p. m. y los sábados de 8:00 a. m. a 3:00 p. m., sin domingos ni festivos. Está prohibido llamar a las referencias, cobrar con visitas a la casa o al trabajo (con excepciones puntuales) y preguntar por qué no pagó. Las sanciones las imponen la Superintendencia Financiera y la SIC."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Ley Dejen de Fregar cambió la forma en que se hace el cobro prejurídico en Colombia. Aunque se habla de ella sobre todo cuando se trata de bancos y llamadas publicitarias, su alcance es más amplio: cubre a todas las personas que hagan gestión de cobranza, lo que incluye a las casas de cobranza, a los abogados externos que cobran cartera por encargo y a quienes compran cartera. En esta guía repasamos qué exige la Ley 2300 de 2023 artículo por artículo, qué dijo la Corte Constitucional sobre ella y cómo ajustar la operación de cobro para no exponerse a una sanción."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué es la Ley Dejen de Fregar y a quién se aplica"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Ley 2300 del 10 de julio de 2023 se conoce como Ley Dejen de Fregar. Su objeto es proteger la intimidad de los consumidores fijando por qué canales, en qué horarios y con qué frecuencia se les puede contactar. Según el artículo 10, entró a regir tres meses después de su promulgación; por eso se aplica desde octubre de 2023."
+    },
+    {
+      "type": "paragraph",
+      "text": "El punto clave para despachos y casas de cobranza está en el artículo 1 y su parágrafo. La ley no se limita a las entidades vigiladas por la Superintendencia Financiera: se extiende a todas las personas naturales y jurídicas que adelanten gestiones de cobranza de forma directa, por medio de terceros o por cesión de la obligación. En la práctica, si un banco, una cooperativa o un comercio le entrega cartera a una firma para que la cobre, esa firma queda sujeta a las mismas reglas que el acreedor original."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "La Corte ya la revisó",
+      "text": "En la Sentencia C-278 de 2024 (M. P. José Fernando Reyes Cuartas), la Corte Constitucional declaró exequible la Ley 2300 de 2023 frente a una demanda que sostenía que debía tramitarse como ley estatutaria. La Corte concluyó que la ley no regula el núcleo del derecho a la intimidad sino aspectos operativos, como canales, horarios y frecuencia de contacto."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Horarios permitidos para la gestión de cobranza"
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo 3 fija una franja horaria estricta. Fuera de ella no se puede contactar al deudor para cobrarle, salvo que él lo haya autorizado expresamente en un documento distinto al contrato que rige la relación y firmado después de este. Es decir, una cláusula de autorización incluida en el pagaré o en el contrato de crédito no sirve para ampliar el horario."
+    },
+    {
+      "type": "image",
+      "src": "/images/ley-dejen-de-fregar-cobranza/horario-cobranza-ley-2300.webp",
+      "alt": "Horario de cobranza según la Ley Dejen de Fregar: lunes a viernes de 7 a. m. a 7 p. m., sábados de 8 a. m. a 3 p. m., sin contacto domingos ni festivos",
+      "caption": "Franja horaria del artículo 3 de la Ley 2300 de 2023."
+    },
+    {
+      "type": "table",
+      "headers": ["Regla", "Qué dice la Ley 2300", "Artículo"],
+      "rows": [
+        ["Días y horas", "Lunes a viernes de 7:00 a. m. a 7:00 p. m.; sábados de 8:00 a. m. a 3:00 p. m.; nunca domingos ni festivos", "Art. 3"],
+        ["Frecuencia", "Hecho un contacto directo, no se puede usar más de un canal en la misma semana ni contactar más de una vez el mismo día", "Art. 3"],
+        ["Canales", "Solo los que el consumidor autorizó, después de que se le informaron las opciones", "Art. 2"],
+        ["Fuera de horario", "Solo con autorización expresa en un documento distinto y posterior al contrato", "Art. 3, par."],
+        ["Referencias", "Nunca se contactan; avalistas, codeudores y deudores solidarios, en las mismas condiciones del deudor", "Art. 4"]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Canales autorizados y frecuencia de contacto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el artículo 2, quien cobra solo puede contactar al deudor por los canales que este autorizó. Para que esa autorización sea válida, los canales disponibles deben haberse informado antes, de modo que el consumidor pueda escoger. Si la cartera llegó por cesión o por un mandato de cobro, conviene pedirle al acreedor original la evidencia de esa autorización: sin ella, no hay forma de demostrar que el canal usado era permitido."
+    },
+    {
+      "type": "paragraph",
+      "text": "La regla de frecuencia también exige orden. Una vez se logra un contacto directo con el deudor, durante esa semana no se le puede buscar por varios canales ni más de una vez al día. Las estrategias de cobro que combinan llamada, mensaje de texto y WhatsApp el mismo día, o que repiten la llamada varias veces, quedan por fuera de la ley."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lo que la Ley Dejen de Fregar prohíbe en el cobro"
+    },
+    {
+      "type": "image",
+      "src": "/images/ley-dejen-de-fregar-cobranza/reglas-cobranza-ley-2300.webp",
+      "alt": "Qué sí y qué no en la gestión de cobranza según la Ley Dejen de Fregar: canales autorizados, un contacto al día, sin referencias, sin visitas, sin preguntar el motivo del no pago",
+      "caption": "Resumen de permisos y prohibiciones de los artículos 2 a 7."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contactar a las referencias"
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo 4 prohíbe, sin excepciones, contactar a las referencias personales o de otro tipo que el deudor haya dado al pedir el crédito. El avalista, el codeudor o el deudor solidario sí pueden ser contactados, porque están obligados, pero con las mismas limitaciones de canal, horario y frecuencia que aplican al deudor principal."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Visitas al domicilio o al lugar de trabajo"
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo 6 obliga a abstenerse de cobrar mediante visitas a la casa o al trabajo del deudor. Hay dos excepciones: las obligaciones de microcrédito y de crédito de fomento o desarrollo agropecuario o rural, cuando el consumidor lo autorizó expresamente; y los casos en que el gestor no tiene canales actualizados y los operadores o empresas de mensajería reportan que no fue posible el contacto o la entrega, lo cual debe quedar registrado."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Preguntar por qué no pagó"
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo 7 prohíbe consultarle al deudor el motivo del incumplimiento. Lo que sí se puede hacer, según el parágrafo de esa misma norma, es ofrecerle alternativas de pago acordes con su situación financiera. Los guiones de llamada que empiezan con «¿por qué no ha pagado?» deben reescribirse para ir directo a las opciones de acuerdo."
+    },
+    {
+      "type": "callout",
+      "tone": "warning",
+      "title": "Excepciones del artículo 8",
+      "text": "Las limitaciones no se aplican a los contactos para confirmar operaciones monetarias, informar sobre ahorros voluntarios y cesantías, enviar información que el consumidor pidió o alertar sobre transacciones fraudulentas, inusuales o sospechosas. Un mensaje de cobro no encaja en ninguna de estas categorías."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Publicidad y Registro de Números Excluidos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo 5 extiende las mismas reglas de canales y horarios a los mensajes publicitarios que productores y proveedores envían por SMS, aplicaciones, correo electrónico o llamadas. También ordenó al Gobierno, por medio del MinTIC y con la Comisión de Regulación de Comunicaciones, adaptar el Registro de Números Excluidos. Para una firma que hace mercadeo jurídico por WhatsApp o correo, esto significa que las campañas también deben respetar la franja horaria y dar al destinatario una forma ágil de darse de baja."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sanciones: quién vigila el cumplimiento"
+    },
+    {
+      "type": "paragraph",
+      "text": "De acuerdo con el artículo 9, el incumplimiento lo sancionan la Superintendencia Financiera y la Superintendencia de Industria y Comercio, cada una dentro de sus competencias según la Ley Estatutaria 1266 de 2008 de habeas data. Para las casas de cobranza y firmas que no son entidades vigiladas por la Superintendencia Financiera, la autoridad de referencia suele ser la SIC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Checklist para casas de cobranza y despachos"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Exige al acreedor, junto con la cartera, la prueba de los canales que autorizó cada deudor.",
+        "Configura el marcador y las plataformas de mensajería para bloquear envíos fuera de la franja horaria, en domingos y en festivos.",
+        "Registra cada contacto efectivo con fecha, hora y canal para demostrar que no hubo más de uno al día ni varios canales en la semana.",
+        "Elimina las referencias personales de las bases de gestión y deja solo a los obligados (codeudores, avalistas, deudores solidarios).",
+        "Reescribe los guiones de llamada: sin preguntas sobre el motivo del no pago y con alternativas de acuerdo.",
+        "Documenta los intentos fallidos antes de cualquier visita y verifica si el caso cabe en una de las excepciones del artículo 6.",
+        "Cuando el cobro pasa a la vía judicial, controla los términos de prescripción del título para que la etapa prejurídica no consuma el plazo."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese último punto es donde más cartera se pierde: una etapa persuasiva larga, ahora con menos contactos permitidos por semana, puede dejar poco margen antes de que el título prescriba. Separar la gestión prejurídica del control de términos, con alertas para cada proceso judicial, evita que una cosa afecte la otra. Para eso sirven herramientas de vigilancia judicial como Wabog."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Prescripción del pagaré: cómo interrumpirla a tiempo",
+      "href": "https://blog.wabog.com/prescripcion-del-pagare"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Tasa de usura noviembre 2026: cómo liquidar la mora",
+      "href": "https://blog.wabog.com/tasa-de-usura-noviembre-2026"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿La Ley Dejen de Fregar aplica a las casas de cobranza y abogados externos?",
+          "answer": "Sí. El artículo 1 y su parágrafo extienden la ley a todas las personas naturales y jurídicas que hagan gestiones de cobranza de forma directa, por medio de terceros o por cesión de la obligación, no solo a las entidades vigiladas por la Superintendencia Financiera."
+        },
+        {
+          "question": "¿Puedo cobrar los domingos si el deudor lo autorizó en el contrato?",
+          "answer": "No con esa autorización. El parágrafo del artículo 3 exige que la autorización para contactarlo fuera del horario conste en un documento distinto al contrato y posterior a su firma."
+        },
+        {
+          "question": "¿Puedo llamar al codeudor?",
+          "answer": "Sí. El artículo 4 permite contactar al avalista, codeudor o deudor solidario, pero con las mismas reglas de canal, horario y frecuencia que se aplican al deudor. Lo que está prohibido es llamar a las referencias."
+        },
+        {
+          "question": "¿Quién sanciona el incumplimiento?",
+          "answer": "La Superintendencia Financiera y la Superintendencia de Industria y Comercio, según sus competencias en la Ley 1266 de 2008, como lo dispone el artículo 9 de la Ley 2300 de 2023."
+        }
+      ]
+    },
+    {
+      "type": "cta_pill",
+      "label": "Requisitos formales del título ejecutivo: qué cambió",
+      "href": "https://blog.wabog.com/requisitos-formales-titulo-ejecutivo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2024/C-278-24.htm",
+      "title": "Corte Constitucional – Sentencia C-278 de 2024 (incluye el texto de la Ley 2300 de 2023)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.asuntoslegales.com.co/analisis/manuel-serrano-rey-3340544/principales-cambios-ley-2300-de-2023-sobre-comunicaciones-comerciales-3748648",
+      "title": "Asuntos Legales – Principales cambios de la Ley 2300 de 2023 sobre comunicaciones comerciales"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.asuntoslegales.com.co/consultorio/derecho-a-la-intimidad-limites-a-la-cobranza-y-la-publicidad-3672923",
+      "title": "Asuntos Legales – Derecho a la intimidad: límites a la cobranza y la publicidad"
+    }
+  ]
+}
