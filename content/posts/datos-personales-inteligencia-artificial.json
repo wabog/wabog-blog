@@ -1,0 +1,255 @@
+{
+  "slug": "datos-personales-inteligencia-artificial",
+  "title": "Datos personales e inteligencia artificial: qué cambia",
+  "date": "2026-11-17",
+  "tags": [
+    {
+      "slug": "ia-legal",
+      "name": "IA para abogados"
+    },
+    {
+      "slug": "legaltech",
+      "name": "LegalTech"
+    }
+  ],
+  "excerpt": "Datos personales e inteligencia artificial: qué dicen los nuevos estándares iberoamericanos y qué deben revisar abogados, firmas y casas de cobranza.",
+  "coverImage": "/covers/datos-personales-inteligencia-artificial.webp",
+  "readingTime": 7,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "La Red Iberoamericana de Protección de Datos (RIPD) aprobó estándares sobre el uso de datos personales en sistemas de IA, divulgados el 12 de noviembre de 2026. No son una ley: son criterios orientadores que complementan la Ley 1581 de 2012. Claves: un dato público no basta para entrenar IA; el proveedor no puede usar los datos de sus clientes para fines propios; decir «usamos IA» no es informar, y refrendar lo que propone el sistema no es intervención humana. Abogados y casas de cobranza deben revisar qué suben a la IA, sus contratos con proveedores y sus perfiles de deudores."
+    },
+    {
+      "type": "paragraph",
+      "text": "La relación entre datos personales e inteligencia artificial acaba de recibir una guía detallada a escala regional: un estándar que explica cómo aplicar las reglas de privacidad en todo el ciclo de vida de un sistema de IA. Para un despacho que redacta con asistentes de IA, o una casa de cobranza que segmenta su cartera con algoritmos, funciona como una lista de lo que la autoridad espera ver."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué son los estándares iberoamericanos sobre datos personales e IA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según EFE y Europa Press, la RIPD aprobó por unanimidad los «Estándares Iberoamericanos sobre el uso de datos personales en sistemas de inteligencia artificial», anunciados el 12 de noviembre de 2026 por la Agencia Española de Protección de Datos, que ejerce la secretaría permanente de la Red. La Autoridad Vasca de Protección de Datos, que participó en su elaboración, publicó el texto completo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El documento se define como de «naturaleza orientadora y carácter complementario» del régimen de protección de datos (numeral 1.1.2). No reemplaza la Ley 1581 de 2012 ni crea sanciones nuevas: muestra cómo leen las autoridades de la región los principios existentes cuando el tratamiento se hace con IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "En Colombia, la autoridad de protección de datos es la Superintendencia de Industria y Comercio (SIC). Según Portafolio, la SIC anunció el 17 de noviembre de 2026 la adopción de estos estándares, así que conviene leerlos como una señal de los criterios con los que podría evaluar el uso de IA por parte de empresas, incluidas firmas y casas de cobranza."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Las reglas que más impactan a despachos y casas de cobranza"
+    },
+    {
+      "type": "image",
+      "src": "/images/datos-personales-inteligencia-artificial/reglas-clave-estandares-ia.webp",
+      "alt": "Cuatro reglas clave de los estándares iberoamericanos sobre datos personales e inteligencia artificial",
+      "caption": "Cuatro ideas del estándar de la RIPD que aplican al día a día de un despacho."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Un dato público no se puede usar para entrenar IA sin más"
+    },
+    {
+      "type": "paragraph",
+      "text": "El numeral 2.2.3 dice que el carácter accesible al público de un dato personal no legitima por sí solo su uso para entrenar o mejorar modelos de IA. El 9.5 agrega que las garantías son especialmente exigibles en recopilaciones masivas o cuando se invoca el interés legítimo, cuya idoneidad «no podrá presumirse» (numeral 2.1.2). Se necesita una base jurídica clara."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. El proveedor de IA no puede usar los datos de sus clientes para sí mismo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta es quizá la regla más relevante para quien contrata herramientas de IA. Según el numeral 2.2.2, cuando un proveedor o encargado usa los datos que trata por cuenta del responsable para fines propios, como entrenar sus modelos, eso se considera «con carácter general» una finalidad distinta, salvo que exista una habilitación expresa y una base jurídica. Anonimizar los datos para ese fin no elimina la regla."
+    },
+    {
+      "type": "paragraph",
+      "text": "El numeral 6.2 pide pactar expresamente las condiciones de uso de los datos para entrenar modelos, aunque ese pacto no sustituye la base jurídica. Y según el 6.1, es responsable quien decide los fines y medios esenciales del tratamiento, «aunque no entrene ni controle técnicamente el modelo». Si su firma sube expedientes de clientes a una herramienta de terceros, la responsabilidad sigue siendo de la firma."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Decir «usamos IA» no es informar"
+    },
+    {
+      "type": "paragraph",
+      "text": "El numeral 2.5.1 es directo: la mera indicación de que se emplea inteligencia artificial o algoritmos no satisface el deber de informar. Hay que explicar para qué se usa, qué papel cumple y qué consecuencias puede tener, sin necesidad de revelar código fuente ni secretos empresariales (numeral 2.5.3). Esto conecta con el principio de transparencia y la autorización previa e informada de los artículos 4 y 9 de la Ley 1581 de 2012."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Refrendar lo que dice la máquina no es intervención humana"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para las decisiones automatizadas con efectos jurídicos o que afecten significativamente a una persona, el numeral 4.2.1 establece que no hay intervención humana efectiva cuando quien revisa se limita a formalizar o refrendar el resultado del sistema. La revisión debe ser previa, real y efectiva, a cargo de alguien con autoridad para confirmar, modificar o apartarse de lo que propone la IA. El numeral 4.3.1 pide, además, que las personas conozcan las vías para solicitar esa intervención e impugnar la decisión."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Inferencias sensibles: atención con los perfiles de deudores"
+    },
+    {
+      "type": "paragraph",
+      "text": "El estándar advierte en su numeral 3.1.1 que la salud, la ideología, la orientación sexual o las creencias pueden inferirse a partir de variables aparentemente neutras, y menciona expresamente otras inferencias especialmente sensibles, «entre ellas las relativas a la vulnerabilidad económica». Según el numeral 3.1.2, que la inferencia sea fiable o exacta no evita por sí solo la aplicación del régimen reforzado cuando se usa para tomar decisiones sobre la persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para las casas de cobranza esto es central: los modelos que priorizan cartera o predicen la probabilidad de pago trabajan con inferencias sobre la situación económica de las personas. Además, el numeral 2.2.4 considera incompatibles con la protección de datos los tratamientos que manipulan de forma engañosa, explotan la vulnerabilidad por edad, discapacidad o situación socioeconómica, o crean puntuaciones sociales discriminatorias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si su operación de cobro ya debe ajustarse a los límites de contacto de la nueva ley de cobranza, vale la pena revisar ambas cosas al tiempo:"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Ley Dejen de Fregar: cómo cobrar cartera sin sanciones",
+      "href": "https://blog.wabog.com/ley-dejen-de-fregar-cobranza"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IA generativa: lo que no debería ir en el prompt"
+    },
+    {
+      "type": "paragraph",
+      "text": "El numeral 9.1 trata la IA generativa, la más usada en los despachos. Pide evitar la introducción innecesaria de datos personales, propios o de terceros, en las instrucciones; definir cómo se conservan instrucciones y respuestas, y si se usarán para entrenar modelos; y verificar los resultados cuando se usen para decidir sobre personas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de pegar una demanda o un estado de cuenta en un chat de IA, pregúntese si hacen falta los nombres, las cédulas o los datos de salud que contiene. Si no, elimínelos. Si sí, la herramienta debe ofrecer garantías sobre conservación y no entrenamiento."
+    },
+    {
+      "type": "cta_pill",
+      "label": "IA en derecho: mitos y verdades sobre confidencialidad y ética",
+      "href": "https://blog.wabog.com/mitos-y-verdades-sobre-confidencialidad-y-uso-etico-de-la-inteligencia-artificial-en-derecho"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué hacer en el despacho: regla por regla"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Qué dice el estándar",
+        "Qué revisar en la firma o casa de cobranza"
+      ],
+      "rows": [
+        [
+          "Dato público no basta para entrenar IA (2.2.3)",
+          "No alimentar modelos propios con datos recolectados en internet sin base jurídica"
+        ],
+        [
+          "El proveedor no usa los datos para fines propios (2.2.2 y 6.2)",
+          "Leer los términos de cada herramienta: ¿entrena con lo que usted sube? ¿se puede desactivar?"
+        ],
+        [
+          "«Usamos IA» no es informar (2.5.1)",
+          "Actualizar la política de tratamiento y los avisos a clientes y deudores"
+        ],
+        [
+          "Refrendar no es revisar (4.2.1)",
+          "Asignar a una persona con autoridad real para cambiar lo que propone el sistema"
+        ],
+        [
+          "Inferencias sensibles, incluida la vulnerabilidad económica (3.1.1)",
+          "Auditar los modelos de segmentación y priorización de cartera"
+        ],
+        [
+          "Evaluación de impacto previa (7.5 y 7.6)",
+          "Hacerla antes de implementar IA en procesos de alto riesgo"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el numeral 7.5, cuando la norma la exige, la evaluación de impacto debe hacerse antes del tratamiento y del despliegue, y se recomienda aunque no sea obligatoria si hay riesgo elevado. Si el riesgo alto persiste, el 7.6 indica consultar a la autoridad antes de empezar o abstenerse. El 7.1 pide protección de datos desde el diseño y por defecto."
+    },
+    {
+      "type": "callout",
+      "tone": "warning",
+      "title": "Lo que sí es obligatorio hoy en Colombia",
+      "text": "Aunque el estándar es orientador, la Ley 1581 de 2012 sí es obligatoria: exige autorización previa e informada del titular (artículo 9), respetar principios como finalidad, transparencia, seguridad y confidencialidad (artículo 4), y su artículo 23 permite a la SIC imponer multas de hasta 2.000 salarios mínimos mensuales. El estándar ayuda a entender cómo se aplican esas reglas cuando hay IA de por medio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este estándar llega mientras Colombia sigue sin una ley general de inteligencia artificial. Si quiere ver en qué va el proyecto que se tramita en el Congreso, lo explicamos aquí:"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Ley de inteligencia artificial en Colombia: en qué va",
+      "href": "https://blog.wabog.com/ley-de-inteligencia-artificial-colombia"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Los estándares iberoamericanos sobre IA son obligatorios en Colombia?",
+          "answer": "No son una ley. El documento se define como orientador y complementario del régimen de protección de datos. Lo obligatorio sigue siendo la Ley 1581 de 2012 y sus normas reglamentarias; el estándar muestra cómo las autoridades de la región interpretan esas reglas cuando se usa IA."
+        },
+        {
+          "question": "¿Puedo usar datos que están publicados en internet para entrenar un modelo de IA?",
+          "answer": "No por el solo hecho de que sean públicos. Según el numeral 2.2.3 del estándar, la accesibilidad pública no legitima por sí sola ese uso: se necesita una base jurídica y tener en cuenta las expectativas razonables de las personas."
+        },
+        {
+          "question": "Si uso una herramienta de IA de un tercero, ¿quién responde por los datos de mis clientes?",
+          "answer": "Quien decide para qué y cómo se tratan los datos, aunque no controle el modelo (numeral 6.1). Además, el proveedor no debería usar esos datos para entrenar sus propios modelos sin habilitación expresa y base jurídica (numeral 2.2.2)."
+        },
+        {
+          "question": "¿Basta con que un abogado revise y firme lo que propone la IA?",
+          "answer": "Para decisiones automatizadas con efectos jurídicos o significativos, no. El numeral 4.2.1 aclara que formalizar o refrendar el resultado del sistema no es intervención humana efectiva: quien revisa debe poder confirmar, modificar o apartarse de la propuesta."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.euskadi.eus/contenidos/noticia/ibr_20261112/es_def/Estandares-Iberoamericanos-sobre-uso-de-Datos-personales-en-Sistemas-IA.pdf",
+      "title": "Red Iberoamericana de Protección de Datos – Estándares Iberoamericanos sobre el uso de datos personales en sistemas de IA (texto completo)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.euskadi.eus/gobierno-vasco/-/noticia/2026/la-autoridad-vasca-de-proteccion-de-datos-participa-en-la-creacion-de-unos-innovadores-estandares-iberoamericanos-para-el-uso-de-datos-personales-en-la-ia/",
+      "title": "Gobierno Vasco – La Autoridad Vasca de Protección de Datos participa en los estándares iberoamericanos (12 de noviembre de 2026)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.infobae.com/america/agencias/2026/11/12/la-comunidad-iberoamericana-aprueba-estandares-sobre-la-proteccion-de-los-datos-ante-la-ia/",
+      "title": "Infobae (EFE) – La comunidad iberoamericana aprueba estándares sobre la protección de los datos ante la IA"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.infobae.com/america/agencias/2026/11/12/red-iberoamericana-de-proteccion-de-datos-establece-que-publicar-datos-en-internet-no-basta-para-autorizar-su-uso-en-ia/",
+      "title": "Infobae (Europa Press) – Publicar datos en internet no basta para autorizar su uso en IA"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.portafolio.co/negocios/empresas/empresas-colombianas-no-podran-usar-datos-publicos-libremente-para-entrenar-modelos-de-inteligencia-artificial-506484",
+      "title": "Portafolio – Empresas colombianas no podrán usar datos públicos libremente para entrenar IA (17 de noviembre de 2026)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html",
+      "title": "Secretaría del Senado – Ley Estatutaria 1581 de 2012 (protección de datos personales)"
+    }
+  ]
+}
