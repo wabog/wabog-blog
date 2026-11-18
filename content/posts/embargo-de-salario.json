@@ -1,0 +1,257 @@
+{
+  "slug": "embargo-de-salario",
+  "title": "Embargo de salario: límites y cómo calcularlo en 2026",
+  "date": "2026-11-18",
+  "tags": [
+    {
+      "slug": "panorama-juridico",
+      "name": "Panorama jurídico"
+    },
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    }
+  ],
+  "excerpt": "Embargo de salario en Colombia: cuánto se puede retener, cómo calcular la quinta parte con el mínimo de 2026 y las excepciones de cooperativas y alimentos.",
+  "coverImage": "/covers/embargo-de-salario.webp",
+  "readingTime": 8,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "El embargo de salario en Colombia tiene topes fijados por el Código Sustantivo del Trabajo: el salario mínimo no se puede embargar (art. 154), del excedente solo se puede retener una quinta parte (art. 155) y, cuando el acreedor es una cooperativa legalmente autorizada o se cobran alimentos, el embargo puede llegar al 50 % de todo el salario (art. 156). Las prestaciones sociales son inembargables, salvo en esos dos mismos casos y hasta el 50 % (art. 344). Para el cobro jurídico, esto define cuánto se recupera cada mes y obliga a buscar otros bienes cuando el salario no alcanza."
+    },
+    {
+      "type": "paragraph",
+      "text": "El embargo de salario es una de las medidas cautelares más pedidas en los procesos ejecutivos, porque el pagador retiene la suma cada mes sin que el acreedor tenga que perseguir bienes. Pero no se puede embargar cualquier porcentaje: la ley protege el salario mínimo y pone un tope a lo que se retiene del resto. Pedir de más no acelera el cobro; lo normal es que el juzgado decrete solo lo que la ley permite y que la diferencia se vuelva un recurso o una tutela del deudor."
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta guía explicamos cuánto se puede retener, cómo se calcula con el salario mínimo de 2026, qué excepciones existen para cooperativas y alimentos, qué pasa con las prestaciones sociales y qué conviene revisar antes de radicar la solicitud de medidas."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Límites del embargo de salario en el Código Sustantivo del Trabajo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las reglas están en el capítulo de protección al salario del Código Sustantivo del Trabajo. Los artículos 154 y 155 fueron modificados por los artículos 3 y 4 de la Ley 11 de 1984, y su texto vigente es corto:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Artículo 154: no es embargable el salario mínimo legal o convencional.",
+        "Artículo 155: el excedente del salario mínimo mensual solo es embargable en una quinta parte.",
+        "Artículo 156: todo salario puede embargarse hasta en un 50 % a favor de cooperativas legalmente autorizadas o para cubrir pensiones alimenticias debidas según el artículo 411 y siguientes del Código Civil.",
+        "Artículo 344: las prestaciones sociales son inembargables, cualquiera que sea su cuantía, salvo los créditos de cooperativas legalmente autorizadas y las pensiones alimenticias; en esos casos el embargo no puede exceder el 50 % de la prestación."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/embargo-de-salario/limites-embargo-salario.webp",
+      "alt": "Límites del embargo de salario en Colombia: salario mínimo inembargable, una quinta parte del excedente, 50 % para cooperativas y alimentos y prestaciones sociales inembargables",
+      "caption": "Topes de los artículos 154, 155, 156 y 344 del Código Sustantivo del Trabajo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Código General del Proceso remite a esas reglas. Su artículo 594, numeral 6, dice que no se pueden embargar los salarios y las prestaciones sociales en la proporción prevista en las leyes respectivas. Es decir, el juez del proceso ejecutivo no fija un porcentaje libre: aplica los topes laborales."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Tipo de crédito",
+        "Qué se puede embargar del salario",
+        "Prestaciones sociales"
+      ],
+      "rows": [
+        [
+          "Deuda ordinaria (bancos, comercio, particulares)",
+          "Una quinta parte de lo que exceda el salario mínimo",
+          "Inembargables"
+        ],
+        [
+          "Cooperativa legalmente autorizada",
+          "Hasta el 50 % de todo el salario",
+          "Hasta el 50 % de la prestación"
+        ],
+        [
+          "Pensión alimenticia (art. 411 C. C.)",
+          "Hasta el 50 % de todo el salario",
+          "Hasta el 50 % de la prestación"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo calcular el embargo de salario en 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cálculo para una deuda ordinaria tiene tres pasos: se toma el salario mensual, se le resta el salario mínimo vigente y al resultado se le saca la quinta parte. Si el deudor gana el mínimo o menos, no hay nada que embargar por esta vía."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para 2026, el salario mínimo es de $1.750.905. Ese valor lo fijó el Decreto 1469 de 2025 y lo mantuvo el Decreto 0159 del 19 de febrero de 2026, que lo estableció de forma transitoria mientras el Consejo de Estado decide la demanda de nulidad contra el primero. Según Portafolio, en julio de 2026 el Consejo de Estado revocó la suspensión provisional del Decreto 1469, sin que cambiara el valor que reciben los trabajadores. Como el proceso de nulidad sigue en curso, conviene confirmar la cifra antes de liquidar."
+    },
+    {
+      "type": "image",
+      "src": "/images/embargo-de-salario/ejemplo-calculo-embargo-salario.webp",
+      "alt": "Ejemplo de cálculo del embargo de salario en 2026: salario de 4.000.000 menos el mínimo de 1.750.905 deja un excedente de 2.249.095 y un embargo máximo de 449.819",
+      "caption": "Ejemplo con un salario de $4.000.000 y una deuda ordinaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Con un salario de $4.000.000, el excedente es $2.249.095 y la quinta parte es $449.819. Esa es la retención máxima mensual para un banco o un acreedor particular. Si el mismo trabajador tuviera una deuda con una cooperativa legalmente autorizada o una obligación alimentaria, el tope sería el 50 % del salario, es decir, hasta $2.000.000."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Mínimo vital",
+      "text": "En la Sentencia T-891 de 2013, la Corte Constitucional recordó que el salario mínimo es inembargable como regla general, que solo es embargable la quinta parte de lo que lo exceda y que el límite del 50 % aplica a cooperativas y alimentos. También advirtió que el mínimo vital es cualitativo: no equivale al salario mínimo, por lo que los descuentos se revisan según la situación real del trabajador."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo se pide y se comunica el embargo de salario"
+    },
+    {
+      "type": "paragraph",
+      "text": "El numeral 9 del artículo 593 del Código General del Proceso regula el embargo de salarios devengados o por devengar. La orden se comunica al pagador o empleador para que retenga de cada pago la proporción determinada por la ley y constituya el certificado de depósito, con la advertencia de que, si no lo hace, responderá por esos valores. Esa responsabilidad del pagador es la que hace efectiva la medida en la práctica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los juzgados suelen transcribir en el auto los artículos 593 del Código General del Proceso y 155 y 156 del Código Sustantivo del Trabajo, y fijan el porcentaje según el tipo de crédito. Por ejemplo, en un ejecutivo de alimentos de 2023, el Juzgado Primero Promiscuo Municipal de Puerto Salgar recibió una solicitud del 50 % y decretó el embargo del 30 % del salario. El oficio al pagador se envió por medios electrónicos, con base en la Ley 2213 de 2022."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Qué pasa si el embargo recae sobre recursos inembargables"
+    },
+    {
+      "type": "paragraph",
+      "text": "El parágrafo del artículo 594 del Código General del Proceso ordena a los funcionarios abstenerse de decretar embargos sobre recursos inembargables. Si la orden no indica el fundamento legal de la excepción, la entidad destinataria puede abstenerse de cumplirla y debe informarlo al día hábil siguiente. La autoridad tiene tres días hábiles para pronunciarse; si no responde, la medida se entiende revocada. Si insiste, los recursos se congelan en una cuenta especial y solo se entregan cuando quede en firme la sentencia o la providencia que ponga fin al proceso."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reducción de embargos cuando hay otros bienes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Además del salario, el acreedor suele pedir embargos sobre cuentas, inmuebles o vehículos. El artículo 600 del Código General del Proceso permite al juez, de oficio o a petición de parte y una vez consumados los embargos y secuestros, requerir al ejecutante para que en cinco días diga de qué medidas desiste. Si el valor de alguno de los bienes supera el doble del crédito, sus intereses y las costas prudencialmente calculadas, se decreta el desembargo de los demás, salvo los que estén hipotecados o dados en prenda."
+    },
+    {
+      "type": "paragraph",
+      "text": "La consumación importa. En un auto de febrero de 2022, el Juzgado 17 Civil del Circuito de Cali negó una reducción porque los embargos no estaban consumados: uno estaba inscrito, pero no se había ordenado el secuestro, y los otros no se habían acreditado. Antes de discutir la reducción hay que revisar en qué estado está cada medida."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Checklist para despachos y casas de cobranza"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Identifica el tipo de crédito: si no es de cooperativa legalmente autorizada ni de alimentos, el tope es la quinta parte del excedente del mínimo.",
+        "Pide el porcentaje que permite la ley y cita los artículos 154 a 156 del Código Sustantivo del Trabajo y 593, numeral 9, del Código General del Proceso.",
+        "Pide los datos del pagador desde la demanda para que el oficio salga con el auto que decreta la medida.",
+        "Haz seguimiento a la respuesta del pagador y a la constitución de los depósitos judiciales; si no retiene, recuerda que responde por esos valores.",
+        "Liquida cuánto recuperará el embargo cada mes: si no alcanza para el crédito en un plazo razonable, pide medidas sobre otros bienes.",
+        "No pidas embargos sobre prestaciones sociales en una deuda ordinaria: el artículo 344 las hace inembargables."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El embargo de salario funciona con autos, oficios y respuestas del pagador que llegan en fechas distintas. Revisar las actuaciones de cada proceso, ya sea a mano o con alertas como las de Wabog, permite reaccionar a tiempo cuando el pagador no responde o cuando el deudor pide levantar la medida."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Requisitos formales del título ejecutivo: qué cambió",
+      "href": "https://blog.wabog.com/requisitos-formales-titulo-ejecutivo"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Prescripción del pagaré: cómo interrumpirla a tiempo",
+      "href": "https://blog.wabog.com/prescripcion-del-pagare"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Cuánto me pueden embargar del salario por una deuda con un banco?",
+          "answer": "Solo una quinta parte de lo que exceda el salario mínimo (artículo 155 del Código Sustantivo del Trabajo). Si el salario es igual al mínimo, no se puede embargar por una deuda ordinaria."
+        },
+        {
+          "question": "¿Se puede embargar el salario mínimo?",
+          "answer": "Por regla general no (artículo 154). La excepción son los créditos de cooperativas legalmente autorizadas y las pensiones alimenticias, en los que el artículo 156 permite embargar hasta el 50 % de todo salario."
+        },
+        {
+          "question": "¿Se pueden embargar las cesantías y las primas?",
+          "answer": "Las prestaciones sociales son inembargables según el artículo 344 del Código Sustantivo del Trabajo, salvo para créditos de cooperativas legalmente autorizadas y pensiones alimenticias, con un límite del 50 % de la prestación."
+        },
+        {
+          "question": "¿Quién retiene el dinero embargado?",
+          "answer": "El pagador o empleador. Según el numeral 9 del artículo 593 del Código General del Proceso, debe retener la proporción que fija la ley y constituir el certificado de depósito; si no lo hace, responde por esos valores."
+        },
+        {
+          "question": "¿Qué salario mínimo se usa para calcular el embargo en 2026?",
+          "answer": "El vigente para 2026 es $1.750.905, fijado por el Decreto 1469 de 2025 y mantenido de forma transitoria por el Decreto 0159 de 2026. Como la demanda de nulidad sigue en el Consejo de Estado, conviene verificar la cifra antes de liquidar."
+        }
+      ]
+    },
+    {
+      "type": "cta_pill",
+      "label": "Ley Dejen de Fregar: cómo cobrar cartera sin sanciones",
+      "href": "https://blog.wabog.com/ley-dejen-de-fregar-cobranza"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://normativa.colpensiones.gov.co/colpens/compilacion/docs/codigo_sustantivo_trabajo.htm",
+      "title": "Colpensiones (normograma) – Código Sustantivo del Trabajo, artículos 154, 155, 156 y 344"
+    },
+    {
+      "type": "embed",
+      "url": "https://leyes.co/codigo_general_del_proceso/594.htm",
+      "title": "Código General del Proceso – Artículo 594, bienes inembargables"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/documents/36693504/137830451/2023-053%2B%2BAUTO%2BDECRETA%2BMEDIDA%2BCAUTELAR%2Bsalario%2Balimentos.pdf/d0c93317-955f-b095-6cba-be321803535b",
+      "title": "Rama Judicial – Juzgado Promiscuo Municipal de Puerto Salgar, auto que decreta embargo de salario (2023), con transcripción del art. 593 num. 9 CGP"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/documents/36806633/102186494/2021-00108%2C%20RESUELVE+REDUCCI%C3%93N+DE+EMBARGO%2C%20Folios+98-103.pdf/7137584c-bdb9-48e6-8670-e923da80c3df",
+      "title": "Rama Judicial – Juzgado 17 Civil del Circuito de Cali, auto que resuelve reducción de embargos (2022)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2013/T-891-13.htm",
+      "title": "Corte Constitucional – Sentencia T-891 de 2013"
+    },
+    {
+      "type": "embed",
+      "url": "https://sidn.ramajudicial.gov.co/SIDN//NORMATIVA/TEXTOS_COMPLETOS/5_DECRETOS/DECRETOS%202026/Decreto%200159%20de%202026.pdf",
+      "title": "Rama Judicial (SIDN) – Decreto 0159 de 2026, salario mínimo transitorio"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.portafolio.co/economia/gobierno/el-consejo-de-estado-aun-no-decide-de-fondo-que-pasaria-si-tumba-el-aumento-del-salario-minimo-de-498438",
+      "title": "Portafolio – El Consejo de Estado aún no decide de fondo sobre el aumento del salario mínimo"
+    }
+  ]
+}
