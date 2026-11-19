@@ -35,9 +35,6 @@ const TAG_ALIASES: Record<string, string> = {
 /** Posts sin tags en Ghost, clasificados manualmente por slug. */
 const POST_TAG_OVERRIDES: Record<string, string[]> = {
   "como-crear-estrategia-legaltech-despacho": ["legaltech"],
-  "por-que-tu-despacho-necesita-software-de-vigilancia-judicial-en-2026-4": [
-    "vigilancia-judicial",
-  ],
   "el-futuro-de-la-practica-legal-en-colombia-3-tendencias-que-estan-transformando-los-despachos": [
     "panorama-juridico",
     "legaltech",
