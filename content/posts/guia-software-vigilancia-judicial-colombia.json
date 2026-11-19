@@ -1,120 +1,240 @@
 {
   "slug": "guia-software-vigilancia-judicial-colombia",
-  "title": "Guía 2026 para elegir software de vigilancia judicial en Colombia",
+  "title": "Software de vigilancia judicial en Colombia: guía 2026",
   "date": "2026-02-21",
-  "updatedAt": "2026-04-09",
+  "updatedAt": "2026-11-19",
   "tags": [
     {
-      "slug": "vigilancia-judicial-2",
-      "name": "vigilancia-judicial"
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
     },
     {
       "slug": "legaltech",
-      "name": "legaltech"
+      "name": "LegalTech"
     }
   ],
-  "excerpt": "Guía para elegir software de vigilancia judicial en Colombia: funciones a priorizar, errores a evitar y cómo automatizar el seguimiento de tus procesos.",
+  "excerpt": "Guía de software de vigilancia judicial en Colombia: qué portales debe revisar, cómo avisa, cuánto cuesta y 8 preguntas antes de elegir una herramienta.",
   "coverImage": "/covers/guia-software-vigilancia-judicial-colombia.webp",
   "readingTime": 8,
   "author": "Wabog",
   "blocks": [
     {
       "type": "tldr",
-      "text": "Un buen software de vigilancia judicial debe integrarse con los sistemas de la Rama Judicial, notificar en tiempo real y crecer contigo. Esta guía te dice qué evaluar antes de contratar para no volver a perder un término procesal."
+      "text": "Un software de vigilancia judicial consulta por ti los portales públicos de la Rama Judicial y el Consejo de Estado y te avisa cuando un proceso tiene una actuación, un estado o un traslado nuevo. Para elegir uno, revisa qué fuentes cubre, cada cuánto revisa, por dónde avisa, qué no puede ver y cuánto cuesta por proceso. No reemplaza la notificación ni tu criterio: te ayuda a no enterarte tarde."
     },
     {
       "type": "paragraph",
-      "text": "La digitalización de la Rama Judicial generó un ecosistema complejo de sistemas de información que los abogados deben navegar a diario: desde el Sistema Único de Información Judicial (SIUJ) hasta las plataformas de cada tribunal, cada una con su interfaz, sus tiempos y sus reglas de acceso. Elegir el software de vigilancia correcto puede marcar la diferencia entre un despacho eficiente y uno que pierde horas valiosas en tareas manuales."
+      "text": "Elegir un software de vigilancia judicial en Colombia es, en el fondo, decidir quién va a revisar cada día los portales donde los despachos publican lo que pasa en tus procesos. Esta guía explica qué hace esta herramienta, qué fuentes debe cubrir, en qué se diferencia de la consulta manual o de un dependiente judicial, cuánto cuesta y qué preguntas hacerle a cualquier proveedor antes de contratar."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "El costo del seguimiento manual en los despachos colombianos"
+      "text": "Qué es un software de vigilancia judicial"
     },
     {
       "type": "paragraph",
-      "text": "La revisión manual del estado de los procesos es una de las mayores fugas de productividad de un despacho en Colombia. Los números lo confirman:"
-    },
-    {
-      "type": "callout",
-      "tone": "warning",
-      "title": "Datos que incomodan",
-      "text": "El 73% de los abogados dedica más de 4 horas semanales a revisar procesos manualmente (más de 160 horas al año), el 41% ha perdido al menos un término judicial por no detectar un cambio a tiempo y el 68% de los despachos aún gestiona sus procesos en hojas de cálculo."
+      "text": "Es una herramienta que, a partir del número de radicado de 23 dígitos, consulta de forma automática los sistemas públicos donde se registra la información de los procesos y te avisa cuando encuentra una novedad: un auto nuevo, un estado electrónico, un traslado o un cambio en el expediente. Así no tienes que entrar proceso por proceso a cada portal."
     },
     {
       "type": "paragraph",
-      "text": "Perder un término puede desencadenar desde sanciones procesales hasta demandas de responsabilidad civil contra el abogado. La gestión en hojas de cálculo, además, duplica el trabajo y multiplica el riesgo de error: no se integra con los sistemas de la Rama Judicial ni deja rastro auditable."
+      "text": "Conviene tener claro su alcance. La notificación por estado sigue rigiéndose por el artículo 295 del Código General del Proceso y por el artículo 9 de la Ley 2213 de 2022, que dispone que las providencias se inserten en el estado virtual. El software no notifica ni cambia los términos: te informa de lo que ya se publicó para que actúes a tiempo."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "Qué buscar en un software de vigilancia judicial"
+      "text": "Dónde se publica lo que tienes que vigilar"
     },
     {
       "type": "paragraph",
-      "text": "Un sistema de vigilancia procesal vale por su capacidad de reemplazar la revisión manual. Estas son las funciones imprescindibles:"
+      "text": "El principal problema de la revisión manual es que la información está repartida en varios sistemas, cada uno con su propia forma de consulta:"
     },
     {
       "type": "list",
       "ordered": false,
       "items": [
-        "Integración con la Rama Judicial: conectarse con SIUJ, tribunales y plataformas de juzgados para no consultar varios sistemas a mano.",
-        "Notificaciones en tiempo real y accionables: alertas por WhatsApp, correo o SMS que indiquen qué cambió y qué paso sigue.",
-        "Histórico de movimientos: el registro completo de cada proceso, útil para preparar audiencias y análisis de criterio judicial.",
-        "Facilidad de uso: una interfaz intuitiva que el equipo realmente use, sin semanas de capacitación.",
-        "Soporte técnico local en español con horario colombiano para no quedarte colgado en momentos críticos.",
-        "Escalabilidad: más usuarios, más procesos y funciones avanzadas a medida que el despacho crece.",
-        "Reportes y analítica: indicadores de carga procesal, tiempos de resolución y patrones para decidir con datos."
+        "Consulta de Procesos Nacional Unificada (CPNU): según la Rama Judicial, integra la información de los sistemas de gestión Justicia XXI y muestra lo que cargan directamente los despachos.",
+        "Publicaciones Procesales: el portal de la Rama Judicial donde los despachos publican estados electrónicos, traslados, fijaciones y edictos.",
+        "SAMAI: el sistema del Consejo de Estado para la jurisdicción de lo contencioso administrativo; la consulta se hace con los 23 dígitos completos del radicado.",
+        "SIUGJ: el Sistema Integrado de Gestión Judicial, que el Acuerdo PCSJA23-12094 del 11 de octubre de 2023 adoptó como obligatorio para todas las jurisdicciones y especialidades. Su implementación empezó por la especialidad laboral; en Risaralda, por ejemplo, es el canal único para la laboral desde el 29 de septiembre de 2025, según el Consejo Seccional."
       ]
     },
     {
-      "type": "paragraph",
-      "text": "Ejemplos concretos: el Tribunal Superior de Bogotá procesa más de 15.000 actuaciones diarias; un abogado penalista con casos en Medellín puede recibir aviso inmediato cuando se programa una audiencia de formulación de imputación o se profiere una medida de aseguramiento. Revisar ese volumen de información manualmente es, en la práctica, imposible."
+      "type": "image",
+      "src": "/images/guia-software-vigilancia-judicial-colombia/fuentes-vigilancia-judicial.webp",
+      "alt": "Esquema de las cuatro fuentes que debe revisar un software de vigilancia judicial en Colombia: Consulta de Procesos Nacional Unificada, Publicaciones Procesales, SAMAI del Consejo de Estado y SIUGJ",
+      "caption": "Las cuatro fuentes públicas que más conviene cubrir."
     },
     {
-      "type": "cta_pill",
-      "label": "Prueba Wabog gratis por 15 días",
-      "href": "https://app.wabog.com"
+      "type": "paragraph",
+      "text": "Hay un límite que ningún software puede saltarse: el mismo artículo 9 de la Ley 2213 de 2022 establece que no se insertan en el estado electrónico las providencias que decretan medidas cautelares, las que mencionan a menores o las que el juez ordene reservar por ley. Lo que no se publica no se puede vigilar desde afuera; para esos casos sigue siendo necesario revisar el expediente."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "Errores comunes al elegir software de vigilancia"
+      "text": "Qué debe cubrir un buen software de vigilancia judicial"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Cobertura de fuentes explícita: que el proveedor diga por escrito qué portales revisa (CPNU, Publicaciones Procesales, SAMAI, SIUGJ, TYBA u otros) y qué pasa si tu proceso no aparece en ninguno.",
+        "Estados electrónicos y traslados, no solo actuaciones: muchos términos corren desde la notificación por estado, así que esta parte es la más importante.",
+        "Frecuencia de revisión publicada: cuántas veces al día consulta y si lo hace los fines de semana. Desconfía de promesas de “tiempo real” sin detalle.",
+        "Un aviso útil: que llegue por el canal que de verdad miras (WhatsApp o correo) y diga qué cambió, idealmente con el documento o un resumen del auto.",
+        "Historial por proceso: el registro de movimientos sirve para preparar audiencias e informar al cliente.",
+        "Trabajo en equipo: varios usuarios sobre los mismos procesos, sin duplicar la vigilancia.",
+        "Términos y agenda: que la audiencia o el vencimiento pueda quedar en un calendario con su tarea.",
+        "Tratamiento de datos: que explique cómo protege la información de tus clientes conforme a la Ley 1581 de 2012, el régimen general de protección de datos personales."
+      ]
+    },
+    {
+      "type": "cta_pill",
+      "label": "Software de vigilancia judicial para abogados y firmas",
+      "href": "https://wabog.com/"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Software, consulta manual o dependiente judicial"
     },
     {
       "type": "paragraph",
-      "text": "El error más frecuente es elegir por precio sin considerar el costo real de uso: un sistema gratuito que exige configuración manual o no se integra con la justicia termina costando más en horas de trabajo que una solución que funciona desde el primer día. Evita también caer en estos cinco errores:"
+      "text": "No todas las opciones resuelven lo mismo. Esta comparación usa criterios que puedes verificar tú mismo:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Opción",
+        "Costo",
+        "Cobertura",
+        "Riesgo principal"
+      ],
+      "rows": [
+        [
+          "Consulta manual en los portales",
+          "Sin costo de licencia; cuesta tu tiempo",
+          "La que alcances a revisar cada día",
+          "Olvidar un proceso o un portal"
+        ],
+        [
+          "Dependiente judicial",
+          "Honorarios o salario",
+          "Revisión en portales y en el despacho",
+          "Depende de una persona y de su disponibilidad"
+        ],
+        [
+          "Software de vigilancia judicial",
+          "Suscripción, casi siempre por número de procesos",
+          "Las fuentes que el proveedor declare",
+          "No ve lo que no se publica (reservas, cautelares)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En la práctica, muchos despachos combinan las dos últimas: el software hace la revisión diaria y la persona se encarga de lo que exige ir al despacho o revisar el expediente completo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cuánto cuesta un software de vigilancia judicial"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayoría de proveedores cobra según el número de procesos que vigilas, así que la forma justa de comparar es el precio por proceso al mes, no el precio del plan. Antes de decidir, pide la lista de precios publicada, confirma si hay cláusula de permanencia y usa la prueba gratuita con tus radicados reales."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Transparencia",
+      "text": "Esta guía la escribe el equipo de Wabog. Como referencia, estos son nuestros precios publicados en wabog.com y en el centro de ayuda a noviembre de 2026; los de otros proveedores debes consultarlos en sus propios sitios."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Plan de Wabog",
+        "Procesos",
+        "Precio mensual"
+      ],
+      "rows": [
+        [
+          "Pro",
+          "Hasta 50",
+          "$55.000 COP"
+        ],
+        [
+          "Team",
+          "Hasta 100",
+          "$110.000 COP"
+        ],
+        [
+          "Enterprise",
+          "Más de 100",
+          "Desde $1.100 COP por proceso"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Según su centro de ayuda, Wabog revisa los procesos dos veces al día, todos los días, avisa por WhatsApp o correo, incluye estados, traslados, fijaciones y edictos de Publicaciones Procesales, no tiene cláusula de permanencia y ofrece 15 días de prueba gratis."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "8 preguntas antes de contratar"
     },
     {
       "type": "list",
       "ordered": true,
       "items": [
-        "No probar antes de comprar: usa las pruebas gratuitas para verificar que el sistema funciona con tus procesos específicos.",
-        "Ignorar la seguridad de datos: tus clientes y su información sensible exigen cumplimiento de la Ley 1581 y encriptación robusta.",
-        "Elegir un proveedor sin soporte en Colombia: resolver problemas puede tomar días cuando la urgencia es inmediata.",
-        "Subestimar la curva de aprendizaje: un software complejo genera resistencia y termina abandonado en el cajón.",
-        "No verificar el roadmap de actualizaciones: la Rama Judicial cambia sus sistemas con frecuencia y el software debe mantener la compatibilidad."
+        "¿Qué portales revisa exactamente y cuáles no?",
+        "¿Vigila estados electrónicos y traslados, además de actuaciones?",
+        "¿Cada cuánto revisa y a qué horas suelen llegar los avisos?",
+        "¿Por qué canal avisa y qué incluye el mensaje?",
+        "¿Qué pasa con los procesos reservados o que no aparecen en las consultas públicas?",
+        "¿Cuántos usuarios incluye el plan y cuánto cuesta cada proceso adicional?",
+        "¿Hay permanencia mínima y cómo se cancela?",
+        "¿Cómo protege los datos de mis clientes?"
       ]
+    },
+    {
+      "type": "image",
+      "src": "/images/guia-software-vigilancia-judicial-colombia/checklist-elegir-software.webp",
+      "alt": "Checklist para elegir software de vigilancia judicial: fuentes que cubre, estados y traslados, frecuencia de revisión, canal de aviso y precio por proceso",
+      "caption": "Cinco puntos que conviene comprobar en la prueba gratuita."
+    },
+    {
+      "type": "paragraph",
+      "text": "La prueba gratuita es el mejor momento para responderlas: carga procesos con movimientos recientes y compara lo que te avisa la herramienta con lo que ves al consultar los portales."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "Software genérico vs. especializado: qué elegir"
+      "text": "Errores comunes al elegir"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Comparar precios de planes y no el precio por proceso.",
+        "Asumir que la herramienta cubre todas las jurisdicciones sin pedirlo por escrito.",
+        "Dejar de revisar el expediente en procesos con reserva o medidas cautelares.",
+        "Configurar los avisos en un correo que nadie del equipo mira."
+      ]
     },
     {
       "type": "paragraph",
-      "text": "En el mercado colombiano conviven herramientas genéricas de seguimiento (tableros y recordatorios configurados a mano) con soluciones especializadas en vigilancia judicial como Wabog. La diferencia no está en el número de funciones, sino en el contexto: un sistema pensado para la justicia colombiana entiende qué es una actuación relevante para tu caso."
+      "text": "Si quieres profundizar en cómo organizar la revisión diaria y los avisos, estos artículos te pueden servir:"
     },
     {
-      "type": "table",
-      "headers": ["Criterio", "Herramienta genérica", "Software especializado (Wabog)"],
-      "rows": [
-        ["Integración con la Rama Judicial", "Manual o parcial", "SIUJ, tribunales y juzgados conectados automáticamente"],
-        ["Notificaciones", "Recordatorios básicos", "Alertas inteligentes por WhatsApp, correo o SMS"],
-        ["Análisis procesal", "No disponible", "Tendencias de jueces y tipos de decisión"],
-        ["Configuración inicial", "Horas de ajuste manual", "Minutos: agrega el radicado y comienza a vigilar"],
-        ["Actualización ante cambios de la justicia", "A cargo del usuario", "Mantenida por el proveedor"]
-      ]
+      "type": "cta_pill",
+      "label": "Cómo dejar de revisar la Rama Judicial todos los días",
+      "href": "https://blog.wabog.com/como-dejar-de-revisar-manualmente-la-rama-judicial-todos-los-dias"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Notificaciones de procesos judiciales por WhatsApp",
+      "href": "https://blog.wabog.com/como-recibir-notificaciones-de-procesos-judiciales-por-whatsapp"
     },
     {
       "type": "heading",
@@ -125,50 +245,86 @@
       "type": "faq",
       "items": [
         {
-          "question": "¿Cuánto cuesta un software de vigilancia judicial en Colombia?",
-          "answer": "Los precios van desde opciones gratuitas con funciones básicas hasta soluciones empresariales de varios millones de pesos mensuales. Wabog ofrece planes desde 150.000 COP/mes para despachos pequeños."
+          "question": "¿El software de vigilancia judicial reemplaza la notificación?",
+          "answer": "No. La notificación por estado sigue las reglas del artículo 295 del CGP y del artículo 9 de la Ley 2213 de 2022. El software te avisa de lo que ya se publicó para que no te enteres tarde."
         },
         {
-          "question": "¿El software funciona con todos los tribunales de Colombia?",
-          "answer": "Los mejores sistemas se integran con los principales sistemas de la Rama Judicial, incluyendo SIUJ, tribunales regionales y juzgados municipales. Verifica la compatibilidad con las jurisdicciones de tu despacho antes de elegir."
+          "question": "¿Puede vigilar procesos reservados?",
+          "answer": "Solo lo que se publica. La Ley 2213 de 2022 excluye del estado electrónico las providencias que decretan medidas cautelares, las que mencionan a menores y las sujetas a reserva. En Wabog, por ejemplo, un proceso privado solo se sigue en los estados y traslados que aparezcan en Publicaciones Procesales."
         },
         {
-          "question": "¿Qué pasa si el sistema se cae?",
-          "answer": "Un buen proveedor debe tener redundancia y soporte 24/7. Pregunta siempre por el SLA (acuerdo de nivel de servicio) y los tiempos de respuesta garantizados."
+          "question": "¿Cuánto cuesta?",
+          "answer": "Depende del proveedor y del número de procesos. Compara el precio por proceso al mes. Wabog publica planes desde $55.000 COP al mes por hasta 50 procesos, con 15 días de prueba gratis."
         },
         {
-          "question": "¿Puedo migrar mis datos desde mi sistema actual?",
-          "answer": "Sí. La mayoría de los proveedores ofrecen migración de datos, incluido el histórico de procesos. Confirma que ese servicio esté incluido antes de contratar."
+          "question": "¿Sirve para procesos del Consejo de Estado?",
+          "answer": "Si el proveedor cubre SAMAI, sí. Pregunta por esa fuente de forma expresa: es un sistema distinto de la consulta de la Rama Judicial."
         },
         {
-          "question": "¿Es difícil configurar el software?",
-          "answer": "Las mejores soluciones se configuran en minutos, no en semanas. Wabog, por ejemplo, permite agregar procesos con solo ingresar el número de radicado y el sistema comienza a monitorear automáticamente."
+          "question": "¿Qué pasa con el SIUGJ?",
+          "answer": "El Consejo Superior de la Judicatura lo adoptó como sistema obligatorio y su implementación avanza por especialidades, empezando por la laboral. Pregunta al proveedor si ya consulta los procesos que se tramitan allí."
         }
       ]
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "Recomendación final"
+      "text": "Fuentes"
     },
     {
-      "type": "paragraph",
-      "text": "Antes de decidir, define las necesidades reales de tu despacho respondiendo estas preguntas:"
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/pregunta-cpnu",
+      "title": "Rama Judicial – Preguntas sobre la Consulta de Procesos Nacional Unificada (CPNU)"
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        "¿Cuántos abogados necesitan acceso al sistema?",
-        "¿Qué áreas del derecho manejan y en qué tribunales?",
-        "¿Cuál es el volumen de procesos activos?",
-        "¿Qué nivel de automatización necesita el equipo?",
-        "¿Cuál es el presupuesto disponible?"
-      ]
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/abogados/inicio",
+      "title": "Rama Judicial – Consulta de publicaciones procesales"
     },
     {
-      "type": "paragraph",
-      "text": "Con esa información, evalúa las opciones sin dejarte llevar solo por el precio: el costo de un software mal elegido se mide en tiempo perdido y en riesgos jurídicos evitables."
+      "type": "embed",
+      "url": "https://www.consejodeestado.gov.co/manuales/manualsujetos/knowledge-base/se-puede-consultar-un-proceso-sin-estar-registrado-en-el-sistema",
+      "title": "Consejo de Estado – Consulta de procesos en SAMAI sin registro"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/guest/historico-de-noticias/-/asset_publisher/tc8GIx9NJWBV/content/id/146041899",
+      "title": "Rama Judicial – El SIUGJ en todas las jurisdicciones y especialidades"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/consejo-seccional-de-la-judicatura-de-risaralda/siugj",
+      "title": "Consejo Seccional de la Judicatura de Risaralda – SIUGJ en la especialidad laboral"
+    },
+    {
+      "type": "embed",
+      "url": "https://cancilleria.gov.co/sites/default/files/Normograma/docs/ley_2213_2022.htm",
+      "title": "Normograma Cancillería – Ley 2213 de 2022, artículo 9"
+    },
+    {
+      "type": "embed",
+      "url": "https://procesal.uexternado.edu.co/codigo-general/articulo-295-notificaciones-por-estado/",
+      "title": "Universidad Externado – Código General del Proceso, artículo 295"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981",
+      "title": "Función Pública – Ley 1581 de 2012, protección de datos personales"
+    },
+    {
+      "type": "embed",
+      "url": "https://ayuda.wabog.com/planes-y-pagos/cuanto-cuesta/",
+      "title": "Centro de ayuda de Wabog – ¿Cuánto cuesta Wabog?"
+    },
+    {
+      "type": "embed",
+      "url": "https://ayuda.wabog.com/procesos/frecuencia-de-revision/",
+      "title": "Centro de ayuda de Wabog – Frecuencia de revisión de procesos"
+    },
+    {
+      "type": "embed",
+      "url": "https://ayuda.wabog.com/primeros-pasos/tipos-de-procesos/",
+      "title": "Centro de ayuda de Wabog – Qué tipos de procesos revisa Wabog"
     }
   ]
 }
