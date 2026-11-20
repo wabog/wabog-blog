@@ -1,7 +1,8 @@
 {
   "slug": "vacancia-judicial-2026",
-  "title": "Vacancia judicial 2026-2027: del 20 de diciembre al 10 de enero",
+  "title": "Vacancia judicial 2026-2027: cuándo inicia y cuándo vuelven",
   "date": "2026-10-31",
+  "updatedAt": "2026-11-20",
   "tags": [
     {
       "slug": "vigilancia-judicial",
@@ -12,23 +13,23 @@
       "name": "Panorama jurídico"
     }
   ],
-  "excerpt": "Cuándo inicia y termina la vacancia judicial 2026: del 20 de diciembre al 10 de enero, con regreso el martes 12 de enero de 2027. Cómo contar los términos.",
+  "excerpt": "Vacancia judicial 2026-2027: inicia el 20 de diciembre y los juzgados vuelven el martes 12 de enero de 2027. Cómo contar términos y Semana Santa 2027.",
   "coverImage": "/covers/vacancia-judicial-2026.webp",
-  "readingTime": 7,
+  "readingTime": 8,
   "author": "Wabog",
   "blocks": [
     {
       "type": "tldr",
-      "text": "La vacancia judicial 2026 va del domingo 20 de diciembre de 2026 al domingo 10 de enero de 2027. El último día hábil antes del cierre es el viernes 18 de diciembre y, como el lunes 11 de enero es festivo, el regreso previsto es el martes 12 de enero. Los días de vacancia no cuentan en los términos de días (CGP, art. 118); los de meses o años que vencen en esas fechas pasan al primer día hábil. Tutelas y habeas corpus se siguen atendiendo."
+      "text": "Cuándo inicia: la vacancia judicial 2026-2027 empieza el domingo 20 de diciembre de 2026 (último día hábil: viernes 18 de diciembre). Cuándo vuelven: los juzgados regresan el martes 12 de enero de 2027, porque la vacancia termina el domingo 10 y el lunes 11 es el festivo de Reyes. Los días de vacancia no cuentan en los términos de días (CGP, art. 118); los de meses o años que vencen en esas fechas pasan al primer día hábil. Tutelas y habeas corpus se siguen atendiendo."
     },
     {
       "type": "paragraph",
-      "text": "La vacancia judicial 2026 está a menos de dos meses y, como cada año, deja a la mayoría de juzgados y tribunales del país cerrados durante tres semanas. Para un despacho de abogados o una casa de cobranza no es un detalle de calendario: cambia cuándo vencen los términos, hasta cuándo conviene radicar demandas y memoriales, y qué pasa con los procesos que quedan a mitad de camino. Este artículo resume las fechas, qué despachos siguen funcionando, cómo se cuentan los términos y una lista de tareas para dejar todo en orden antes del 18 de diciembre."
+      "text": "La vacancia judicial 2026-2027 inicia el domingo 20 de diciembre de 2026 y los juzgados vuelven el martes 12 de enero de 2027. Falta un mes y, como cada año, la mayoría de juzgados y tribunales del país quedará cerrada durante tres semanas. Para un despacho de abogados o una casa de cobranza no es un detalle de calendario: cambia cuándo vencen los términos, hasta cuándo conviene radicar demandas y memoriales, y qué pasa con los procesos que quedan a mitad de camino. Este artículo resume las fechas, qué despachos siguen funcionando, cómo se cuentan los términos, qué se sabe de la Semana Santa de 2027 y una lista de tareas para dejar todo en orden antes del 18 de diciembre."
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "Fechas de la vacancia judicial 2026-2027"
+      "text": "Cuándo inicia la vacancia judicial 2026 y cuándo vuelven los juzgados"
     },
     {
       "type": "paragraph",
@@ -48,7 +49,7 @@
       "type": "callout",
       "tone": "warning",
       "title": "Confirma con la circular del Consejo Superior",
-      "text": "Cada diciembre el Consejo Superior de la Judicatura publica avisos y circulares sobre la vacancia. Las fechas de este artículo salen de la regla legal y del calendario de festivos; revisa el aviso oficial cuando se publique, porque puede incluir excepciones o reglas operativas nuevas."
+      "text": "Al 20 de noviembre de 2026 no encontramos publicada la circular del Consejo Superior de la Judicatura para esta vacancia. Las fechas de este artículo salen de la regla legal (20 de diciembre a 10 de enero) y del calendario de festivos de 2027. Revisa el aviso oficial cuando se publique, porque puede traer excepciones o reglas operativas nuevas, como el bloqueo de correos."
     },
     {
       "type": "heading",
@@ -138,7 +139,7 @@
     {
       "type": "cta_pill",
       "label": "Notificación electrónica: ¿desde cuándo corren los términos?",
-      "href": "https://blog.wabog.com/notificacion-electronica-terminos-acuse-de-recibo"
+      "href": "https://blog.wabog.com/notificacion-electronica-terminos-acuse-de-recibo/"
     },
     {
       "type": "heading",
@@ -168,12 +169,59 @@
     },
     {
       "type": "paragraph",
-      "text": "El regreso de enero es el momento de más riesgo: muchos despachos notifican en bloque lo que quedó pendiente en diciembre. Tener alertas automáticas de actuaciones, como las que envía Wabog, ayuda a no perder un estado en esa primera semana. Si todavía revisas los procesos a mano, esta guía te puede servir:"
+      "text": "El regreso de enero es el momento de más riesgo: muchos despachos notifican en bloque lo que quedó pendiente en diciembre, y los términos empiezan a correr de inmediato. Por eso conviene dejar configurada antes del cierre la vigilancia de tus procesos, para recibir las actuaciones del 12 de enero sin tener que revisar despacho por despacho. Wabog, por ejemplo, envía alertas automáticas de actuaciones:"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Vigila tus procesos durante la vacancia: vigilancia de procesos judiciales con Wabog",
+      "href": "https://wabog.com/vigilancia-judicial/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si todavía revisas los procesos a mano, esta guía te puede servir:"
     },
     {
       "type": "cta_pill",
       "label": "Cómo dejar de revisar manualmente la Rama Judicial todos los días",
-      "href": "https://blog.wabog.com/como-dejar-de-revisar-manualmente-la-rama-judicial-todos-los-dias"
+      "href": "https://blog.wabog.com/como-dejar-de-revisar-manualmente-la-rama-judicial-todos-los-dias/"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Semana Santa 2027: la otra vacancia del año"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Rama Judicial también cierra en Semana Santa. En 2026, según El Tiempo y Asuntos Legales, el cese de actividades ordinarias fue del sábado 28 de marzo al domingo 5 de abril, con excepciones como los juzgados con función de control de garantías, que siguieron atendiendo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para 2027 todavía no hay acuerdo ni circular del Consejo Superior de la Judicatura. Lo que sí está definido es el calendario: según el calendario de festivos de 2027 publicado por El Universal, el Jueves Santo cae el 25 de marzo y el Viernes Santo el 26 de marzo, y el lunes 22 de marzo es el festivo de San José. Si se repite el esquema de 2026, la semana sin despacho ordinario iría del 20 al 28 de marzo de 2027 y los términos se reanudarían el lunes 29 de marzo. Tómalo como una previsión, no como fecha oficial."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Día (marzo de 2027)",
+        "Situación prevista"
+      ],
+      "rows": [
+        [
+          "Lun 22",
+          "Festivo de San José"
+        ],
+        [
+          "Mar 23 y mié 24",
+          "Vacancia de Semana Santa (si se repite el esquema de 2026)"
+        ],
+        [
+          "Jue 25 y vie 26",
+          "Jueves y Viernes Santo (festivos)"
+        ],
+        [
+          "Lun 29",
+          "Regreso previsto"
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -187,7 +235,7 @@
     {
       "type": "cta_pill",
       "label": "Suspensión de términos judiciales por el sismo: cómo contar",
-      "href": "https://blog.wabog.com/suspension-de-terminos-judiciales-sismo-2026"
+      "href": "https://blog.wabog.com/suspension-de-terminos-judiciales-sismo-2026/"
     },
     {
       "type": "heading",
@@ -252,12 +300,22 @@
     {
       "type": "embed",
       "url": "https://www.eluniversal.com.co/colombia/2026/09/17/festivos-colombia-2027-calendario-completo-mes-a-mes/",
-      "title": "El Universal – Festivos de Colombia 2027 (Reyes Magos, lunes 11 de enero)"
+      "title": "El Universal – Festivos de Colombia 2027 (Reyes el 11 de enero; San José, Jueves y Viernes Santo en marzo)"
     },
     {
       "type": "embed",
       "url": "https://www.elcolombiano.com/tendencias/ley-emiliani-movera-festivo-6-enero-2026-GF29970644",
       "title": "El Colombiano – Ley Emiliani (Ley 51 de 1983) y el traslado del festivo de Reyes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.eltiempo.com/justicia/servicios/vacancia-judicial-por-semana-santa-2026-horarios-de-juzgados-y-tribunales-en-colombia-3543863",
+      "title": "El Tiempo – Vacancia judicial por Semana Santa 2026: horarios de juzgados y tribunales"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.asuntoslegales.com.co/actualidad/estas-son-las-fechas-de-vacancia-por-semana-santa-2026-segun-anuncio-la-rama-judicial-4358791",
+      "title": "Asuntos Legales – Fechas de la vacancia por Semana Santa 2026 según la Rama Judicial"
     }
   ]
 }
