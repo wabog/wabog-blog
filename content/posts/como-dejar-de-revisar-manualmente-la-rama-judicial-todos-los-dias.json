@@ -103,8 +103,13 @@
     },
     {
       "type": "cta_pill",
-      "label": "Automatiza tu vigilancia procesal con Wabog",
-      "href": "https://app.wabog.com"
+      "label": "Software de vigilancia judicial para abogados y firmas",
+      "href": "https://wabog.com/vigilancia-judicial/"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Guía: cómo elegir un software de vigilancia judicial",
+      "href": "https://blog.wabog.com/guia-software-vigilancia-judicial-colombia/"
     },
     {
       "type": "heading",

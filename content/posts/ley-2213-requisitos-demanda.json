@@ -202,8 +202,18 @@
     },
     {
       "type": "cta_pill",
+      "label": "Vigilancia de procesos judiciales para abogados y firmas",
+      "href": "https://wabog.com/vigilancia-judicial/"
+    },
+    {
+      "type": "cta_pill",
       "label": "Requisitos formales del título ejecutivo: qué cambió",
       "href": "https://blog.wabog.com/requisitos-formales-titulo-ejecutivo"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Guía: cómo elegir un software de vigilancia judicial",
+      "href": "https://blog.wabog.com/guia-software-vigilancia-judicial-colombia/"
     },
     {
       "type": "heading",

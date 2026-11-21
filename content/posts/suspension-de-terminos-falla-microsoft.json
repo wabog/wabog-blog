@@ -144,6 +144,11 @@
     },
     {
       "type": "cta_pill",
+      "label": "Vigilancia de procesos judiciales: avisos de estados y autos",
+      "href": "https://wabog.com/vigilancia-judicial/"
+    },
+    {
+      "type": "cta_pill",
       "label": "Suspensión de términos por el sismo: cómo recalcular",
       "href": "https://blog.wabog.com/suspension-de-terminos-judiciales-sismo-2026"
     },

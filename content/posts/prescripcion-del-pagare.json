@@ -174,6 +174,11 @@
       "text": "En carteras grandes, revisar estados a mano en cientos de procesos es justo donde se pierden estas fechas. Una herramienta de vigilancia judicial como Wabog avisa cuando el juzgado publica el mandamiento, lo que permite empezar a contar el año del artículo 94 desde el primer día."
     },
     {
+      "type": "cta_pill",
+      "label": "Software de vigilancia judicial para casas de cobranza y firmas",
+      "href": "https://wabog.com/vigilancia-judicial/"
+    },
+    {
       "type": "paragraph",
       "text": "Estos artículos complementan el tema:"
     },
@@ -186,6 +191,11 @@
       "type": "cta_pill",
       "label": "Notificación electrónica: ¿desde cuándo corren los términos?",
       "href": "https://blog.wabog.com/notificacion-electronica-terminos-acuse-de-recibo"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Guía: cómo elegir un software de vigilancia judicial",
+      "href": "https://blog.wabog.com/guia-software-vigilancia-judicial-colombia/"
     },
     {
       "type": "heading",

@@ -190,6 +190,11 @@
     },
     {
       "type": "cta_pill",
+      "label": "Notificaciones judiciales por WhatsApp para abogados",
+      "href": "https://wabog.com/notificaciones-judiciales-whatsapp/"
+    },
+    {
+      "type": "cta_pill",
       "label": "Cómo recibir alertas de tus procesos por WhatsApp",
       "href": "https://blog.wabog.com/como-recibir-notificaciones-de-procesos-judiciales-por-whatsapp"
     },
