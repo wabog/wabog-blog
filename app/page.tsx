@@ -178,7 +178,7 @@ export default function HomePage() {
             ))}
           </div>
           <div className="section-footer">
-            <Link href="/articulos" className="btn btn-outline" data-analytics="home_ver_todos">
+            <Link href="/articulos/" className="btn btn-outline" data-analytics="home_ver_todos">
               Ver todos los artículos <span aria-hidden="true">→</span>
             </Link>
           </div>
