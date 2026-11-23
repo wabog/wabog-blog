@@ -1,0 +1,328 @@
+{
+  "slug": "busqueda-de-jurisprudencia-con-ia",
+  "title": "Búsqueda de jurisprudencia con IA: cómo verificarla",
+  "date": "2026-11-23",
+  "tags": [
+    {
+      "slug": "ia-legal",
+      "name": "IA para abogados"
+    },
+    {
+      "slug": "legaltech",
+      "name": "LegalTech"
+    }
+  ],
+  "excerpt": "Búsqueda de jurisprudencia con IA en Colombia: dónde están las relatorías oficiales, qué aporta la IA y cómo verificar cada cita antes de usarla.",
+  "coverImage": "/covers/busqueda-de-jurisprudencia-con-ia.webp",
+  "readingTime": 8,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "La búsqueda de jurisprudencia con IA ahorra horas, pero no reemplaza la relatoría. Use la IA para encontrar pistas por hechos, resumir y comparar fallos, y confirme cada sentencia en la fuente oficial: la Relatoría de la Corte Constitucional, la consulta de providencias de la Corte Suprema y Mi Relatoría del Consejo de Estado en SAMAI. Ya hay decisiones de la Corte Suprema y del Consejo de Estado que anularon un fallo, sancionaron a un abogado o compulsaron copias por citas que no existían."
+    },
+    {
+      "type": "paragraph",
+      "text": "La búsqueda de jurisprudencia con IA se volvió parte del día a día de muchos abogados en Colombia: se le describe el caso a un asistente y en segundos devuelve sentencias, extractos y hasta una línea jurisprudencial. El problema es que esos resultados pueden ser inventados. Esta guía explica dónde está la jurisprudencia oficial, qué aporta de verdad la inteligencia artificial y cómo verificar cada cita antes de llevarla a un memorial."
+    },
+    {
+      "type": "paragraph",
+      "text": "No es un asunto menor. El artículo 7 del Código General del Proceso ordena a los jueces tener en cuenta la jurisprudencia en sus providencias y exponer las razones cuando se aparten de ella o cambien de criterio en casos análogos. Citar bien el precedente es parte del litigio; citar uno que no existe ya tiene consecuencias."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dónde está la jurisprudencia oficial en Colombia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de abrir cualquier herramienta de IA conviene saber cuál es la fuente que da fe de una providencia. En Colombia son las relatorías de cada corte y los buscadores que publica la Rama Judicial:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Fuente",
+        "Qué tiene",
+        "Cómo buscar"
+      ],
+      "rows": [
+        [
+          "Relatoría de la Corte Constitucional",
+          "Sentencias de tutela, constitucionalidad y unificación",
+          "Por tipo, número y año (por ejemplo, T-323-24) o por tema"
+        ],
+        [
+          "Consulta de providencias de la Corte Suprema",
+          "Providencias de las salas de casación, por texto completo",
+          "Se elige la sala y se escriben los términos; las comillas buscan la frase exacta"
+        ],
+        [
+          "Buscador del Consejo de Estado",
+          "Mi Relatoría (en SAMAI) para decisiones tituladas desde el 1 de diciembre de 2021; sistema tradicional para las anteriores",
+          "Varios criterios de búsqueda, descarga de providencias y enlace permanente a la consulta"
+        ],
+        [
+          "Consulta de jurisprudencia de la Rama Judicial",
+          "Altas cortes y tribunales (administrativos, superiores y de restitución de tierras)",
+          "Búsqueda simultánea por tema en las altas cortes o por corporación"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La Rama Judicial también mantiene el vocabulario controlado (tesauro) de las Altas Cortes, útil para encontrar el término exacto con el que las relatorías titulan un tema. Y la Sala de Casación Civil de la Corte Suprema publicó unas pautas propias para consultar su jurisprudencia, con la Gaceta Judicial y su buscador."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué aporta la IA a la búsqueda de jurisprudencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los buscadores oficiales funcionan con palabras clave y descriptores. La IA cambia el punto de partida: se le puede describir un caso con hechos y preguntar qué problema jurídico plantea. Eso sirve para:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Buscar por hechos y no por palabras: «ejecutivo terminado por desistimiento tácito cuando había una solicitud pendiente» en vez de adivinar el descriptor.",
+        "Proponer términos y descriptores para luego buscarlos en la relatoría.",
+        "Resumir una sentencia larga y ubicar la ratio decidendi, los hechos y la decisión.",
+        "Comparar varias providencias y señalar en qué se parecen y en qué se apartan.",
+        "Ordenar cronológicamente un grupo de fallos para empezar a construir una línea."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "warning",
+      "title": "El límite",
+      "text": "Un modelo de lenguaje genera texto probable, no consulta una base oficial. Puede producir números de radicado, fechas, ponentes y frases textuales que suenan correctas y no existen. Por eso su resultado es una pista para buscar, nunca la cita final."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué pasa cuando no se verifica: tres casos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las altas cortes ya se pronunciaron sobre citas que no existían. Ninguna prohibió la IA; todas reprocharon la falta de verificación."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Corte Suprema, STC17832-2025: un fallo anulado por citas inexistentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "En noviembre de 2025 la Sala de Casación Civil, Agraria y Rural de la Corte Suprema amparó en tutela el debido proceso de una ciudadana y dejó sin efecto un auto del Tribunal Superior de Sincelejo, que había terminado un proceso ejecutivo por desistimiento tácito apoyado en frases presentadas como textuales de las sentencias STC13560-2023 y STC4734-2025. Esas frases no aparecen en esas sentencias. Según los reportes de El Colombiano y Cambio, la Corte ordenó decidir de nuevo y advirtió que usar IA como apoyo no exime al juez de verificar la autenticidad de las citas."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Corte Suprema, Auto AC739-2026: multa a un abogado"
+    },
+    {
+      "type": "paragraph",
+      "text": "En febrero de 2026 la misma Sala multó con 15 salarios mínimos a un abogado por temeridad procesal: su recurso citaba normas transcritas de forma inexacta y sentencias inexistentes, al parecer generadas con IA, y compulsó copias a la Comisión Seccional de Disciplina Judicial de Bogotá. El caso está explicado en detalle en nuestro artículo sobre las reglas de la IA en procesos judiciales."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Inteligencia artificial en procesos judiciales: reglas 2026",
+      "href": "https://blog.wabog.com/inteligencia-artificial-procesos-judiciales-reglas/"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consejo de Estado, 2026: recurso rechazado y copias a disciplina"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2026 la Sección Tercera del Consejo de Estado rechazó de plano un recurso extraordinario de unificación de jurisprudencia (radicación 11001-03-26-000-2026-00056-00, según Economist & Jurist) que se apoyaba en sentencias de la propia corporación que su relatoría no pudo localizar. Según Portafolio, el Consejo de Estado remitió copia a la Comisión Seccional de Disciplina Judicial de Bogotá, advirtió que la fluidez de los textos generados por IA puede dar una falsa sensación de confiabilidad y pidió mantener el control humano, la buena fe y la lealtad procesal."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo hacer una búsqueda de jurisprudencia con IA, paso a paso"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un método sencillo para aprovechar la IA sin exponerse a una cita falsa:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Plantee el problema jurídico con hechos, sin datos personales ni reservados del cliente.",
+        "Pídale a la IA descriptores, normas relacionadas y providencias candidatas, y trate todo como hipótesis.",
+        "Busque cada providencia en la relatoría oficial: número, fecha, sala o sección y ponente deben coincidir.",
+        "Lea la sentencia, no el resumen. Confirme que la frase que va a citar está en el texto y que dice lo que usted afirma.",
+        "Revise si la posición se mantiene: busque decisiones posteriores sobre el mismo punto.",
+        "Cite solo lo que encontró y leyó. Si una providencia no aparece en la relatoría, no la cite."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/busqueda-de-jurisprudencia-con-ia/verificar-cita-ia-4-pasos.webp",
+      "alt": "Esquema de cuatro pasos para verificar una cita de jurisprudencia encontrada con inteligencia artificial: pista de la IA, relatoría oficial, lectura de la sentencia y cita",
+      "caption": "La IA propone; la relatoría confirma; usted lee y cita."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tipos de herramientas de IA para jurisprudencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "No todas las herramientas resuelven lo mismo. Conviene distinguir tres grupos:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Tipo",
+        "Para qué sirve",
+        "Qué vigilar"
+      ],
+      "rows": [
+        [
+          "Asistentes generales (ChatGPT, Claude y similares)",
+          "Plantear el problema, proponer descriptores, resumir un texto que usted les entrega",
+          "No consultan por sí mismos las relatorías: toda cita requiere verificación"
+        ],
+        [
+          "Bases jurídicas con IA (por ejemplo, vLex con Vincent AI)",
+          "Buscar sobre una colección propia de sentencias y normas, con respuestas citadas",
+          "Cobertura y fecha de actualización de cada corte; sigue siendo necesario leer la providencia"
+        ],
+        [
+          "IA conectada a sus procesos (por ejemplo, Wabog)",
+          "Resumir las providencias de sus propios procesos y apoyar consultas de jurisprudencia a partir del auto",
+          "Revisar cada borrador antes de radicar"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Según su sitio web (consultado el 23 de noviembre de 2026), vLex describe Vincent AI como una herramienta que busca jurisprudencia, normas y doctrina en su base de datos y entrega respuestas con citas. En el caso de Wabog, su página de IA para abogados indica que todos los planes incluyen consultas de jurisprudencia y generación de documentos, que la IA lee cada auto nuevo de los procesos que usted vigila y que junto a cada dato muestra el fragmento y la página de donde sale."
+    },
+    {
+      "type": "cta_pill",
+      "label": "IA para abogados: providencias y jurisprudencia con la fuente a la vista",
+      "href": "https://wabog.com/ia-para-abogados/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si está comparando herramientas para su firma, esta guía reúne las opciones de IA y de vigilancia de procesos disponibles en Colombia:"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Mejores herramientas de IA para abogados en Colombia",
+      "href": "https://blog.wabog.com/mejores-herramientas-ia-vigilancia-judicial-abogados-colombia-2026/"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Puedo citar una sentencia que me dio una herramienta de IA?",
+          "answer": "Solo después de encontrarla en la relatoría oficial y leerla. Las cortes no prohíben usar IA, pero en el Auto AC739-2026 la Corte Suprema sancionó a un abogado por citar sentencias inexistentes sin verificarlas."
+        },
+        {
+          "question": "¿Dónde verifico una sentencia del Consejo de Estado?",
+          "answer": "En el buscador de jurisprudencia del Consejo de Estado: Mi Relatoría, integrada a SAMAI, cubre las decisiones tituladas desde el 1 de diciembre de 2021, y el sistema tradicional, las anteriores."
+        },
+        {
+          "question": "¿Cómo busco una frase exacta en la jurisprudencia de la Corte Suprema?",
+          "answer": "En la consulta de providencias por texto completo de la Corte Suprema se elige la sala y se escribe la frase entre comillas para obtener coincidencias exactas."
+        },
+        {
+          "question": "¿La IA sirve para construir una línea jurisprudencial?",
+          "answer": "Sirve para proponer providencias candidatas y ordenarlas, pero cada una debe confirmarse en la relatoría y leerse completa. La línea la construye el abogado, no la herramienta."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425",
+      "title": "Función Pública – Ley 1564 de 2012, Código General del Proceso (artículo 7)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2024/T-323-24.htm",
+      "title": "Corte Constitucional – Relatoría, Sentencia T-323 de 2024 (ejemplo de consulta)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/ventanilla/servicios/-/asset_publisher/kzguQDYxYEvs/content/id/205319921",
+      "title": "Rama Judicial – Consulta de providencias de la Corte Suprema por texto completo"
+    },
+    {
+      "type": "embed",
+      "url": "https://cortesuprema.gov.co/corte/wp-content/uploads/publicaciones/Pautas%20para%20la%20consulta%20de%20jurisprudencia%20de%20la%20Sala%20de%20Casaci%C3%B3n%20Civil.pdf",
+      "title": "Corte Suprema – Pautas para la consulta de jurisprudencia de la Sala de Casación Civil"
+    },
+    {
+      "type": "embed",
+      "url": "https://consejodeestado.gov.co/buscador-de-jurisprudencia2/index.htm",
+      "title": "Consejo de Estado – Buscador de jurisprudencia y Mi Relatoría (SAMAI)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/portal/jurisprudencia-de-interes/jurisprudencia-altas-cortes",
+      "title": "Rama Judicial – Consulta de jurisprudencia de las Altas Cortes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/ventanilla/servicios/-/asset_publisher/kzguQDYxYEvs/content/id/144993242",
+      "title": "Rama Judicial – Consulta de jurisprudencia de tribunales"
+    },
+    {
+      "type": "embed",
+      "url": "https://tesauro.ramajudicial.gov.co/tematres3/vocab/index.php?tema=80108",
+      "title": "Rama Judicial – Vocabulario controlado (tesauro) de las Altas Cortes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.elcolombiano.com/colombia/corte-suprema-anulo-fallo-citas-inexistentes-KN30866095",
+      "title": "El Colombiano – Corte Suprema anuló un fallo con citas inexistentes (STC17832-2025)"
+    },
+    {
+      "type": "embed",
+      "url": "https://cambiocolombia.com/justicia/articulo/2025/11/corte-suprema-anula-fallo-uso-indebido-inteligencia-artificial-decisiones-judiciales",
+      "title": "Cambio – Corte Suprema anula fallo por uso indebido de inteligencia artificial"
+    },
+    {
+      "type": "embed",
+      "url": "https://cortesuprema.gov.co/sala-civil-agraria-y-rural-sanciona-a-abogado-por-temeridad-procesal-al-citar-textos-legales-y-referencias-jurisprudenciales-apocrifas-generadas-por-la-ia/",
+      "title": "Corte Suprema – Sala Civil sanciona a abogado por citas apócrifas generadas por IA (Auto AC739-2026)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.portafolio.co/economia/gobierno/consejo-de-estado-puso-reglas-para-el-uso-de-la-ia-tras-abogado-que-se-invento-sentencias-en-chatgpt-495674",
+      "title": "Portafolio – Consejo de Estado fija reglas para el uso de la IA tras sentencias inventadas"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.economistjurist.es/?p=259705",
+      "title": "Economist & Jurist – Análisis del auto del Consejo de Estado sobre sentencias inexistentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://vlex.es/vincent-ai",
+      "title": "vLex – Vincent AI (consultado el 23-nov-2026)"
+    },
+    {
+      "type": "embed",
+      "url": "https://wabog.com/ia-para-abogados/",
+      "title": "Wabog – IA para abogados (consultado el 23-nov-2026)"
+    }
+  ]
+}
