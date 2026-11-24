@@ -1,0 +1,297 @@
+{
+  "slug": "consultar-proceso-samai",
+  "title": "Cómo consultar un proceso en SAMAI paso a paso",
+  "date": "2026-11-24",
+  "tags": [
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    }
+  ],
+  "excerpt": "Cómo consultar un proceso en SAMAI: radicado de 23 dígitos, actuaciones, estados y documentos del Consejo de Estado y juzgados administrativos.",
+  "coverImage": "/covers/consultar-proceso-samai.webp",
+  "readingTime": 7,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "Para consultar un proceso en SAMAI entre a la consulta de procesos del Consejo de Estado, escriba el radicado de 23 dígitos sin guiones, indique si el proceso está en una corporación, una sección o un juzgado y abra el resultado para ver el historial de actuaciones. Sin registrarse solo verá lo público; para documentos reservados hay que pedir acceso. Si lleva muchos procesos, la consulta diaria se puede automatizar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consultar un proceso en SAMAI es hoy la forma de saber qué pasa con cualquier demanda de la jurisdicción de lo contencioso administrativo: nulidad y restablecimiento del derecho, reparación directa, controversias contractuales o una tutela que conoce un tribunal administrativo. Esta guía explica qué cubre SAMAI, cómo buscar por radicado o por parte, cómo leer las actuaciones y los estados, qué documentos puede ver y qué hacer cuando el proceso no aparece."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué es SAMAI y qué procesos cubre"
+    },
+    {
+      "type": "paragraph",
+      "text": "SAMAI es el sistema de gestión judicial que usan el Consejo de Estado y los tribunales y juzgados administrativos. Allí los despachos registran las actuaciones, publican los estados y guardan el expediente electrónico. Según el Consejo de Estado, el Consejo Superior de la Judicatura hizo obligatorio su uso en toda la jurisdicción con el Acuerdo PCSJA23-12068 de mayo de 2023, cuando ya funcionaba en el 82 % de los despachos. El mismo acuerdo lo define como una solución de transición mientras entra en operación el Sistema Integrado Único de Gestión Judicial (SIUGJ)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Después, la Circular PCSJC24-1 del 11 de enero de 2024 fijó que todos los despachos de la jurisdicción debían estar vinculados y usando SAMAI desde el 22 de enero de 2024. En la práctica, eso significa que los procesos de la jurisdicción de lo contencioso administrativo se consultan en SAMAI, y no en la Consulta de Procesos Nacional Unificada que se usa para la justicia ordinaria."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Dónde está el proceso",
+        "Dónde se consulta"
+      ],
+      "rows": [
+        [
+          "Consejo de Estado (cualquier sección)",
+          "SAMAI"
+        ],
+        [
+          "Tribunal administrativo",
+          "SAMAI"
+        ],
+        [
+          "Juzgado administrativo",
+          "SAMAI"
+        ],
+        [
+          "Juzgado o tribunal civil, laboral o de familia",
+          "Consulta de Procesos Nacional Unificada u otro sistema de la Rama Judicial"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo consultar un proceso en SAMAI paso a paso"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ruta de consulta pública no exige usuario ni contraseña. Estos son los pasos que describen el manual del Consejo de Estado y las guías que publican los despachos:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Entre a la consulta de procesos de SAMAI (samai.consejodeestado.gov.co) o, desde consejodeestado.gov.co, al menú Consultas > Consulta de procesos. Algunas guías de tribunales y juzgados remiten también a la dirección samairj.consejodeestado.gov.co.",
+        "Escriba el número de radicación sin guiones ni espacios. El Consejo de Estado indica que el campo acepta parte o la totalidad de los 23 dígitos; con los 23 completos el resultado es exacto.",
+        "Indique si el proceso está en una corporación (Consejo de Estado o tribunal), en una sección o sala, o en un juzgado, y haga clic en «Buscar registros».",
+        "Abra el proceso de la lista de resultados. Verá primero la descripción general del proceso y debajo el historial de actuaciones."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/consultar-proceso-samai/consultar-proceso-samai-4-pasos.webp",
+      "alt": "Esquema de cuatro pasos para consultar un proceso del Consejo de Estado en SAMAI: entrar a la consulta de procesos, escribir el radicado de 23 dígitos sin guiones, elegir el despacho y abrir el historial de actuaciones",
+      "caption": "Los cuatro pasos de la consulta pública en SAMAI."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Si no tiene el radicado"
+    },
+    {
+      "type": "paragraph",
+      "text": "SAMAI también busca por clase de proceso (según la catalogación que le dio el despacho, por ejemplo «acciones de tutela») y por el nombre de una de las partes. Es útil para encontrar los procesos de una entidad demandada o de un cliente, pero los resultados pueden ser muchos: una guía de la Rama Judicial advierte que la consulta por parte procesal muestra como máximo los últimos 100 registros. Cuando identifique el proceso, anote el radicado completo y úselo en adelante."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Qué dice el radicado de 23 dígitos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El radicado sigue el código único de radicación que fija el Consejo Superior de la Judicatura. Según la Circular PCSJC19-7 del Consejo Superior de la Judicatura, los 12 primeros dígitos identifican la ubicación y el despacho, y los 11 restantes corresponden al año y al consecutivo del proceso. La misma circular aclara que en los tribunales las posiciones 10 a 12 van en 000 y no con el número del despacho del magistrado. Por eso, un error en un solo dígito lleva a otro proceso o a ninguno."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo leer las actuaciones y los estados en SAMAI"
+    },
+    {
+      "type": "paragraph",
+      "text": "El historial de actuaciones es la parte que más importa. Cada fila es un movimiento del expediente: un auto que admite o inadmite la demanda, un traslado, la fijación de un estado, una sentencia o el envío del expediente a otra instancia. Algunas recomendaciones para leerlo:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "El historial se muestra por páginas; la guía del Tribunal Administrativo de Antioquia indica que SAMAI presenta como máximo 15 registros por vez, así que revise si hay más páginas antes de concluir que no hay novedades.",
+        "Use los filtros avanzados para buscar solo en las anotaciones, en los nombres de las actuaciones, por fechas o únicamente en las sentencias.",
+        "Si el proceso pasó por otra corporación (por ejemplo, de un juzgado al tribunal en apelación), el manual del Consejo de Estado explica que el sistema muestra esa trazabilidad en otra sección del proceso.",
+        "Una actuación «Constancia secretarial» puede registrar, entre otras cosas, si la secretaría autorizó o no el acceso de un sujeto procesal al expediente."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estados electrónicos se consultan aparte. Según el manual del Consejo de Estado, en la página principal de SAMAI se entra a la pestaña Servicios y, en el grupo Notificaciones, a la opción Estados; allí se filtra por corporación, sección o despacho y fecha de publicación. Como los términos corren desde la notificación, conviene revisar el estado del día y no solo el historial."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Notificación electrónica: cuándo empiezan a correr los términos",
+      "href": "https://blog.wabog.com/notificacion-electronica-terminos-acuse-de-recibo/"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué documentos puede ver y cómo pedir acceso"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la consulta pública solo se pueden descargar los documentos que el despacho dejó visibles para el público. Según el manual de sujetos procesales del Consejo de Estado, quien se registra como abogado o parte puede ver los procesos en los que figura, pero los permisos para hacer trámites en cada uno se otorgan de forma individual. Si necesita un expediente con acceso especial y el proceso está en el Consejo de Estado, el camino es pedir el acceso por la Ventanilla Virtual; en los tribunales y juzgados, cada despacho publica cómo hacerlo."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Antes de radicar un memorial",
+      "text": "Confirme en SAMAI el radicado, el despacho y el ponente. Un memorial dirigido al despacho equivocado puede no llegar al expediente a tiempo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Errores comunes cuando el proceso no aparece"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Radicado con guiones, espacios o un dígito cambiado: cópielo del auto admisorio o del acta de reparto.",
+        "Tipo de despacho equivocado: un proceso de tribunal no aparece si busca como juzgado, y al revés.",
+        "Proceso que cambió de instancia: búsquelo también en la corporación que conoce el recurso.",
+        "Proceso reservado o con documentos privados: la consulta pública no los muestra; pida acceso al despacho.",
+        "Proceso antiguo migrado desde TYBA: la migración a SAMAI empezó en 2022; si no lo encuentra, consulte al despacho."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Consulta de procesos del Consejo de Estado sin entrar cada día"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consultar un proceso en SAMAI una vez es sencillo. Revisar 30, 80 o 300 todos los días, y además los que están en la justicia ordinaria, es otra cosa: hay que entrar proceso por proceso, pasar páginas de actuaciones y cruzar los estados. Ese trabajo manual es el que más se presta para que una notificación se pase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso muchas firmas y casas de cobranza automatizan la vigilancia. Según wabog.com, Wabog revisa SAMAI todos los días, junto con la Consulta de Procesos Nacional Unificada, Publicaciones Procesales y SIUGJ, y avisa por WhatsApp o por correo cuando uno de los procesos tiene una actuación nueva, con un resumen del auto hecho con IA. Los procesos se registran con el radicado de 23 dígitos y hay una prueba gratis de 15 días."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Vigilancia de procesos en SAMAI para abogados y firmas",
+      "href": "https://wabog.com/vigilancia-samai/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si está comparando opciones, esta guía explica qué revisar en un software de vigilancia judicial y cómo dejar de entrar a los portales a mano:"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Guía del software de vigilancia judicial en Colombia",
+      "href": "https://blog.wabog.com/guia-software-vigilancia-judicial-colombia/"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Necesito usuario para consultar un proceso en SAMAI?",
+          "answer": "No para la consulta pública: con el radicado, la clase de proceso o el nombre de una parte puede ver la información general, el historial de actuaciones y los documentos visibles al público. El registro sirve para hacer trámites y para ver documentos a los que el despacho le dé acceso."
+        },
+        {
+          "question": "¿SAMAI sirve para procesos de juzgados civiles o laborales?",
+          "answer": "No. SAMAI es el sistema de la jurisdicción de lo contencioso administrativo: Consejo de Estado, tribunales y juzgados administrativos. Los procesos de la justicia ordinaria se consultan en otros sistemas de la Rama Judicial, como la Consulta de Procesos Nacional Unificada."
+        },
+        {
+          "question": "¿Cómo veo los estados de un tribunal administrativo en SAMAI?",
+          "answer": "Según el manual del Consejo de Estado, en la página principal de SAMAI se entra a Servicios y, en el grupo Notificaciones, a Estados; luego se filtra por corporación, sección o despacho y fecha de publicación."
+        },
+        {
+          "question": "¿Por qué no aparece mi proceso en SAMAI?",
+          "answer": "Las causas más comunes son un radicado con guiones o un dígito errado, buscar en un tipo de despacho distinto, un proceso que cambió de instancia o un proceso con reserva. Si después de revisar eso no aparece, consulte directamente al despacho."
+        },
+        {
+          "question": "¿SAMAI va a ser reemplazado?",
+          "answer": "El Acuerdo PCSJA23-12068 lo adoptó como solución de transición hasta que entre en operación el SIUGJ en la jurisdicción. A la fecha de este artículo (24 de noviembre de 2026), SAMAI sigue siendo el sistema de consulta de los procesos administrativos."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.consejodeestado.gov.co/news/2023/23-May-2023.php",
+      "title": "Consejo de Estado – SAMAI en toda la Jurisdicción de lo Contencioso Administrativo (mayo de 2023)"
+    },
+    {
+      "type": "embed",
+      "url": "https://portalhistorico.ramajudicial.gov.co/documents/2428009/166221374/ACUERDO+PCSJA23-12068.pdf/8e5b1be5-228a-4a92-a54f-e454b355b461",
+      "title": "Consejo Superior de la Judicatura – Acuerdo PCSJA23-12068 de 2023 (uso obligatorio y de transición de SAMAI)"
+    },
+    {
+      "type": "embed",
+      "url": "https://normativa.colpensiones.gov.co/compilacion/docs/circular_csupjud_0001_2024.htm",
+      "title": "Consejo Superior de la Judicatura – Circular PCSJC24-1 de 2024 (texto compilado por Colpensiones)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.consejodeestado.gov.co/manuales/manualsujetos/knowledge-base/como-buscar-un-proceso-judicial/",
+      "title": "Consejo de Estado – Manual SAMAI: búsqueda de un proceso"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.consejodeestado.gov.co/manuales/manualsujetos/knowledge-base/historial-de-actuaciones/",
+      "title": "Consejo de Estado – Manual SAMAI: historial de actuaciones"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.consejodeestado.gov.co/manuales/manualsujetos/knowledge-base/consulta-de-estados/",
+      "title": "Consejo de Estado – Manual SAMAI: consulta de estados"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.consejodeestado.gov.co/manuales/manualsujetos/knowledge-base/se-puede-consultar-un-proceso-sin-estar-registrado-en-el-sistema/",
+      "title": "Consejo de Estado – Manual SAMAI: ¿se puede consultar un proceso sin estar registrado?"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.consejodeestado.gov.co/manuales/manualsujetos/wp-content/uploads/2021/04/Manual-de-usuario-SAMAI-Sujetos-Procesales.pdf",
+      "title": "Consejo de Estado – Manual de usuario SAMAI para sujetos procesales (PDF)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/consejo-superior-de-la-judicatura/ventanilla-de-servicios/-/asset_publisher/TIpGpe2ENeIh/content/id/194520921",
+      "title": "Rama Judicial – Ventanilla de servicios: consulta de procesos SAMAI (administrativos)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/documents/2186516/59062445/CONSULTA+DE+PROCESOS+Y+DOCUMENTOS+ASOCIADOS+POR+EL+SISTEMA+DE+GESTION+JUDICIAL+SAMAI+%283%29.pdf/d1f223c0-36f9-41cd-ab35-ed27c5c472b5",
+      "title": "Rama Judicial – Guía de consulta de procesos y documentos asociados en SAMAI"
+    },
+    {
+      "type": "embed",
+      "url": "https://ramajudicial.gov.co/documents/2223275/133708517/Gu%C3%ADa%2Bconsulta%2BEstados%2BSAMAI.pdf/b0205224-7c8e-993e-2d3a-279bfbe27830",
+      "title": "Rama Judicial – Guía para consultar estados electrónicos en SAMAI"
+    },
+    {
+      "type": "embed",
+      "url": "https://portalhistorico.ramajudicial.gov.co/documents/2210871/0/Circular-PCSJC19-7-Cumplimiento-del-C%C3%B3digo-%C3%9Anico-de-Radicaci%C3%B3n.pdf/36ff0668-5465-4660-a6fb-41500bc2784c",
+      "title": "Consejo Superior de la Judicatura – Circular PCSJC19-7, código único de radicación"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/documents/10635722/0/Comunicado+001+de+2022+Implementacion+SAMAI.docx/eaaaf156-69f6-4471-928d-c2b386869acd",
+      "title": "Rama Judicial – Comunicado 001 de 2022: implementación de SAMAI y migración desde TYBA"
+    },
+    {
+      "type": "embed",
+      "url": "https://wabog.com/vigilancia-samai/",
+      "title": "Wabog – Vigilancia de procesos en SAMAI (consultado el 24-nov-2026)"
+    }
+  ]
+}
