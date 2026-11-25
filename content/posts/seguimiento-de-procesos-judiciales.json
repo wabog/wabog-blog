@@ -1,0 +1,328 @@
+{
+  "slug": "seguimiento-de-procesos-judiciales",
+  "title": "Seguimiento de procesos judiciales: guía paso a paso",
+  "date": "2026-11-25",
+  "tags": [
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    }
+  ],
+  "excerpt": "Seguimiento de procesos judiciales en Colombia: dónde consultar cada proceso (CPNU, SAMAI, SIUGJ), qué mirar en cada actuación y cada cuánto revisar.",
+  "coverImage": "/covers/seguimiento-de-procesos-judiciales.webp",
+  "readingTime": 7,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "El seguimiento de procesos judiciales en Colombia se hace con el radicado de 23 dígitos en el portal que corresponde: la Consulta de Procesos Nacional Unificada para la justicia ordinaria, SAMAI para lo contencioso administrativo y SIUGJ para los despachos que ya lo usan. Además, hay que revisar los estados y traslados, porque ahí corren los términos. Lo prudente es revisar cada día hábil; con muchos procesos, conviene automatizarlo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El seguimiento de procesos judiciales es la rutina que evita que un auto, un traslado o una sentencia pase sin que el abogado se entere. En Colombia no hay un solo portal para todo: cada jurisdicción y cada despacho registra sus actuaciones en un sistema, y las notificaciones por estado se publican aparte. Esta guía explica dónde consultar cada proceso, qué mirar en cada actuación, cada cuánto revisar y cuándo vale la pena automatizar el trabajo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Antes de empezar: el radicado de 23 dígitos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Todo seguimiento parte del número de radicación. Según la Circular PCSJC19-7 del Consejo Superior de la Judicatura, el código único de radicación tiene 23 dígitos: los 12 primeros identifican la ubicación y el despacho, y los 11 restantes el año y el consecutivo del proceso. Cópielo del auto admisorio o del acta de reparto y guárdelo sin guiones ni espacios; un solo dígito cambiado lleva a otro proceso o a ninguno."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dónde hacer el seguimiento de cada proceso judicial"
+    },
+    {
+      "type": "paragraph",
+      "text": "El portal depende de la jurisdicción y del sistema de gestión que use el despacho. Este es el mapa básico:"
+    },
+    {
+      "type": "image",
+      "src": "/images/seguimiento-de-procesos-judiciales/donde-consultar-cada-proceso.webp",
+      "alt": "Mapa de dónde consultar un proceso judicial en Colombia: justicia ordinaria en la Consulta de Procesos Nacional Unificada, contencioso administrativo en SAMAI, despachos con SIUGJ en SIUGJ y estados y traslados en Publicaciones Procesales",
+      "caption": "Cada proceso se sigue en el portal de su jurisdicción; los estados y traslados se revisan aparte."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Portal",
+        "Qué procesos",
+        "Cómo se busca"
+      ],
+      "rows": [
+        [
+          "Consulta de Procesos Nacional Unificada (CPNU)",
+          "Juzgados y tribunales que registran en Justicia XXI y TYBA",
+          "Número de radicación o nombre o razón social"
+        ],
+        [
+          "TYBA (Justicia XXI Web)",
+          "Despachos que trabajan en TYBA",
+          "Radicado de 23 dígitos; muestra documentos digitales"
+        ],
+        [
+          "SAMAI",
+          "Consejo de Estado, tribunales y juzgados administrativos",
+          "Radicado, clase de proceso o nombre de una parte"
+        ],
+        [
+          "SIUGJ",
+          "Despachos donde ya se implementó (empezó por la especialidad laboral)",
+          "Directamente en SIUGJ"
+        ],
+        [
+          "Publicaciones Procesales",
+          "Estados, traslados, edictos y avisos",
+          "Por despacho y fecha"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Consulta de Procesos Nacional Unificada"
+    },
+    {
+      "type": "paragraph",
+      "text": "La CPNU (consultaprocesos.ramajudicial.gov.co) es la puerta de entrada para la justicia ordinaria. Según la Rama Judicial, permite buscar por número de radicación o por nombre o razón social, y lo que muestra es un reflejo de lo que cada despacho registra en sus sistemas de gestión, como Justicia XXI y TYBA. Por eso, si una actuación no aparece, la responsabilidad de actualizarla es del despacho."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Entre a la consulta y elija la búsqueda por número de radicación.",
+        "Un instructivo de la Universidad de Manizales recomienda cambiar la opción de procesos con actuaciones recientes a todos los procesos antes de buscar; si no, un proceso sin movimiento reciente puede no aparecer.",
+        "Escriba los 23 dígitos, busque y abra el proceso para ver los sujetos procesales y el listado de actuaciones.",
+        "Si no tiene el radicado, busque por el nombre o la razón social de una de las partes y anote el radicado del resultado correcto."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. TYBA, cuando el despacho trabaja allí"
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos despachos usan TYBA (Justicia XXI Web), en procesojudicial.ramajudicial.gov.co. Las guías de la Rama Judicial indican que allí se consultan los procesos y sus soportes digitales, como la demanda, los memoriales y las providencias, escribiendo el código de 23 dígitos. No todos los despachos usan TYBA: para los demás, la misma Rama remite a la CPNU, que muestra procesos registrados en TYBA y en otros aplicativos."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. SAMAI, para lo contencioso administrativo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los procesos del Consejo de Estado y de los tribunales y juzgados administrativos se consultan en SAMAI, no en la CPNU. Allí también se ven las actuaciones y, en una opción aparte, los estados. Lo explicamos paso a paso en otra guía:"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Cómo consultar un proceso en SAMAI paso a paso",
+      "href": "https://blog.wabog.com/consultar-proceso-samai/"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. SIUGJ, en los despachos que ya migraron"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Sistema Integrado Único de Gestión Judicial (SIUGJ) se implementa por fases y empezó por la especialidad laboral. Según la Rama Judicial, se aplica a los expedientes nuevos, mientras los procesos en curso siguen en los sistemas anteriores. Un juzgado laboral de Bogotá advierte en su micrositio que algunos de sus procesos deben consultarse directamente en SIUGJ porque no aparecen en Justicia Siglo XXI. Si su proceso es reciente y no lo encuentra en la CPNU, revise si el despacho ya trabaja en SIUGJ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué mirar en cada actuación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Encontrar el proceso es la parte fácil. El seguimiento útil consiste en leer bien el historial:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Fecha de la actuación y fecha de registro: no siempre coinciden, y la que importa para los términos es la de la notificación.",
+        "Nombre de la actuación: auto que admite o inadmite, traslado, fijación en estado, audiencia, sentencia, envío al superior.",
+        "Anotación: suele traer el resumen de lo decidido o la fecha de una audiencia.",
+        "Documentos: si el portal los muestra, abra la providencia; el nombre de la actuación no basta para saber qué se ordenó.",
+        "Términos: anote desde cuándo corre el plazo y cuándo vence."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "warning",
+      "title": "La consulta informa; el estado notifica",
+      "text": "La Corte Constitucional, en la Sentencia T-398 de 2023, describió la consulta de procesos de Justicia Siglo XXI como un registro que busca dar publicidad a las actuaciones y facilitar la consulta. Los autos que no se notifican de otra forma se notifican por estado (artículo 295 del Código General del Proceso), así que el estado del día es lo que hay que revisar."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estados electrónicos y traslados: dónde corren los términos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el artículo 9 de la Ley 2213 de 2022, las notificaciones por estado se fijan virtualmente, con inserción de la providencia, y no se insertan las providencias que decretan medidas cautelares o mencionan a menores. La misma norma prevé que, cuando una parte envía un escrito por canal digital, el traslado se entiende hecho dos días hábiles después del envío."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estados, traslados, edictos y avisos se publican en el portal de Publicaciones Procesales de la Rama Judicial. Según la Rama, el portal nuevo funciona desde el 14 de mayo de 2024 y lo publicado hasta el 10 de mayo de 2024 queda en la consulta histórica. Algunos despachos también publican sus estados en su micrositio, así que conviene saber dónde publica cada uno de sus despachos."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Notificación electrónica: cuándo empiezan a correr los términos",
+      "href": "https://blog.wabog.com/notificacion-electronica-terminos-acuse-de-recibo/"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cada cuánto revisar sus procesos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estados se publican en días hábiles y los términos empiezan a correr desde la notificación, así que la regla prudente es revisar cada día hábil. Una rutina que funciona:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Tenga una lista única de procesos con radicado, despacho, portal y próximo vencimiento.",
+        "Cada mañana, revise los estados y traslados de los despachos donde tiene procesos.",
+        "Luego revise las actuaciones nuevas en la CPNU, SAMAI o SIUGJ y descargue las providencias.",
+        "Registre el vencimiento de cada término en su calendario el mismo día.",
+        "Una vez por semana, revise los procesos sin movimiento: un proceso quieto mucho tiempo puede exponerse al desistimiento tácito."
+      ]
+    },
+    {
+      "type": "cta_pill",
+      "label": "Desistimiento tácito: plazos y cómo evitarlo",
+      "href": "https://blog.wabog.com/desistimiento-tacito/"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cuándo conviene automatizar el seguimiento de procesos judiciales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Con cinco procesos, la revisión manual toma unos minutos. Con 50, 100 o 300 repartidos entre la CPNU, SAMAI, SIUGJ y los estados de decenas de despachos, se vuelve una jornada diaria y aumenta el riesgo de que una notificación se pase. Ese es el punto en que firmas y casas de cobranza suelen pasar a un software de vigilancia judicial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según wabog.com, Wabog revisa todos los días, incluidos sábados y domingos, la Consulta de Procesos Nacional Unificada, Publicaciones Procesales, SAMAI y SIUGJ, y avisa por WhatsApp o por correo cuando un proceso tiene una actuación nueva, con un resumen del auto hecho con IA. Solo consulta información pública: no da acceso a expedientes reservados. Hay prueba gratis de 15 días."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Software de vigilancia judicial para el seguimiento de procesos",
+      "href": "https://wabog.com/vigilancia-judicial/"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Cómo hago seguimiento a un proceso judicial sin el radicado?",
+          "answer": "En la Consulta de Procesos Nacional Unificada puede buscar por nombre o razón social de una de las partes, y en SAMAI también por el nombre de una parte. Cuando encuentre el proceso, anote el radicado de 23 dígitos y úselo en adelante."
+        },
+        {
+          "question": "¿Por qué mi proceso no aparece en la Consulta de Procesos?",
+          "answer": "Puede ser un radicado con un dígito errado, un proceso de lo contencioso administrativo (se consulta en SAMAI), un despacho que ya trabaja en SIUGJ o una actuación que el despacho aún no ha registrado. La CPNU muestra lo que registra cada despacho."
+        },
+        {
+          "question": "¿La consulta de procesos reemplaza la notificación por estado?",
+          "answer": "No. La consulta sirve para conocer las actuaciones; los autos que no se notifican de otra forma se notifican por estado, según el artículo 295 del Código General del Proceso y el artículo 9 de la Ley 2213 de 2022. Revise los estados del día."
+        },
+        {
+          "question": "¿Cada cuánto debo revisar mis procesos?",
+          "answer": "Lo prudente es revisar los estados y las actuaciones cada día hábil, porque los términos corren desde la notificación. Si lleva muchos procesos, una herramienta de vigilancia puede hacer esa revisión diaria y avisarle solo cuando hay novedades."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/pregunta-cpnu",
+      "title": "Rama Judicial – Preguntas sobre la Consulta de Procesos Nacional Unificada"
+    },
+    {
+      "type": "embed",
+      "url": "https://consultaprocesos.ramajudicial.gov.co/Procesos/NumeroRadicacion",
+      "title": "Rama Judicial – Consulta de Procesos Nacional Unificada (búsqueda por radicación)"
+    },
+    {
+      "type": "embed",
+      "url": "https://sgc.umanizales.edu.co/documentos/PSO/CJG/CJG-INS-002%20INSTRUCTIVO%20DE%20CONSULTA%20DE%20PROCESOS%20EN%20LA%20RAMA%20JUDICIAL.pdf",
+      "title": "Universidad de Manizales – Instructivo de consulta de procesos en la Rama Judicial"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/consejo-seccional-de-la-judicatura-del-atlantico/justicia-xxi-web-tyba-",
+      "title": "Rama Judicial – Consejo Seccional del Atlántico: Justicia XXI Web (TYBA)"
+    },
+    {
+      "type": "embed",
+      "url": "https://portalhistorico.ramajudicial.gov.co/documents/36546477/44509183/GU%C3%8DA+PARA+CONSULTA+DE+PROCESOS+TYBA.pdf/fa3b30b0-7856-4888-813b-1c3bf4db3337",
+      "title": "Rama Judicial – Guía para consulta de procesos en TYBA"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/guest/historico-de-noticias/-/asset_publisher/tc8GIx9NJWBV/content/id/146041899",
+      "title": "Rama Judicial – El SIUGJ en todas las jurisdicciones y especialidades"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/utdi/sistema-de-gesti%C3%B3n-procesal-laboral",
+      "title": "Rama Judicial – UTDI: Sistema de Gestión Procesal Laboral (SIUGJ)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-005-laboral-de-bogota/80",
+      "title": "Rama Judicial – Juzgado 5 Laboral de Bogotá: consulta de procesos en SIUGJ"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/informacion-general/informes-para-acumulacion-procesal",
+      "title": "Rama Judicial – Nuevo portal de Publicaciones Procesales (desde el 14-05-2024) e información histórica"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-012-laboral-de-bogota/84",
+      "title": "Rama Judicial – Juzgado 12 Laboral de Bogotá: estados en el módulo de Publicaciones Procesales"
+    },
+    {
+      "type": "embed",
+      "url": "https://portalhistorico.ramajudicial.gov.co/documents/2210871/0/Circular-PCSJC19-7-Cumplimiento-del-C%C3%B3digo-%C3%9Anico-de-Radicaci%C3%B3n.pdf/36ff0668-5465-4660-a6fb-41500bc2784c",
+      "title": "Consejo Superior de la Judicatura – Circular PCSJC19-7, código único de radicación"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=187626",
+      "title": "Función Pública – Ley 2213 de 2022 (artículo 9, notificación por estado y traslados)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/pdf/ley_1564_2012_pr007.pdf",
+      "title": "Cancillería – Código General del Proceso, artículo 295 (notificaciones por estado)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2023/T-398-23.htm",
+      "title": "Corte Constitucional – Sentencia T-398 de 2023"
+    },
+    {
+      "type": "embed",
+      "url": "https://wabog.com/vigilancia-judicial/",
+      "title": "Wabog – Software de vigilancia judicial (consultado el 25-nov-2026)"
+    }
+  ]
+}
