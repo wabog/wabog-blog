@@ -1,0 +1,314 @@
+{
+  "slug": "vigilancia-judicial-administrativa",
+  "title": "Vigilancia judicial administrativa: qué es y cómo radicarla",
+  "date": "2026-11-27",
+  "tags": [
+    {
+      "slug": "vigilancia-judicial",
+      "name": "Vigilancia judicial"
+    }
+  ],
+  "excerpt": "Vigilancia judicial administrativa en Colombia: qué es, cuándo pedirla ante el Consejo Seccional, requisitos, cómo radicarla en línea y plazos del trámite.",
+  "coverImage": "/covers/vigilancia-judicial-administrativa.webp",
+  "readingTime": 7,
+  "author": "Wabog",
+  "blocks": [
+    {
+      "type": "tldr",
+      "text": "La vigilancia judicial administrativa es la solicitud que se presenta ante el Consejo Seccional de la Judicatura cuando un despacho no actúa a tiempo en un proceso concreto. La prevé el numeral 6 del artículo 101 de la Ley 270 de 1996 y la reglamenta el Acuerdo PSAA11-8716 de 2011. Se radica en línea en vigilancias.ramajudicial.gov.co con el radicado de 23 dígitos, el despacho y una relación breve de los hechos. Sirve para corregir la mora; no es una instancia, no cambia decisiones ni revive términos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La vigilancia judicial administrativa es la herramienta que tiene un abogado o una parte cuando un proceso lleva meses quieto: una demanda sin admitir, un memorial sin resolver o una sentencia que no llega. No se presenta ante el juez, sino ante el Consejo Seccional de la Judicatura del distrito, que verifica si el despacho está cumpliendo los términos. En esta guía explicamos qué es, cuándo conviene pedirla, cómo radicarla paso a paso y qué pasa después."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué es la vigilancia judicial administrativa"
+    },
+    {
+      "type": "paragraph",
+      "text": "El numeral 6 del artículo 101 de la Ley 270 de 1996, Estatutaria de la Administración de Justicia, les asigna a los Consejos Seccionales de la Judicatura la función de ejercer la vigilancia judicial para que la justicia se administre de manera oportuna y eficaz. El Consejo Superior de la Judicatura reglamentó esa función con el Acuerdo PSAA11-8716 del 6 de octubre de 2011, que sigue siendo la base de las decisiones de los Consejos Seccionales: resoluciones del Consejo Seccional del Huila de 2025, por ejemplo, fundan en él su competencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según ese acuerdo, como lo citan las resoluciones de los Consejos Seccionales, la vigilancia se ejerce de oficio o a petición de quien aduzca un interés legítimo, y recae sobre acciones u omisiones específicas en procesos determinados. Es decir, no sirve para quejarse en general de un juzgado: hay que señalar un proceso y una demora concreta."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Una actuación administrativa, no disciplinaria",
+      "text": "Los Consejos Seccionales han dicho que la vigilancia judicial administrativa es de naturaleza distinta a la acción disciplinaria (Resolución CSJATR17-607 del Consejo Seccional del Atlántico). Investigar faltas de jueces y empleados corresponde a la jurisdicción disciplinaria. La vigilancia mira si el despacho cumple los términos y, si encuentra mora sin justificación, puede compulsar copias a esa jurisdicción."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cuándo conviene pedir una vigilancia judicial"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vigilancia tiene sentido cuando el problema es el tiempo, no el contenido de una decisión. Algunos casos típicos:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "La demanda lleva meses sin auto que la admita, inadmita o rechace.",
+        "Un memorial, una solicitud de medidas cautelares o un recurso sigue sin resolverse después de vencido el término para hacerlo.",
+        "El proceso entró al despacho para sentencia y no hay fallo ni movimiento.",
+        "Una audiencia se aplazó y no se ha vuelto a programar."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "No es la vía si no está de acuerdo con lo que decidió el juez. La Circular PSAC10-53 del Consejo Superior de la Judicatura, citada por los Consejos Seccionales, precisa que la competencia apunta a un control de términos. Por eso la vigilancia no es otra instancia, no puede usarse para revivir términos y debe respetar la autonomía e independencia del juez: el Consejo Seccional no le dice cómo fallar."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Requisitos de la solicitud de vigilancia judicial administrativa"
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo 3 del Acuerdo PSAA11-8716 fija los requisitos. Según el texto que recogen el formato oficial y las decisiones de los Consejos Seccionales, la solicitud se dirige a la Presidencia del Consejo Seccional y debe incluir:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Nombre completo e identificación de quien la pide.",
+        "El despacho judicial donde ocurre la demora.",
+        "El número del proceso: el formato oficial pide el radicado.",
+        "Una relación breve de los hechos: qué actuación está pendiente y desde cuándo.",
+        "Las pruebas que tenga, por ejemplo la constancia de radicación del memorial o la consulta del proceso con la fecha de la última actuación."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si la solicitud no cumple el artículo 3, el Consejo Seccional le pide al solicitante que la aclare dentro de los cinco días siguientes, so pena de rechazo, según el formato de solicitud publicado por el Consejo Superior de la Judicatura. Un consejo práctico: describa la mora con fechas. «Radiqué el memorial el 3 de marzo y no hay auto» es más útil que «el juzgado no hace nada»."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo radicar una vigilancia judicial en línea, paso a paso"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Rama Judicial tiene un aplicativo para radicar y consultar las vigilancias: vigilancias.ramajudicial.gov.co. Según la ficha del trámite en la Ventanilla de servicios de la Rama Judicial y el manual de usuario ciudadano del aplicativo (versión del 27 de octubre de 2025), el proceso es este:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Entre a vigilancias.ramajudicial.gov.co y elija «Radicar solicitud». La otra opción, «Consultar», sirve para ver el estado de una vigilancia ya radicada.",
+        "Lea la información de interés y seleccione el Consejo Seccional al que va dirigida la vigilancia.",
+        "Elija el juzgado o despacho y escriba el número del proceso con sus 23 dígitos, sin puntos, guiones ni espacios.",
+        "Seleccione el hecho generador y escriba en la descripción un resumen de los hechos, con fechas.",
+        "Adjunte las pruebas que tenga y envíe la solicitud.",
+        "Guarde el número de radicado que asigna el sistema: con él consulta después el estado."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Según la Rama Judicial, el servicio en línea es gratuito. Algunos Consejos Seccionales todavía publican formatos en PDF o Word para enviar por correo o radicar en ventanilla; antes de usarlos, revise en la página de su seccional si siguen vigentes, porque el canal general ya es el aplicativo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué pasa después de radicar: plazos del trámite"
+    },
+    {
+      "type": "image",
+      "src": "/images/vigilancia-judicial-administrativa/tramite-vigilancia-judicial.webp",
+      "alt": "Línea de tiempo de la vigilancia judicial administrativa: 1. solicitud con radicado, despacho y hechos; 2. informe del despacho en 3 días hábiles; 3. apertura o archivo por auto motivado; 4. explicaciones en 3 días y proyecto de decisión en 5; 5. recurso de reposición.",
+      "caption": "Las etapas de la vigilancia judicial administrativa según el Acuerdo PSAA11-8716 de 2011, como lo aplican los Consejos Seccionales."
+    },
+    {
+      "type": "paragraph",
+      "text": "La solicitud se reparte a un magistrado del Consejo Seccional. Estas son las etapas, según el acuerdo y las resoluciones de los Consejos Seccionales que lo aplican:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Etapa",
+        "Qué ocurre",
+        "Plazo"
+      ],
+      "rows": [
+        [
+          "Recolección de información",
+          "El magistrado le pide al despacho los documentos y la información del caso; se entienden rendidos bajo la gravedad de juramento (art. 5)",
+          "El despacho responde en máximo 3 días hábiles"
+        ],
+        [
+          "Apertura o archivo",
+          "El Consejo verifica si hay mérito; si lo hay, abre el trámite con auto motivado; si no, archiva (art. 6)",
+          "—"
+        ],
+        [
+          "Explicaciones",
+          "Con la apertura, el funcionario explica la demora",
+          "3 días hábiles"
+        ],
+        [
+          "Proyecto de decisión",
+          "El magistrado lleva el proyecto a la Sala",
+          "5 días hábiles después de las explicaciones"
+        ],
+        [
+          "Recurso",
+          "Contra la decisión solo procede reposición",
+          "Dentro de los 10 días siguientes a la notificación, según las resoluciones de los Consejos Seccionales"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si el Consejo Seccional encuentra una irregularidad, decisiones del Consejo Seccional de Córdoba recuerdan que el funcionario requerido está obligado a normalizar la situación de deficiencia, es decir, a resolver lo que estaba pendiente. Y si la mora está justificada por las circunstancias del caso, no hay lugar a los correctivos, como lo ha reconocido el Consejo Seccional de Bolívar."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Qué consecuencias tiene para el despacho"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si el Consejo Seccional encuentra una mora injustificada, las resoluciones que aplican el acuerdo mencionan estas consecuencias:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Disminución de puntos en el factor de eficiencia o rendimiento de la calificación de servicios del funcionario.",
+        "La no postulación del servidor a estímulos y condecoraciones durante el periodo afectado.",
+        "Correctivos administrativos y, cuando corresponde, la compulsa de copias a la jurisdicción disciplinaria."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Para el abogado, el efecto práctico suele ser más simple: el proceso vuelve a moverse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Antes de pedir la vigilancia: demuestre la mora"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vigilancia se apoya en fechas, y esas fechas salen del historial del proceso. Antes de radicarla, revise en la Consulta de Procesos Nacional Unificada, en SAMAI o en SIUGJ cuál fue la última actuación registrada y descargue la consulta. Lo explicamos en la guía de seguimiento:"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Seguimiento de procesos judiciales: guía paso a paso",
+      "href": "https://blog.wabog.com/seguimiento-de-procesos-judiciales/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Detectar la mora a tiempo también evita el problema contrario: que un proceso quieto por inactividad de la parte termine en desistimiento tácito. Por eso las firmas con muchos procesos llevan un control diario de qué expedientes se movieron y cuáles no. Según wabog.com, Wabog revisa todos los días la Consulta de Procesos Nacional Unificada, Publicaciones Procesales, SAMAI y SIUGJ, avisa por WhatsApp o por correo cuando hay una actuación nueva y envía cada semana un informe con los procesos que se movieron y los que no. Ese informe es una forma rápida de ver qué procesos llevan semanas sin movimiento antes de pedir una vigilancia."
+    },
+    {
+      "type": "cta_pill",
+      "label": "Software de vigilancia judicial para abogados y firmas",
+      "href": "https://wabog.com/vigilancia-judicial/"
+    },
+    {
+      "type": "cta_pill",
+      "label": "Desistimiento tácito: plazos y cómo evitarlo",
+      "href": "https://blog.wabog.com/desistimiento-tacito/"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preguntas frecuentes"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "¿Qué es una vigilancia judicial administrativa?",
+          "answer": "Es una actuación del Consejo Seccional de la Judicatura para verificar que un despacho cumpla los términos en un proceso concreto. La prevé el numeral 6 del artículo 101 de la Ley 270 de 1996 y la reglamenta el Acuerdo PSAA11-8716 de 2011."
+        },
+        {
+          "question": "¿Dónde se radica una vigilancia judicial?",
+          "answer": "En línea, en vigilancias.ramajudicial.gov.co, opción «Radicar solicitud», eligiendo el Consejo Seccional del distrito donde está el despacho. Con el número de radicado que asigna el sistema se consulta después el estado."
+        },
+        {
+          "question": "¿Quién puede pedir una vigilancia judicial administrativa?",
+          "answer": "Quien aduzca un interés legítimo en el proceso, como las partes o sus apoderados. El Consejo Seccional también puede iniciarla de oficio."
+        },
+        {
+          "question": "¿La vigilancia judicial puede cambiar una decisión del juez?",
+          "answer": "No. No es una instancia ni un recurso: no revisa el fondo de las providencias, no revive términos y debe respetar la autonomía del juez. Solo controla que el despacho actúe a tiempo."
+        },
+        {
+          "question": "¿Cuánto cuesta radicar una vigilancia judicial?",
+          "answer": "Según la Rama Judicial, el trámite en línea es gratuito."
+        },
+        {
+          "question": "¿Qué recurso procede contra la decisión?",
+          "answer": "Solo el de reposición ante el mismo Consejo Seccional. Las resoluciones de los Consejos Seccionales indican que se presenta dentro de los 10 días siguientes a la notificación."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fuentes"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/consejo-seccional-de-la-judicatura-del-meta/funciones",
+      "title": "Rama Judicial – Consejo Seccional del Meta: artículo 101 de la Ley 270 de 1996, funciones de los Consejos Seccionales"
+    },
+    {
+      "type": "embed",
+      "url": "https://actosadministrativos.ramajudicial.gov.co/GetFile.ashx?url=~/App_Data/Upload/PSAA11-8716.pdf",
+      "title": "Consejo Superior de la Judicatura – Acuerdo PSAA11-8716 de 2011 (vigilancia judicial administrativa)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/web/ventanilla/servicios/-/asset_publisher/kzguQDYxYEvs/content/id/157267327",
+      "title": "Rama Judicial – Ventanilla de servicios: Vigilancia Judicial Administrativa"
+    },
+    {
+      "type": "embed",
+      "url": "https://vigilancias.ramajudicial.gov.co/assets/uploads/manual/UTDI_Vigilancia_ManualUsuario_Ciudadano_v27oct25.pdf",
+      "title": "Rama Judicial (UTDI) – Manual de usuario ciudadano del aplicativo de vigilancia judicial (27-oct-2025)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/documents/2292905/155821889/FORMATO+SOLICITUD+DE+VIGILANCIA+JUDICIAL.pdf/5db00d97-0765-6052-62b6-1e89a8c44d43?t=1717786932231",
+      "title": "Consejo Superior de la Judicatura – Formato de solicitud de vigilancia judicial"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/documents/2298212/11733178/Resolucion+CSJATR17-607.pdf/34ea7ea3-bb28-4d8c-b30c-9cae889fcec5",
+      "title": "Consejo Seccional del Atlántico – Resolución CSJATR17-607 (naturaleza distinta a la acción disciplinaria)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/documents/2315287/194188209/CSJHUR25-399.pdf/13edf659-4c17-3c8d-2a05-5ae38087e55e?t=1753903446003",
+      "title": "Consejo Seccional del Huila – Resolución CSJHUR25-399 de 2025 (consecuencias y recurso)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/documents/2315287/135790992/CSJHUR23-575.pdf/cace401a-f17e-16c1-e4f4-69f8d34df4db",
+      "title": "Consejo Seccional del Huila – Resolución CSJHUR23-575 (explicaciones y proyecto de decisión)"
+    },
+    {
+      "type": "embed",
+      "url": "https://portalhistorico.ramajudicial.gov.co/documents/2314606/157618094/Vig+452.pdf/0e8a622d-f0a3-4719-9faf-b42ecba58906",
+      "title": "Consejo Seccional de Córdoba – Decisión de vigilancia judicial (informe en 3 días hábiles, artículos 5 y 6)"
+    },
+    {
+      "type": "embed",
+      "url": "https://www.ramajudicial.gov.co/documents/2302321/147922172/CSJBOR24-127.pdf/32a9c108-2174-261a-599d-1277fc162f04",
+      "title": "Consejo Seccional de Bolívar – Resolución CSJBOR24-127 (mora justificada)"
+    },
+    {
+      "type": "embed",
+      "url": "https://wabog.com/vigilancia-judicial/",
+      "title": "Wabog – Software de vigilancia judicial (consultado el 27-nov-2026)"
+    }
+  ]
+}
